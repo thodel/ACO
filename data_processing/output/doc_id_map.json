@@ -1,0 +1,270 @@
+{
+  "generated_on": "2026-02-13T20:33:18+00:00",
+  "input_dir": "/Users/TH_1/Documents/Repo/ACO/data_processing/input-dir",
+  "docs": [
+    {
+      "filename": "01_CPal20.xml",
+      "stem": "01_CPal20",
+      "doc_id": "CPal20",
+      "order": 1
+    },
+    {
+      "filename": "02_CV18.xml",
+      "stem": "02_CV18",
+      "doc_id": "CV18",
+      "order": 2
+    },
+    {
+      "filename": "03_CV19.xml",
+      "stem": "03_CV19",
+      "doc_id": "CV19",
+      "order": 3
+    },
+    {
+      "filename": "04_CPal22.xml",
+      "stem": "04_CPal22",
+      "doc_id": "CPal22",
+      "order": 4
+    },
+    {
+      "filename": "05_CV1.xml",
+      "stem": "05_CV1",
+      "doc_id": "CV1",
+      "order": 5
+    },
+    {
+      "filename": "06_CPal21.xml",
+      "stem": "06_CPal21",
+      "doc_id": "CPal21",
+      "order": 6
+    },
+    {
+      "filename": "07_CVer3.xml",
+      "stem": "07_CVer3",
+      "doc_id": "CVer3",
+      "order": 7
+    },
+    {
+      "filename": "08a_CV22.xml",
+      "stem": "08a_CV22",
+      "doc_id": "CV22",
+      "order": 8
+    },
+    {
+      "filename": "09_CV20.xml",
+      "stem": "09_CV20",
+      "doc_id": "CV20",
+      "order": 9
+    },
+    {
+      "filename": "10_CV21.xml",
+      "stem": "10_CV21",
+      "doc_id": "CV21",
+      "order": 10
+    },
+    {
+      "filename": "11_CV16.xml",
+      "stem": "11_CV16",
+      "doc_id": "CV16",
+      "order": 11
+    },
+    {
+      "filename": "12_CV17.xml",
+      "stem": "12_CV17",
+      "doc_id": "CV17",
+      "order": 12
+    },
+    {
+      "filename": "13_CPal31.xml",
+      "stem": "13_CPal31",
+      "doc_id": "CPal31",
+      "order": 13
+    },
+    {
+      "filename": "14_CPal32.xml",
+      "stem": "14_CPal32",
+      "doc_id": "CPal32",
+      "order": 14
+    },
+    {
+      "filename": "15_CPal33.xml",
+      "stem": "15_CPal33",
+      "doc_id": "CPal33",
+      "order": 15
+    },
+    {
+      "filename": "16_CPal34.xml",
+      "stem": "16_CPal34",
+      "doc_id": "CPal34",
+      "order": 16
+    },
+    {
+      "filename": "17_CPal36.xml",
+      "stem": "17_CPal36",
+      "doc_id": "CPal36",
+      "order": 17
+    },
+    {
+      "filename": "18_CV2.xml",
+      "stem": "18_CV2",
+      "doc_id": "CV2",
+      "order": 18
+    },
+    {
+      "filename": "19_CV3.xml",
+      "stem": "19_CV3",
+      "doc_id": "CV3",
+      "order": 19
+    },
+    {
+      "filename": "20_CV143.xml",
+      "stem": "20_CV143",
+      "doc_id": "CV143",
+      "order": 20
+    },
+    {
+      "filename": "21_CPal35.xml",
+      "stem": "21_CPal35",
+      "doc_id": "CPal35",
+      "order": 21
+    },
+    {
+      "filename": "22_CVer4.xml",
+      "stem": "22_CVer4",
+      "doc_id": "CVer4",
+      "order": 22
+    },
+    {
+      "filename": "23_CV4.xml",
+      "stem": "23_CV4",
+      "doc_id": "CV4",
+      "order": 23
+    },
+    {
+      "filename": "24_CV5.xml",
+      "stem": "24_CV5",
+      "doc_id": "CV5",
+      "order": 24
+    },
+    {
+      "filename": "25_CV166.xml",
+      "stem": "25_CV166",
+      "doc_id": "CV166",
+      "order": 25
+    },
+    {
+      "filename": "26_CPal29.xml",
+      "stem": "26_CPal29",
+      "doc_id": "CPal29",
+      "order": 26
+    },
+    {
+      "filename": "27_CV144.xml",
+      "stem": "27_CV144",
+      "doc_id": "CV144",
+      "order": 27
+    },
+    {
+      "filename": "28_CU4.xml",
+      "stem": "28_CU4",
+      "doc_id": "CU4",
+      "order": 28
+    },
+    {
+      "filename": "29_CVer1.xml",
+      "stem": "29_CVer1",
+      "doc_id": "CVer1",
+      "order": 29
+    },
+    {
+      "filename": "30_CVer2.xml",
+      "stem": "30_CVer2",
+      "doc_id": "CVer2",
+      "order": 30
+    },
+    {
+      "filename": "31_CVer5.xml",
+      "stem": "31_CVer5",
+      "doc_id": "CVer5",
+      "order": 31
+    },
+    {
+      "filename": "32_CVer6.xml",
+      "stem": "32_CVer6",
+      "doc_id": "CVer6",
+      "order": 32
+    },
+    {
+      "filename": "33_CV13.xml",
+      "stem": "33_CV13",
+      "doc_id": "CV13",
+      "order": 33
+    },
+    {
+      "filename": "34_CV15.xml",
+      "stem": "34_CV15",
+      "doc_id": "CV15",
+      "order": 34
+    },
+    {
+      "filename": "35_CV14.xml",
+      "stem": "35_CV14",
+      "doc_id": "CV14",
+      "order": 35
+    },
+    {
+      "filename": "36_CV6.xml",
+      "stem": "36_CV6",
+      "doc_id": "CV6",
+      "order": 36
+    },
+    {
+      "filename": "37_CV24.xml",
+      "stem": "37_CV24",
+      "doc_id": "CV24",
+      "order": 37
+    },
+    {
+      "filename": "38_CV145.xml",
+      "stem": "38_CV145",
+      "doc_id": "CV145",
+      "order": 38
+    },
+    {
+      "filename": "39_CV7.xml",
+      "stem": "39_CV7",
+      "doc_id": "CV7",
+      "order": 39
+    },
+    {
+      "filename": "40_CV150.xml",
+      "stem": "40_CV150",
+      "doc_id": "CV150",
+      "order": 40
+    },
+    {
+      "filename": "41_CV149.xml",
+      "stem": "41_CV149",
+      "doc_id": "CV149",
+      "order": 41
+    },
+    {
+      "filename": "42_CV25.xml",
+      "stem": "42_CV25",
+      "doc_id": "CV25",
+      "order": 42
+    },
+    {
+      "filename": "43_CV8.xml",
+      "stem": "43_CV8",
+      "doc_id": "CV8",
+      "order": 43
+    },
+    {
+      "filename": "44_CV23.xml",
+      "stem": "44_CV23",
+      "doc_id": "CV23",
+      "order": 44
+    }
+  ]
+}
