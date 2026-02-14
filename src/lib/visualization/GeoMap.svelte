@@ -8,6 +8,16 @@
 	let mapEl: HTMLDivElement | null = null;
 	let mapInstance: any = null;
 
+	const slugify = (value: string) => {
+		if (!value) return '';
+		return value
+			.toLowerCase()
+			.normalize('NFD')
+			.replace(/[\u0300-\u036f]/g, '')
+			.replace(/[^a-z0-9]+/g, '-')
+			.replace(/(^-|-$)/g, '');
+	};
+
 	onMount(() => {
 		let destroyed = false;
 
@@ -41,12 +51,16 @@
 				},
 				onEachFeature: (feature: any, layer: any) => {
 					const p = feature?.properties || {};
+					const registerLink = p.label
+						? `<a href="${base}/register#place-${slugify(p.label)}">Registereintrag öffnen</a>`
+						: null;
 					const lines = [
 						`<strong>${p.label || ''}</strong>`,
 						p.pleiades_title ? `Pleiades: ${p.pleiades_title}` : null,
 						p.pleiades_uri
 							? `<a href="${p.pleiades_uri}" target="_blank" rel="noopener noreferrer">${p.pleiades_uri}</a>`
 							: null,
+						registerLink,
 						p.count ? `Mentions: ${p.count}` : null
 					].filter(Boolean);
 					layer.bindPopup(lines.join('<br/>'));

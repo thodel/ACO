@@ -7,6 +7,41 @@
 
 ---
 
+# new features (site integration)
+
+## Visualizations (embedded)
+The visualization suite has been integrated directly into the Svelte site (no standalone HTML pages).
+Access points:
+- `https://thodel.github.io/ACO/visualization` (overview)
+- `https://thodel.github.io/ACO/visualization/netzwerk` (network explorer)
+- `https://thodel.github.io/ACO/visualization/sankey` (Bible → Document Sankey)
+- `https://thodel.github.io/ACO/visualization/geo` (geo map)
+- `https://thodel.github.io/ACO/visualization/suche` (semantic search; disabled on GitHub Pages)
+
+The geo map is also available at:
+- `https://thodel.github.io/ACO/karte`
+
+## Bible index
+The Bible index is now live at:
+- `https://thodel.github.io/ACO/bibelstellen`
+
+It is generated from `data_processing/output/bible_refs.jsonl` and synchronized into
+`src/lib/data/aco-bible-refs.json` during `npm run build`.
+
+## Build-time sync (GitHub Pages)
+`npm run build` runs a prebuild step that syncs visualization data into:
+- `static/visualization/output/`
+
+This includes:
+- `data_processing/output/networks/*.json`
+- `data_processing/output/geo/places.geojson`
+- `data_processing/output/register.json`
+- `data_processing/output/corpus.jsonl`
+
+The site is deployed via GitHub Actions (static adapter + `BASE_PATH` for GitHub Pages).
+
+---
+
 
 # sv
 

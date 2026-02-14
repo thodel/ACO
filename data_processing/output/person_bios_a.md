@@ -1,0 +1,117 @@
+# Personen mit "a" – Kurzbiografien
+Erstellt: 2026-02-14T16:02:40+00:00
+
+- **Aaron** — Abt von St. Martin in Köln; De utilitate cantus vocalis; De modo psallendi; etc. Im ACO-Text erwähnt in CV149: “„Und niemand erwirbt die Ehre durch sich selbst, sondern indem er von Gott berufen wird, wie auch Aaron.”
+- **Abraham** — Student in Wittenberg und 1643 in Jena; philosophischer Dozent in Leipzig Im ACO-Text erwähnt in CV1: “‚nahm er die Nachkom­ menschaft Abrahams an sich‘ und ist … geworden] Vgl.”
+- **Adam** — Beruf: Schauspielerin Im ACO-Text erwähnt in CV1: “‚Denn wie‘ wir ‚alle in Adam sterben, so werden‘ wir ‚auch in Christus alle lebendig gemacht werden.”
+- **Alexander I. von Alexandria** — Im ACO-Text erwähnt in CV1: “Alexander I.”
+- **Akakios von Beroia** — Bischof von Beroea, dem heutigen Aleppo, ab 378 Im ACO-Text erwähnt in CV14: “11]) reagiert und der mehrere Monate vor dem hier kommentierten Dokument verfasst wurde, gibt Akakios von Beroia dem Adressaten zu verstehen, dass Johannes, dem er den Brief des Alexandriners vorgelegt hatte, ihn dazu…”
+- **Ambrosius von Mailand** — Heiliger, Bischof von Mailand, Kirchenvater, lat. Kirchenlehrer; Roman theologian and Bishop of Milan (c. 340–397) Im ACO-Text erwähnt in CV143: “Antiochos, Eustathius, Methodios, Optimus, Leporius, Ambrosius von Mailand, von der gesamten Synode in Afrika, den Bischöfen Johannes] Vgl.”
+- **Ammon von Hadrianopolis** — Im ACO-Text erwähnt in CV150: “CV150,14 [Worte] des Bischofs Ammon von Hadrianopolis.”
+- **Amphilochios von Ikonion** — Bischof von Ikonion u. Metropolit von Lykaonien Im ACO-Text erwähnt in CV150: “CV150,13 Aus der Schrift ‚Über die auf das Fleisch bezogene Geburt‘ des Bischofs Amphilochios von Ikonion (13) Die Wahrheit wurde erkannt, die Gnade kam und das Leben wurde sichtbar.”
+- **Anastasios (Presbyter in Konstantinopel)** — Beruf: Jurist; former Primate of Orthodox Autocephalous Church of Albania, Member of Academy of Athens, President of World Council of Churches, Honorary President of Religions for Peace Im ACO-Text erwähnt in CV22.
+- **Äneas (Apg 9,34)** — Beruf: Musiker; Trojan hero, son of Anchises and Aphrodite Im ACO-Text erwähnt in CV7.
+- **Antiochos von Ptolemais** — Im ACO-Text erwähnt in CV150: “CV150,12 [Worte] des Bischofs Antiochos] Antiochos von Ptolemais, gest.”
+- **Antiochus (praefectus praetorio Orientis)** — ACO 1.17,71: Epistula ad Nestorium; Roman consul Im ACO-Text erwähnt in CVer2.
+- **Antiochus (praefectus praetorio Illyriens)** — ACO 1.17,71: Epistula ad Nestorium; Roman consul Im ACO-Text erwähnt in CVer2.
+- **Apolinarios von Laodikea** — Im ACO-Text erwähnt in CV17: “Welchen … einzuführen] Apolinarios von Laodikea, der einen extremen Monophysitismus ver­trat, in welchem eine menschliche Seele innerhalb des geeinten Christus anschei”
+- **Apollos** — Bibl. Person; alexandrin. Jude, urkirchl. Missionar in Ephesos und Korinth; early Christian proselytizer from Alexandria Im ACO-Text erwähnt in CV150: “‘ ‚Ich aber zu Apollos.”
+- **Apringios von Chalkis** — Im ACO-Text erwähnt in CV14.
+- **Archelaos von Myndos** — Im ACO-Text erwähnt in CV14.
+- **Arius** — Frühchristl. Häretiker; genus of fishes Im ACO-Text erwähnt in CV5: “k irrender, den Hellenen entsprechender Denkweise oder einer, die an der Krankheit des geistesgestörten Apolinarios und Arius und der übrigen Hä­ resien leidet, eher aber etwas noch Schwerwiegenderes als jene Dinge.”
+- **Athanasius von Alexandria** — Beruf: Patriarch, Bischof, Kirchenschriftsteller, Kirchenlehrer; Lebensdaten: 0295–0373; Pope of Alexandria from 328 to 373 (296–373) Im ACO-Text erwähnt in CV16: “Ich stoße nämlich in Schriften darauf, dass auch der … Athanasius] Athanasius von Alexandria (sed.”
+- **Attikos von Konstantinopel** — Patriarch von Konstantinopel seit 406 Im ACO-Text erwähnt in CV16: “da ist Gregor und … Attikos] Attikos von Konstantinopel (sed.”
+- **Augustus** — Niederländ. Historiker u. Archivar Im ACO-Text erwähnt in CV18: “den unter Kaiser Augustus von Maria, der Jungfrau, geboren.”
+- **Aurelius von Karthago** — Bischof in Karthago; Bishop of Carthage Im ACO-Text erwähnt in CPal36: “Bischof Aurelius von Karthago (sed.”
+- **Barnabas** — einer der erweiterten 72 Jünger (Apostel) des Herrn. Sein eigentlicher Name war Joses von Cypern aus dem Stamm Levi, also ein Levit. Barnabas hatte den Aposteln Paulus zugeführt und wurde mit der Leitung der Kirche in Antiochien beauftragt. Führer der christlichen Gemeinde von Antiochien; angeblicher Verfasser des Barnabasbriefes Im ACO-Text erwähnt in CV166: “es sollte wohl niemand meinen, man sage, dass derjenige, der sich wie wir als Mensch zeigt – wie zum Beispiel eventuell Barnabas … Paulus] Die hier ohne weitere Erläuterungen im Verbund genannten Barnabas und Paulus w…”
+- **Baruch** — Beruf: Wirtschaftswissenschaftler, Hochschullehrer; Lebensdaten: 1956–— Im ACO-Text erwähnt in CV166: “Und doch verweist der Göttliches kündende Baruch auf den Logos Gottes, der schon Mensch geworden und in uns entsprechender Gestalt erschienen ist, und sagt: Das … zusam”
+- **Basilius von Caesarea** — Griech. Kirchenlehrer, seit 370 Erzbischof von Caesarea u. Metropolit von Kappadokien; 4th-century Christian bishop, theologian, and saint (329–379) Im ACO-Text erwähnt in CV16: “unser seliger Vater Theophilos und viele andere unter den Heiligen, die zu ihrer Zeit Bischöfe waren; da ‌1 … Basilius] Basilius von Caesarea (sed.”
+- **Basilius von Konstantinopel (Diakon)** — Im ACO-Text erwähnt in CV143.
+- **Benjamin** — Colorist Im ACO-Text erwähnt in CV7: “Daher schreibt der Göttliches kündende Paulus, der ‌2 … Benjamin] Vgl.”
+- **Buphas Martyrios (Diakon)** — Im ACO-Text erwähnt in CV22.
+- **Caelestius (Pelagianer)** — Adressat eines Briefes des Nestorius (PL 48,181-184,845-848); Frühchristl. Häretiker, Schüler u. Freund des Pelagius; Christian theologian Im ACO-Text erwähnt in CU4.
+- **Chairemon (Ankläger Kyrills)** — FGrH 618; Stoischer Philosoph u. ägypt. Priester; Stoic philosopher, historian, and grammarian Im ACO-Text erwähnt in CV22.
+- **Coelestin I. (Papst)** — Papst seit 422 u. Heiliger; pope Im ACO-Text erwähnt in CV2.
+- **David** — Jewish-Indian Hindi-language film actor Im ACO-Text erwähnt in CV1: “„Den Herrn, deinen Gott sollst du verehren und ihm allein dienen!“, und ebenso Gott durch die Stimme Davids zu den Israeliten spricht: Es … Gott] Ps 80(81),10.”
+- **Dorotheos von Markianopolis** — Beruf: Bischof Im ACO-Text erwähnt in CV16.
+- **Elija** — Beruf: Prophet; Biblical prophet Im ACO-Text erwähnt in CV166: ““ Über Elisabeth aber, dass sie einen Sohn gebären wird, der vorangehen … Elija] Vgl.”
+- **Elisabeth** — Beruf: Psychologin; Lebensdaten: 1936–2014 Im ACO-Text erwähnt in CV1: “Und niemand behauptete wohl, sagen wir einmal, Elisabeth … Seelengebärerin] Vgl.”
+- **Ephraim, der Syrer** — Beruf: Kirchenschriftsteller; Lebensdaten: 0306–0373; Canadian and American architect (1929–2025) Im ACO-Text erwähnt in CV143.
+- **Eustathius von Antiochia** — Bischof von Beroia, seit 323/324 Patriarch von Antiochia Im ACO-Text erwähnt in CV18.
+- **Eva** — Beruf: Musikerin Im ACO-Text erwähnt in CV166: “‚Der Gott dieses Zeitalters verdunkelt nämlich die Gedanken der ungläubigen‘ Häretiker, ‚auf dass das Licht des Evangeliums der Herrlichkeit Christi nicht aufleuchte‘, und sie sind auf verschiedene Weise in die Irre g…”
+- **Fabius (westlicher Bischof)** — Cpg 1550: Adressat eines Briefs des Dionysius <Alexandrinus> (PG 10,1296-1312); Italian actor Im ACO-Text erwähnt in CVer3.
+- **Flavian („Betrüger“; Ankläger Kyrills)** — seit 1957 bei den Kapuzinern in Stühlingen; 1963 Priesterweihe; Italian cyclist (1942–2002) Im ACO-Text erwähnt in CV22.
+- **Flavian von Philippi** — Im ACO-Text erwähnt in CVer1: “Flavian von Philippi.”
+- **Florus (Italienischer Bischof)** — Person der Antike . Der Datensatz wurde von PAN für den Verfasser der Carmina vorgesehen, die nur unter dem Cognomen "Florus" überliefert sind. Sehr wahrscheinlich stammen aber alle unter dem Cognomen "Florus" überlieferten Werke von ein und demselben Verfasser, dessen Name Lucius (Iulius o. Publius)(Iulius o. Publius) Annaeus (o. Annius)(o. Annius) Florus lautete. TITAN setzt deshalb alle Werke unter "Lucius Annaeus Florus" an u. verweist bei den "Carmina" von "Florus". Vgl. Datensatz "Florus, Lucius Annaeus" Im ACO-Text erwähnt in CVer3.
+- **Gabriel** — Beruf: Musiker Im ACO-Text erwähnt in CV7: “ohn erkannt, außer dem Vater‘, offenbart den von Natur aus und in Wahrheit aus dem Vater [gezeugten] Sohn, aber die von Gabriel gesprochenen Worte: Fürchte … geben] Lk 1,30f.”
+- **Gregor von Nazianz** — Griechischer Kirchenlehrer, seit 372 Bischof von Sasima in Kappadokien; nach 374 vorübergehend Administrator des Bistums Nazianz; Christian saint and theologian (c. 329 – 390) Im ACO-Text erwähnt in CV16: “da ist Basilius, da ‌2 … Gregor] Sowohl bei Gregor von Nyssa, dem Bruder des zuvor erwähnten Basilius, als auch bei Gregor von Nazianz, der von 379–381 Patriarch von Konstantinopel war und als enger Freund der beiden…”
+- **Gregor von Neocaesarea** — Im ACO-Text erwähnt in CV143.
+- **Gregor von Nyssa** — Griech. Kirchenvater, seit 371/72 Bischof von Nyssa in Kappadokien, um 380 kurzzeitig Metropolit von Sebaste; bishop of Nyssa Im ACO-Text erwähnt in CV16: “da ist Basilius, da ‌2 … Gregor] Sowohl bei Gregor von Nyssa, dem Bruder des zuvor erwähnten Basilius, als auch bei Gregor von Nazianz, der von 379–381 Patriarch von Konstantinopel”
+- **Habakuk** — alttestamentlicher Prophet; biblical prophet associated to the Book of Habakkuk Im ACO-Text erwähnt in CV1: “‚im Geist geheiligt‘ sind, mit einem solchen Beinamen geehrt sind? Und freilich kündigte der Prophet Habakuk das in Christus liegende Geheimnis und die Errettung durch ihn lauthals an, als er sagte: Du … retten] Hab 3…”
+- **Heliades von Zeugma** — Im ACO-Text erwähnt in CV14.
+- **Herodes Antipas** — Tetrarch von Galiläa und Peräa; nach Gallien verbannt; 1st century AD tetrarch of Galilee and Perea Im ACO-Text erwähnt in CPal35: “Herodes Antipas.”
+- **Hiskija** — King of Judah Im ACO-Text erwähnt in CV7: “43]), eine Hiskija-Episode ein (vgl.”
+- **Irenaeus von Tyros (comes)** — Epistula ad  episcopos orientales; comes (5th century) Im ACO-Text erwähnt in CV14.
+- **Irenaeus von Lyon** — Aus Kleinasien stammender Kirchenvater u. seit ca. 177/178 Bischof von Lyon; 2nd-century Greek bishop and Doctor of the Church Im ACO-Text erwähnt in CV.
+- **Isaak** — Siegelschneider und Medailleur in München Im ACO-Text erwähnt in CV150: “Viele heilige Propheten sind doch zuvor schon gestorben: jener Abraham, der berühmte, Isaak, Jakob, Mose, Samuel und die nachfolgend geborenen Heiligen.”
+- **Isai** — Lyriker; son of Obed, belonging to the tribe of Judah; father of David Im ACO-Text erwähnt in CV7: “n zu bleiben, was den heiligen Schriften richtig erscheint, und den Lehren der Väter folgen, glauben wir, dass der ‌2 … Isais] Vgl.”
+- **Jakob** — Beruf: Bildhauer, Tischler; Lebensdaten: 1585–[1655/60] Im ACO-Text erwähnt in CV5: “Vernimm auch, wenn’s beliebt, ein anderes Zeugnis: Jakob … wurde] Mt 1,16.”
+- **Jakobus** — Beruf: Biologin Im ACO-Text erwähnt in CV143: “„Du bist der Christus, der Sohn des lebendigen Gottes“, von … Erzbischof] Der Umstand, dass der angeführte Jakobus hier nicht nur als „Apostel“, sondern auch als „Erzbischof“ tituliert wird, deutet darauf hin, dass mi…”
+- **Jeremia** — male given name Im ACO-Text erwähnt in CV1: “Jeremia … geheiligt] Vgl.”
+- **Jesaja** — Lebensdaten: -0766–-0686 Im ACO-Text erwähnt in CV1: “elt, mit ihnen in der überirdischen Bleibe weilen und die Zelte im Himmel bewohnen, an die auch der Göttliches kündende Jesaja denkt, wenn er sagt: Deine … werden] Jes 33,20.”
+- **Johannes (Evangelist)** — imperiali auctoritate notarius; Swiss botanist (1828–1896) Im ACO-Text erwähnt in CV1.
+- **Johannes Chrysostomos** — Archimandrit, Dr. theol., Universitätsdozent; Salzburg (Wirkungsort); Dt. Theologe u. Pater; Church Father, Archbishop of Constantinople and Christian saint (c. 347–407) Im ACO-Text erwähnt in CV22: ““ CV22,5 (5) Inwiefern haben denn seine Vorgänger keine Muße gehabt? Ist er etwa eloquen­ ter als Johannes] Johannes Chrysostomos, Erzbischof von Konstantinopel (sed.”
+- **Johannes von Antiochia** — Lebensdaten: —–0442; patriarch of Antioch, c. 428–441 Im ACO-Text erwähnt in CV13: “5pt;font-weight:bold; ‌CV13T CV13T Dokument 33, Kyrills Brief an Johannes von Antiochia Edition: Collectio Vaticana 13, ACO I,1,1 S.”
+- **Johannes (der Täufer)** — Beruf: Notar; 1st-century Jewish itinerant preacher (Bible) Im ACO-Text erwähnt in CV1.
+- **Joschija** — King of Judah Im ACO-Text erwähnt in CV7: “Ein solcher war jener Joschija, der, indem … machte] Vgl.”
+- **Judas** — Beruf: Orientalist Im ACO-Text erwähnt in CV150: “CV150,94 Aus dem Brief des Judas (94) Da … leugnen] Jud 3f.”
+- **Julian von Eclanum** — Werke waren früher z.T. Pseudo-  Rufinus, z.T. Theodorus <Mopsuestenus> zugeschrieben; Pelagianischer Theologe u. Bischof von Aeclanum bis 418; Italian bishop Im ACO-Text erwähnt in CVer3: “Fassungen: – Inhalt: Nestorius fragt bei Coelestin nach, inwieweit es sich bei der Lehre des Julian von Eclanum und seines Kreises um eine Häresie handele.”
+- **Juvenal von Jerusalem** — Epistula ad Caelestinum; Epistula ad presbyteros et archimandritas Palaestinenses; bishop of Jerusalem Im ACO-Text erwähnt in CV13: “geschrieben habe, und nahm … davon] καὶ τοσοῦτον ἀπέσχε : Die nämliche Junktur verwendet Kyrill auch in seinem Brief an Juvenal von Jerusalem, um die Reaktion des Nestorius auf seine Bemühungen zu beschreiben (vgl.”
+- **Kambyses** — Der fünfte König aus der altpers. Dynastie der Achämeniden (reg. 600 v. Chr. bis 559 v. Chr.); Wikimedia disambiguation page Im ACO-Text erwähnt in CV166: “Kyros, der Sohn des Kambyses, fiel nämlich seinerzeit in das Land der Babylonier ein.”
+- **Kefas (s. auch Petrus)** — Beruf: Apostel, Papst; Nigerian politician Im ACO-Text erwähnt in CV7.
+- **Laban** — Beruf: Jurist, Rechtsanwalt; village in Gresik Regency, East Java, Indonesia Im ACO-Text erwähnt in CV166: “hes kündende Jakob nämlich vom Herd des Vaters fortzog, drängte es ihn in das Land zwischen den Flüssen, und er ging zu Laban, dem Sohn des Betuël.”
+- **Lampon (Presbyter)** — Cpg 5730: Adressat der  Epistula 70 des Cyrillus <Alexandrinus>; genus of insects Im ACO-Text erwähnt in CV3.
+- **Lazarus** — Beruf: Musiker, Sänger, Tenor <Sänger> Im ACO-Text erwähnt in CV149: “als er beispielsweise fragte, wohin Lazarus gelegt worden sei, als ob es ihm möglich wäre, nach Maßgabe des Menschlichen nicht zu wissen, erweckte er [ihn] auf göt”
+- **Livania (Witwe)** — Byzantine actor Im ACO-Text erwähnt in CPal36.
+- **Lukas** — Beruf: Komponist, Musiker; Lebensdaten: 1972-12-23–— Im ACO-Text erwähnt in CV7: “„Ehre sei Gott in den Höhen, Friede auf Erden, Wohlgefallen] εὐδοκία : bei Lukas εὐδοκίας .”
+- **Makarios von Laodikea** — Im ACO-Text erwähnt in CV14.
+- **Markellos von Ankyra** — Bischof von Ankyra Im ACO-Text erwähnt in CV7: “Eine Lehre eines hypostaselosen Logos wird dem ebenfalls genannten Markellos von Ankyra beispielsweise schon von Eusebius ( Contra Marcell.”
+- **Matthäus** — Dt. ev. Theologe; ab 1609 Student in Erfurt, 1613 Magister ebd.; 1615 in Erfurt ordiniert; 1615-1636 Pastor in Andisleben Im ACO-Text erwähnt in CV150: “Im Matthäusevangelium heißt es in diesem Vers jedoch eigentlich: μηδὲ κληθῆτε καθηγηταί (lasst euch nicht Unterweiser nennen).”
+- **Meletios von Mopsuestia** — Im ACO-Text erwähnt in CV14.
+- **Mercator (Marius)** — family name Im ACO-Text erwähnt in CPal36.
+- **Nathanael** — Dt. ev. Theologe; 1571 Student in Jena; 1572 ordiniert und Diakon in Meiningen, 1574 Archidiakon; 1576 Pastor in Schwarza, 1581 in Belrieth und 1593 in Sülzfeld Im ACO-Text erwähnt in CV7: “So sprach Nathanael, als er ihn erkannte: Rabbi … Israels] Joh 1,49.”
+- **Noah** — Beruf: Tennisspieler, Sänger, Musiker; Lebensdaten: 1960-05-18–— Im ACO-Text erwähnt in CPal34: “ein Aufgehen der ganzen Welt in Flammen wie in Sodom oder erwarteten eine … Noahs] Vgl.”
+- **Orontius (Italienischer Bischof)** — Beruf: Bischof; Lebensdaten: 0022–0068; French mathematician and cartographer (*1494 – †1555) Im ACO-Text erwähnt in CVer3.
+- **Paulinus von Antiochia** — erster Bischof von Lucca, erlitt das Martyrium unter Kaiser Nero; first Bishop of Lucca Im ACO-Text erwähnt in CV17: “machen, diese Dinge zu denken und zu formu­ lieren, sagen aber, dass sie etwas Ähnliches erfahren, was der … Paulinus] Paulinus von Antiochia (sed.”
+- **Paulinus von Mailand** — De benedictionibus patriarcharum; Kleriker u. Sekretär des Ambrosius von Mailand, später Diakon u. Verwalter mailänd. Kirchenguts in Nordafrika; Roman hagiographer and writer Im ACO-Text erwähnt in CPal36: “Paulinus von Mailand.”
+- **Paulus (Apostel)** — Aphrodisiakisches Rezeptar; Early Christian apostle and missionary (c. AD 5 – c. 64/65) Im ACO-Text erwähnt in CV1.
+- **Paulus von Samosata** — Griech. Kirchenschriftsteller u. Bischof von Antiochien; Patriarch of Antioch Im ACO-Text erwähnt in CV18: “18–20 Inhalt: Der Verfasser des Schreibens stellt Aussagen des Nestorius Äußerungen des als Häretiker verurteilten Paulus von Samosata gegenüber und kommt dabei zu dem Schluss, dass zwischen diesen inhaltliche Überein…”
+- **Pelagius** — first king of Asturias Im ACO-Text erwähnt in CVer2: “Für etliche Zeit unseres Lebens herrschte nach der gottlosen und oft verurteilten Lehre des Pelagius und Caelestius Ruhe in Bezug auf den katholischen Glauben, nach­ dem der Westen und der Osten diese zusammen mit den An”
+- **Petrus (s. auch Kefas)** — Beruf: Notar; anniversary Im ACO-Text erwähnt in CV1.
+- **Philippus (Apostel)** — Beruf: Notar; Dutch engraver and publisher (1537–1612) Im ACO-Text erwähnt in CV7.
+- **Pontius Pilatus** — Röm. Präfekt von Judäa 26/27-36/37; fifth Prefect of the Roman province of Judaea, from AD 26–36 Im ACO-Text erwähnt in CV18: “, den, der um unseretwillen gekommen ist und geboren wurde von Maria, der heiligen Jungfrau, und gekreuzigt wurde unter Pontius Pilatus, und so weiter im Bekenntnis.”
+- **Poseidonios (Diakon Kyrills)** — ancient sculptor and engraver Im ACO-Text erwähnt in CV13.
+- **Praylios von Jerusalem** — Im ACO-Text erwähnt in CPal36.
+- **Pulcheria (Aelia)** — Lebensdaten: 0399–0453; species of insect Im ACO-Text erwähnt in CV8.
+- **Rabschake** — Assyrian Officer Im ACO-Text erwähnt in CV7: “CV7,3 (3) Ein Mann unter denen, die aus dem persischen Babylon stammen Rabschake … es] Kyrill rezipiert die Rabschake-Episode im Vergleich mit anderen Au­to­ren weit überdurchschnittlich häufig; (der)”
+- **Rufus von Thessaloniki** — Im ACO-Text erwähnt in CVer1: “Rufus von Thessaloniki.”
+- **Salomon** — Erster namentlich erwähnte Jude in Österreich, 1194 im Formbacher Traditionskodex erwähnt; Münzmeister in Krems; Hausbesitzer in Wien Im ACO-Text erwähnt in CV1: “gut geebneten Fahrweg links liegen lassen, über Gräben und Steine und, wie Salomon sagt, haben … Händen] Vgl.”
+- **Samuel** — zeichnete für L'Esprit Follet, Le Monde Comique (1872), L'Éclipse (1872-1879) Im ACO-Text erwähnt in CV1: “Und auch der Göttliches kündende David nennt den von Gott durch die Hände Samuels zum König gesalbten Saul Christus des Herrn.”
+- **Saul** — Dissertation, Friedrich-Schiller-Universität Jena, 2005 Im ACO-Text erwähnt in CV166: “(‚mein erstgeborener Sohn‘, heißt es ja, ‚Israel‘) und wie wir Saul Christus nennen dass … ist] Vgl.”
+- **Severian von Gabala** — Lebensdaten: —–0408; bishop of Gabala Im ACO-Text erwähnt in CV150: “CV150,16 [Worte] des … Severian] Gemeint ist wohl Severian von Gabala (ca.”
+- **Simon Bar Jona** — Schles. Komponist, geb. in Oppeln, der in Böhmen wirkte, gest. in Pilsen; apostle of Jesus Christ Im ACO-Text erwähnt in CV150: “‘ Jesus aber antwortete und sagte ihm: ‚Selig bist du, Simon Bar Jona, weil nicht Fleisch und Blut es dir offenbart haben, sondern mein Vater in den Him­ meln.”
+- **Sisinnius von Konstantinopel** — Im ACO-Text erwähnt in CVer2.
+- **Sophronas (Ankläger Kyrills)** — Im ACO-Text erwähnt in CV22.
+- **Stephanus** — General des Kartäuserordens Im ACO-Text erwähnt in CVer5: “CVer5,18 (18) Vorbild für Geduld und Standhaftigkeit sei euch Stephanus] Zu ihm s.”
+- **Teman** — Beruf: Psychologin, Freimaurerin; Lebensdaten: 1980–—; country in West Asia Im ACO-Text erwähnt in CV166: “„Gott wird von Teman kommen und der Heilige vom dichten schattigen Berg.”
+- **Thalassius (Vorleser/Mönch)** — bishop of Caesarea (7th century) Im ACO-Text erwähnt in CV143.
+- **Theodor von Mopsuestia** — griech. Kirchenschriftsteller, seit 392 Bischof von Mopsuestia in Kilikien; christian theologian Im ACO-Text erwähnt in CV14: “Du erinnerst dich doch sicherlich an den seli­ gen Theodor] Gemeint ist Theodor von Mopsuestia.”
+- **Theodotos von Antiochia** — Im ACO-Text erwähnt in CPal36.
+- **Theophilos von Alexandria** — Patriarch von Alexandria; Patriarch of Alexandria from 384 to 412 Im ACO-Text erwähnt in CV16.
+- **Thomas** — Beruf: Musiker Im ACO-Text erwähnt in CV7: “Schließlich ruft Thomas aus: Mein … Gott] Joh 20,28.”
+- **Valentinianus** — Epistula; ancient Roman cognomen Im ACO-Text erwähnt in CV8: “199–201 ‌CV8 CV8,1 (1) Die Selbstherrscher Kaiser Theodosius und Valentinianus, die siegreichen Triumphatoren, überaus erhabenen und stets sehr frommen Augusti, an den Bischof Kyrill.”
+- **Valerius (cubicularius)** — Defendent an der Univ. Lausanne; "H. Albonensis"; ancient Roman nomen Im ACO-Text erwähnt in CVer4.
+- **Viktor (Ankläger Kyrills)** — Beruf: Kameramann; Lebensdaten: 1927–—; highest military decoration awarded by the UK and the Commonwealth Im ACO-Text erwähnt in CV22.
+- **Vitalius von Antiochia** — Im ACO-Text erwähnt in CV150: “CV150,17 Aus der Schrift Über … Glaubens] Die zitierte Schrift wurde von Vitalius von Antiochia, der im Ruf stand, den Lehren des Apolinarios von Laodikea anzuhängen, vermutlich angefertigt, um in Rom seine Orthodox”
+- **Zacharias** — Beruf: Kaufmann Im ACO-Text erwähnt in CV150: “CV150,121 Aus dem Evangelium nach Lukas (121) Ein Engel Gottes sagt zu Zacharias über den heiligen Täufer: Und … bekehren] Lk 1,14–16.”
+- **Zosimus (Papst)** — Epistulae; Papst seit 417; species of crustacean Im ACO-Text erwähnt in CPal36.
