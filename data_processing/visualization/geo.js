@@ -1,11 +1,27 @@
+const MAPTILER_KEY = 'AXfrx6xl1U1XTKUy3LjI';
+
 const map = L.map('map', {
   preferCanvas: true,
 }).setView([39.0, 35.0], 4);
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  maxZoom: 12,
-  attribution: '&copy; OpenStreetMap contributors'
-}).addTo(map);
+if (MAPTILER_KEY) {
+  L.tileLayer(
+    `https://api.maptiler.com/tiles/hillshade/{z}/{x}/{y}.png?key=${MAPTILER_KEY}`,
+    {
+      maxZoom: 12,
+      minZoom: 1,
+      attribution:
+        '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> ' +
+        '<a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>',
+      crossOrigin: true
+    }
+  ).addTo(map);
+} else {
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 12,
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+}
 
 async function loadGeo() {
   const url = './output/geo/places.geojson';

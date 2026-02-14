@@ -45,7 +45,7 @@ body {
 .legend {
   position: absolute;
   right: 16px;
-  top: 70px;
+  bottom: 16px;
   background: rgba(18, 21, 28, 0.9);
   border: 1px solid #2a3140;
   padding: 8px 10px;

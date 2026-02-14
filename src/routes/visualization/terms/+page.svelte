@@ -163,7 +163,7 @@
 				<!-- x labels -->
 				{#each visibleYears as year, idx}
 					<text
-						x={xPos(year, idx, visibleYears().length)}
+						x={xPos(year, idx, visibleYears.length)}
 						y={margin.top + innerH + 22}
 						class="axis-text"
 						text-anchor="middle"

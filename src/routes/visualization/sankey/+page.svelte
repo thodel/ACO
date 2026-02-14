@@ -32,14 +32,98 @@
 				'1Thess','2Thess','1Tim','2Tim','Titus','Phlm','Heb','Jas','1Pet','2Pet',
 				'1John','2John','3John','Jude','Rev'
 			]);
+			const BOOK_LABELS: Record<string, string> = {
+				Gen: 'Genesis',
+				Exod: 'Exodus',
+				Lev: 'Levitikus',
+				Num: 'Numeri',
+				Deut: 'Deuteronomium',
+				Josh: 'Josua',
+				Judg: 'Richter',
+				Ruth: 'Rut',
+				'1Sam': '1 Samuel',
+				'2Sam': '2 Samuel',
+				'1Kgs': '1 Könige',
+				'2Kgs': '2 Könige',
+				'1Chr': '1 Chronik',
+				'2Chr': '2 Chronik',
+				Ezra: 'Esra',
+				Neh: 'Nehemia',
+				Esth: 'Ester',
+				Job: 'Hiob',
+				Ps: 'Psalmen',
+				Prov: 'Sprüche',
+				Eccl: 'Prediger',
+				Song: 'Hoheslied',
+				Isa: 'Jesaja',
+				Jer: 'Jeremia',
+				Lam: 'Klagelieder',
+				Ezek: 'Ezechiel',
+				Dan: 'Daniel',
+				Hos: 'Hosea',
+				Joel: 'Joel',
+				Amos: 'Amos',
+				Obad: 'Obadja',
+				Jonah: 'Jona',
+				Mic: 'Micha',
+				Nah: 'Nahum',
+				Hab: 'Habakuk',
+				Zeph: 'Zefanja',
+				Hag: 'Haggai',
+				Zech: 'Sacharja',
+				Mal: 'Maleachi',
+				Tob: 'Tobit',
+				Jdt: 'Judit',
+				Wis: 'Weisheit',
+				Sir: 'Sirach',
+				Bar: 'Baruch',
+				'1Macc': '1 Makkabäer',
+				'2Macc': '2 Makkabäer',
+				'3Macc': '3 Makkabäer',
+				'4Macc': '4 Makkabäer',
+				Matt: 'Matthäus',
+				Mark: 'Markus',
+				Luke: 'Lukas',
+				John: 'Johannes',
+				Acts: 'Apostelgeschichte',
+				Rom: 'Römer',
+				'1Cor': '1 Korinther',
+				'2Cor': '2 Korinther',
+				Gal: 'Galater',
+				Eph: 'Epheser',
+				Phil: 'Philipper',
+				Col: 'Kolosser',
+				'1Thess': '1 Thessalonicher',
+				'2Thess': '2 Thessalonicher',
+				'1Tim': '1 Timotheus',
+				'2Tim': '2 Timotheus',
+				Titus: 'Titus',
+				Phlm: 'Philemon',
+				Heb: 'Hebräer',
+				Jas: 'Jakobus',
+				'1Pet': '1 Petrus',
+				'2Pet': '2 Petrus',
+				'1John': '1 Johannes',
+				'2John': '2 Johannes',
+				'3John': '3 Johannes',
+				Jude: 'Judas',
+				Rev: 'Offenbarung'
+			};
 
 			const parseOsis = (label: string) => {
-				if (!label) return { book: '', chapter: 0, verse: 0 };
+				if (!label) return { book: '', chapter: 0, verse: 0, verseEnd: 0 };
 				const parts = label.split('.');
-				const book = parts[0];
+				const book = parts[0] || '';
 				const chapter = parts.length > 1 ? parseInt(parts[1], 10) || 0 : 0;
-				const verse = parts.length > 2 ? parseInt(parts[2], 10) || 0 : 0;
-				return { book, chapter, verse };
+				const versePart = parts.length > 2 ? parts[2] : '';
+				let verse = 0;
+				let verseEnd = 0;
+				if (versePart) {
+					const [v1, v2] = versePart.split('-');
+					verse = parseInt(v1, 10) || 0;
+					verseEnd = parseInt(v2 || '', 10) || 0;
+				}
+				return { book, chapter, verse, verseEnd };
 			};
 
 			const bibleOrderValue = (label: string) => {
@@ -49,6 +133,17 @@
 			};
 
 			const isNT = (book: string) => NT_BOOKS.has(book);
+			const bookLabel = (book: string) => BOOK_LABELS[book] ?? book;
+
+			const formatBibleLabel = (label: string) => {
+				const { book, chapter, verse, verseEnd } = parseOsis(label);
+				if (!book) return label;
+				const base = bookLabel(book);
+				if (!chapter) return base;
+				if (!verse) return `${base} ${chapter}`;
+				if (verseEnd && verseEnd > verse) return `${base} ${chapter},${verse}–${verseEnd}`;
+				return `${base} ${chapter},${verse}`;
+			};
 
 			const showTooltip = (event: any, d: any, value: number) => {
 				if (!tooltipEl) return;
@@ -65,8 +160,9 @@
 			const normalizeGraph = (data: any) => {
 				const nodes = data.nodes.map((n: any) => ({
 					id: n.id,
+					rawLabel: n.label || n.id,
 					label: n.label || n.id,
-					name: n.label || n.id,
+					name: (n.type || 'bible') === 'bible' ? formatBibleLabel(n.label || n.id) : (n.label || n.id),
 					type: n.type || 'bible',
 					docSlug:
 						(n.type || 'bible') === 'document'
@@ -84,67 +180,6 @@
 					target: nodeIndex.get(l.target),
 					value: l.weight || 1
 				}));
-
-				return { nodes, links };
-			};
-
-			const aggregateToChapters = (data: any) => {
-				const chapterNodes = new Map();
-				const documentNodes = new Map();
-				const bibleToChapter = new Map();
-
-				for (const n of data.nodes) {
-					const label = n.label || n.id;
-					const type = n.type || 'bible';
-					if (type === 'document') {
-						documentNodes.set(n.id, {
-							id: n.id,
-							label,
-							name: label,
-							type: 'document',
-							docSlug: (label || n.id || '').replace(/^d:/i, ''),
-							order: label.toLowerCase()
-						});
-						continue;
-					}
-
-					const { book, chapter } = parseOsis(label);
-					if (!book) continue;
-					const chapterKey = chapter ? `${book}.${chapter}` : book;
-					const chapterId = `b:${chapterKey}`;
-					bibleToChapter.set(n.id, chapterId);
-					if (!chapterNodes.has(chapterId)) {
-						chapterNodes.set(chapterId, {
-							id: chapterId,
-							name: chapterKey,
-							type: 'bible',
-							order: bibleOrderValue(chapterKey),
-							testament: isNT(book) ? 'NT' : 'OT'
-						});
-					}
-				}
-
-				const nodes = [...chapterNodes.values(), ...documentNodes.values()];
-				const nodeIndex = new Map(nodes.map((n: any, i: number) => [n.id, i]));
-				const linkWeights = new Map();
-
-				for (const l of data.links) {
-					const sourceId = bibleToChapter.get(l.source) || l.source;
-					const targetId = l.target;
-					if (!nodeIndex.has(sourceId) || !nodeIndex.has(targetId)) continue;
-					const key = `${sourceId}|${targetId}`;
-					linkWeights.set(key, (linkWeights.get(key) || 0) + (l.weight || 1));
-				}
-
-				const links = [];
-				for (const [key, value] of linkWeights.entries()) {
-					const [sourceId, targetId] = key.split('|');
-					links.push({
-						source: nodeIndex.get(sourceId),
-						target: nodeIndex.get(targetId),
-						value
-					});
-				}
 
 				return { nodes, links };
 			};
@@ -231,7 +266,7 @@
 					.attr('width', (d: any) => d.x1 - d.x0)
 					.attr('fill', (d: any) => {
 						if (d.type !== 'bible') return '#5dd2ff';
-						const book = parseOsis(d.name).book || d.name;
+						const book = parseOsis(d.rawLabel || d.name).book || d.rawLabel || d.name;
 						return isNT(book) ? '#5dd2ff' : '#f6c945';
 					})
 					.on('mousemove', (event: any, d: any) => showTooltip(event, d, d.value))
@@ -255,10 +290,12 @@
 				const url =
 					level === 'book'
 						? `${base}/visualization/output/networks/bible_book_document.json`
-						: `${base}/visualization/output/networks/bible_document.json`;
+						: level === 'chapter'
+							? `${base}/visualization/output/networks/bible_chapter_document.json`
+							: `${base}/visualization/output/networks/bible_document.json`;
 				const data = await fetch(url).then((r) => r.json());
 
-				const graph = level === 'chapter' ? aggregateToChapters(data) : normalizeGraph(data);
+				const graph = normalizeGraph(data);
 				render(graph.nodes, graph.links);
 			};
 

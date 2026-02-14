@@ -2,9 +2,18 @@
 	import { onMount } from 'svelte';
 	import { base } from '$app/paths';
 	import { loadScriptOnce } from '$lib/visualization/loaders';
+	import { metaData } from '$lib/data/aco-metadata.json';
 
 	let chartEl: HTMLDivElement | null = null;
 	let tooltipEl: HTMLDivElement | null = null;
+
+	const docSlugById = new Map<string, string>();
+	for (const doc of metaData) {
+		if (doc.slug) docSlugById.set(doc.slug, doc.slug);
+		if (doc.schwartzSlug) docSlugById.set(doc.schwartzSlug, doc.slug);
+		if (doc.acoDocLabel) docSlugById.set(doc.acoDocLabel, doc.slug);
+	}
+	const resolveDocSlug = (docId: string) => docSlugById.get(docId) || docId;
 
 	onMount(() => {
 		let destroyed = false;
@@ -23,13 +32,13 @@
 				tooltipEl.hidden = false;
 				tooltipEl.style.left = `${event.pageX + 12}px`;
 				tooltipEl.style.top = `${event.pageY + 12}px`;
-				const doc = encodeURIComponent(d.doc_id || '');
-				const docLink = `${base}/dokumente/vol1/${doc}`;
+				const docSlug = resolveDocSlug(d.doc_id || '');
+				const docLink = `${base}/dokumente/vol1/${encodeURIComponent(docSlug)}`;
 				tooltipEl.innerHTML = `
           <strong>${d.doc_id}</strong><br/>
           ${d.title || ''}<br/>
           <span>${d.date_raw}</span><br/>
-          <a href="${docLink}" target="_blank">Open document</a>
+          <a href="${docLink}" target="_blank" rel="noopener noreferrer">Open document</a>
         `;
 			};
 
@@ -91,8 +100,9 @@
 					.on('mousemove', (event: any, d: any) => showTooltip(event, d))
 					.on('mouseleave', hideTooltip)
 					.on('click', (_event: any, d: any) => {
-						const doc = encodeURIComponent(d.doc_id || '');
-						window.open(`${base}/dokumente/vol1/${doc}`, '_blank');
+						const docSlug = resolveDocSlug(d.doc_id || '');
+						if (!docSlug) return;
+						window.location.assign(`${base}/dokumente/vol1/${encodeURIComponent(docSlug)}`);
 					});
 
 				rows
@@ -105,8 +115,9 @@
 					.on('mousemove', (event: any, d: any) => showTooltip(event, d))
 					.on('mouseleave', hideTooltip)
 					.on('click', (_event: any, d: any) => {
-						const doc = encodeURIComponent(d.doc_id || '');
-						window.open(`${base}/dokumente/vol1/${doc}`, '_blank');
+						const docSlug = resolveDocSlug(d.doc_id || '');
+						if (!docSlug) return;
+						window.location.assign(`${base}/dokumente/vol1/${encodeURIComponent(docSlug)}`);
 					});
 			};
 
@@ -228,6 +239,7 @@
 		fill: var(--accent);
 		stroke: #0b0d12;
 		stroke-width: 1;
+		cursor: pointer;
 	}
 
 	.timeline-vis .tooltip {
