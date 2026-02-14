@@ -32,7 +32,7 @@
 	// --- Collect Loaded Units in Array ---------------------------
 
 	// Contains all loaded units, starting with current unit
-	let loadedUnits = $state([{ ...data.unit, element: undefined }]);
+	let loadedUnits = $state([]);
 
 	// Add unit to the end or beginning of the array when data.unit changes
 	$effect(() => {

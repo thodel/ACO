@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "title": "Doctrinal Term Frequency (Draft)",
+    "terms": [
+      {
+        "key": "theotokos",
+        "term": "θεοτόκος",
+        "stem": "θεοτοκ"
+      },
+      {
+        "key": "christotokos",
+        "term": "χριστοτόκος",
+        "stem": "χριστοτοκ"
+      },
+      {
+        "key": "physis",
+        "term": "φύσις",
+        "stem": "φυσι"
+      },
+      {
+        "key": "hypostasis",
+        "term": "ὑπόστασις",
+        "stem": "υποστασ"
+      },
+      {
+        "key": "ousia",
+        "term": "οὐσία",
+        "stem": "ουσι"
+      },
+      {
+        "key": "prosopon",
+        "term": "πρόσωπον",
+        "stem": "προσωπ"
+      },
+      {
+        "key": "logos",
+        "term": "λόγος",
+        "stem": "λογο"
+      },
+      {
+        "key": "henosis",
+        "term": "ἕνωσις",
+        "stem": "ενωσ"
+      }
+    ],
+    "normalization": "NFD + strip diacritics + lowercase; regex stem match on normalized text_full",
+    "date_source": "data_processing/output/timeline.json (midpoint of date ranges)",
+    "notes": "Draft counts; not lemmatized and may miss inflected forms or count false positives."
+  },
+  "years": [
+    428,
+    429,
+    430
+  ],
+  "series": [
+    {
+      "key": "theotokos",
+      "term": "θεοτόκος",
+      "counts": [
+        4,
+        70,
+        42
+      ]
+    },
+    {
+      "key": "christotokos",
+      "term": "χριστοτόκος",
+      "counts": [
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "key": "physis",
+      "term": "φύσις",
+      "counts": [
+        0,
+        5,
+        26
+      ]
+    },
+    {
+      "key": "hypostasis",
+      "term": "ὑπόστασις",
+      "counts": [
+        0,
+        12,
+        20
+      ]
+    },
+    {
+      "key": "ousia",
+      "term": "οὐσία",
+      "counts": [
+        0,
+        6,
+        18
+      ]
+    },
+    {
+      "key": "prosopon",
+      "term": "πρόσωπον",
+      "counts": [
+        0,
+        0,
+        28
+      ]
+    },
+    {
+      "key": "logos",
+      "term": "λόγος",
+      "counts": [
+        0,
+        0,
+        52
+      ]
+    },
+    {
+      "key": "henosis",
+      "term": "ἕνωσις",
+      "counts": [
+        0,
+        0,
+        26
+      ]
+    }
+  ]
+}

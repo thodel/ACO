@@ -459,7 +459,6 @@
 	}
 
 	.network-vis select,
-	.network-vis input[type='range'],
 	.network-vis button {
 		background: #12151c;
 		color: var(--text);

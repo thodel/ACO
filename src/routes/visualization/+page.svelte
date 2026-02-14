@@ -30,6 +30,12 @@
 				'Entwurf einer sitzungsbezogenen Zeitleiste mit derzeit nur zwei gesicherten Ankern.'
 		},
 		{
+			title: 'Doctrinal Term Frequency',
+			path: `${base}/visualization/terms`,
+			description:
+				'Zeitlicher Verlauf ausgewählter griechischer Fachbegriffe mit Schieberegler.'
+		},
+		{
 			title: 'Semantic Search',
 			path: `${base}/visualization/suche`,
 			description:

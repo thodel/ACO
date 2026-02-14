@@ -152,7 +152,7 @@
 		<div class="facet-grid">
 			<label class="facet-field">
 				<span>Buch</span>
-				<select bind:value={selectedBook} on:change={onBookChange}>
+				<select bind:value={selectedBook} onchange={onBookChange}>
 					<option value="">Alle Bücher</option>
 					<optgroup label="Altes Testament">
 						{#each data.oldTestament as book}
@@ -169,7 +169,7 @@
 
 			<label class="facet-field">
 				<span>Kapitel</span>
-				<select bind:value={selectedChapter} on:change={onChapterChange} disabled={!selectedBook}>
+				<select bind:value={selectedChapter} onchange={onChapterChange} disabled={!selectedBook}>
 					<option value="">Alle Kapitel</option>
 					{#each chapterOptions as chapter}
 						<option value={chapter}>{chapter}</option>
@@ -188,7 +188,7 @@
 			</label>
 
 			<div class="facet-actions">
-				<button type="button" on:click={clearFilters}>Zurücksetzen</button>
+				<button type="button" onclick={clearFilters}>Zurücksetzen</button>
 			</div>
 		</div>
 	</div>

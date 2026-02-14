@@ -244,12 +244,4 @@
 		z-index: 1000;
 	}
 
-	.timeline-vis .tooltip a {
-		color: var(--accent);
-		text-decoration: none;
-	}
-
-	.timeline-vis .tooltip a:hover {
-		text-decoration: underline;
-	}
 </style>

@@ -4,7 +4,10 @@
 	import { Accordion } from '@skeletonlabs/skeleton-svelte';
 
 	let { metaData, accordionStateInit = 'vol1' } = $props();
-	let accordionState = $state([accordionStateInit]);
+	let accordionState = $state([]);
+	$effect(() => {
+		accordionState = [accordionStateInit];
+	});
 
 	// The first volume is currently hardcoded
 	let volumes = [
@@ -15,11 +18,12 @@
 	let gotoPageNum = $state(0);
 
 	const types = ['CV', 'CPal', 'CVer', 'CU'];
-	let docs = {};
-	docs.CV = metaData.filter(({ type: t }) => t === 'CV');
-	docs.CPal = metaData.filter(({ type: t }) => t === 'CPal');
-	docs.CVer = metaData.filter(({ type: t }) => t === 'CVer');
-	docs.CU = metaData.filter(({ type: t }) => t === 'CU');
+	let docs = $derived.by(() => ({
+		CV: metaData.filter(({ type: t }) => t === 'CV'),
+		CPal: metaData.filter(({ type: t }) => t === 'CPal'),
+		CVer: metaData.filter(({ type: t }) => t === 'CVer'),
+		CU: metaData.filter(({ type: t }) => t === 'CU')
+	}));
 </script>
 
 <h1 class="h1">Dokumente</h1>

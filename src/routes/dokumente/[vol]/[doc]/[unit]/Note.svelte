@@ -21,7 +21,12 @@
 		noteType?: NoteType;
 	} = $props();
 	// let { docSlug, unitSlug, noteSlug, noteData, selectedNote = $bindable(), noteType } = $props();
-	const unit = unitSlug; // copy to prevent it from updating with URL
+	let unit = $state('');
+	$effect(() => {
+		if (!unit && unitSlug) {
+			unit = unitSlug;
+		}
+	});
 
 </script>
 
