@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "title": "Session Timeline (Draft)",
+    "source": "SESSION_TIMELINE_DRAFT.md",
+    "notes": "Draft data based only on anchors currently present in the repository. This is not a session list."
+  },
+  "items": [
+    {
+      "id": "convocation-0430-11-19",
+      "date": "0430-11-19",
+      "label": "Imperial sacra convokes a synod in Ephesus",
+      "type": "convocation",
+      "evidence": "Doc 42 (CV25); full text in 42_CV25.xml",
+      "doc_slug": "CV25",
+      "note": "Convocation, not a session."
+    },
+    {
+      "id": "planned-0431-06-07",
+      "date": "0431-06-07",
+      "label": "Planned opening date (Pentecost)",
+      "type": "planned",
+      "evidence": "CV25 footnote notes Pentecost as 7 June 431.",
+      "doc_slug": null,
+      "note": "Planned date; not evidence of an actual session."
+    }
+  ]
+}

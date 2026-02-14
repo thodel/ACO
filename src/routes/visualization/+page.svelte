@@ -24,6 +24,12 @@
 			description: 'Zeitstrahl der Dokumente basierend auf der Datierung im Metadatenfeld.'
 		},
 		{
+			title: 'Session Timeline (Draft)',
+			path: `${base}/visualization/sessions`,
+			description:
+				'Entwurf einer sitzungsbezogenen Zeitleiste mit derzeit nur zwei gesicherten Ankern.'
+		},
+		{
 			title: 'Semantic Search',
 			path: `${base}/visualization/suche`,
 			description:
