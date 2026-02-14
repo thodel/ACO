@@ -24,6 +24,84 @@ NT_BOOKS = {
     "Jas", "1Pet", "2Pet", "1John", "2John", "3John", "Jude", "Rev",
 }
 
+OSIS_TO_GERMAN = {
+    "Gen": "Genesis",
+    "Exod": "Exodus",
+    "Lev": "Levitikus",
+    "Num": "Numeri",
+    "Deut": "Deuteronomium",
+    "Josh": "Josua",
+    "Judg": "Richter",
+    "Ruth": "Rut",
+    "1Sam": "1 Samuel",
+    "2Sam": "2 Samuel",
+    "1Kgs": "1 Könige",
+    "2Kgs": "2 Könige",
+    "1Chr": "1 Chronik",
+    "2Chr": "2 Chronik",
+    "Ezra": "Esra",
+    "Neh": "Nehemia",
+    "Esth": "Ester",
+    "Job": "Hiob",
+    "Ps": "Psalmen",
+    "Prov": "Sprüche",
+    "Eccl": "Prediger",
+    "Song": "Hoheslied",
+    "Isa": "Jesaja",
+    "Jer": "Jeremia",
+    "Lam": "Klagelieder",
+    "Ezek": "Ezechiel",
+    "Dan": "Daniel",
+    "Hos": "Hosea",
+    "Joel": "Joel",
+    "Amos": "Amos",
+    "Obad": "Obadja",
+    "Jonah": "Jona",
+    "Mic": "Micha",
+    "Nah": "Nahum",
+    "Hab": "Habakuk",
+    "Zeph": "Zefanja",
+    "Hag": "Haggai",
+    "Zech": "Sacharja",
+    "Mal": "Maleachi",
+    "Tob": "Tobit",
+    "Jdt": "Judit",
+    "Wis": "Weisheit",
+    "Sir": "Sirach",
+    "Bar": "Baruch",
+    "1Macc": "1 Makkabäer",
+    "2Macc": "2 Makkabäer",
+    "3Macc": "3 Makkabäer",
+    "4Macc": "4 Makkabäer",
+    "Matt": "Matthäus",
+    "Mark": "Markus",
+    "Luke": "Lukas",
+    "John": "Johannes",
+    "Acts": "Apostelgeschichte",
+    "Rom": "Römer",
+    "1Cor": "1 Korinther",
+    "2Cor": "2 Korinther",
+    "Gal": "Galater",
+    "Eph": "Epheser",
+    "Phil": "Philipper",
+    "Col": "Kolosser",
+    "1Thess": "1 Thessalonicher",
+    "2Thess": "2 Thessalonicher",
+    "1Tim": "1 Timotheus",
+    "2Tim": "2 Timotheus",
+    "Titus": "Titus",
+    "Phlm": "Philemon",
+    "Heb": "Hebräer",
+    "Jas": "Jakobus",
+    "1Pet": "1 Petrus",
+    "2Pet": "2 Petrus",
+    "1John": "1 Johannes",
+    "2John": "2 Johannes",
+    "3John": "3 Johannes",
+    "Jude": "Judas",
+    "Rev": "Offenbarung",
+}
+
 
 def get_testament(book: str) -> Optional[str]:
     if not book:
@@ -58,6 +136,15 @@ def roman_to_int(s: str) -> Optional[int]:
     if s == "III":
         return 3
     return None
+
+
+def osis_to_german(osis: str) -> str:
+    if not osis:
+        return osis
+    if "." in osis:
+        book, rest = osis.split(".", 1)
+        return f"{OSIS_TO_GERMAN.get(book, book)}.{rest}"
+    return OSIS_TO_GERMAN.get(osis, osis)
 
 
 NON_NUMBERED = {
@@ -384,9 +471,9 @@ def build_bible_outputs() -> None:
         refs = detect_bible_refs(text)
         for ref in refs:
             if ref.get("book"):
-                book_counts[ref["book"]] += 1
+                book_counts[osis_to_german(ref["book"])] += 1
             if ref.get("osis"):
-                osis_counts[ref["osis"]] += 1
+                osis_counts[osis_to_german(ref["osis"])] += 1
         bible_rows.append({"doc_id": doc_id, "refs": refs})
 
     write_jsonl(os.path.join(OUTPUT_DIR, "bible_refs.jsonl"), bible_rows)
