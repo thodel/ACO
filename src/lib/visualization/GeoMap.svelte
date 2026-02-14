@@ -7,6 +7,7 @@
 
 	let mapEl: HTMLDivElement | null = null;
 	let mapInstance: any = null;
+	let isMissingKey = false;
 
 	const slugify = (value: string) => {
 		if (!value) return '';
@@ -17,6 +18,8 @@
 			.replace(/[^a-z0-9]+/g, '-')
 			.replace(/(^-|-$)/g, '');
 	};
+
+	const MAPTILER_KEY = import.meta.env.VITE_MAPTILER_KEY || '';
 
 	onMount(() => {
 		let destroyed = false;
@@ -29,10 +32,25 @@
 
 			mapInstance = L.map(mapEl, { preferCanvas: true }).setView([39.0, 35.0], 4);
 
-			L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-				maxZoom: 12,
-				attribution: '&copy; OpenStreetMap contributors'
-			}).addTo(mapInstance);
+			if (!MAPTILER_KEY) {
+				isMissingKey = true;
+				L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+					maxZoom: 12,
+					attribution: '&copy; OpenStreetMap contributors'
+				}).addTo(mapInstance);
+			} else {
+				L.tileLayer(
+					`https://api.maptiler.com/maps/dataviz-light/256/{z}/{x}/{y}.png?key=${MAPTILER_KEY}`,
+					{
+						maxZoom: 12,
+						minZoom: 1,
+						attribution:
+							'<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> ' +
+							'<a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>',
+						crossOrigin: true
+					}
+				).addTo(mapInstance);
+			}
 
 			const url = `${base}/visualization/output/geo/places.geojson`;
 			const data = await fetch(url).then((r) => r.json());
@@ -93,7 +111,14 @@
 		<div class="title">ACO Places (Pleiades)</div>
 		<div class="meta">Matched locations from register (Orte)</div>
 	</div>
-	<div class="map" bind:this={mapEl} style:height={height}></div>
+	<div class="map" bind:this={mapEl} style:height={height}>
+		{#if isMissingKey}
+			<div class="missing-key">
+				MapTiler key missing. Using OpenStreetMap fallback. Set
+				<code>VITE_MAPTILER_KEY</code> for the light map style.
+			</div>
+		{/if}
+	</div>
 	<div class="legend">
 		<div class="legend-title">Legend</div>
 		<div class="legend-item"><span class="swatch"></span>Matched place</div>
@@ -134,8 +159,27 @@
 	}
 
 	.geo-vis .map {
+		position: relative;
 		width: 100%;
 		min-height: 360px;
+	}
+
+	.geo-vis .missing-key {
+		position: absolute;
+		right: 16px;
+		bottom: 16px;
+		background: rgba(18, 21, 28, 0.92);
+		border: 1px solid #2a3140;
+		color: var(--muted);
+		padding: 8px 10px;
+		border-radius: 6px;
+		font-size: 12px;
+		max-width: 260px;
+		z-index: 1100;
+	}
+
+	.geo-vis .missing-key code {
+		color: var(--text);
 	}
 
 	.geo-vis .legend {

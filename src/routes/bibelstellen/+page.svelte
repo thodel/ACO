@@ -97,7 +97,7 @@
 				<h3>
 					<Accordion.ItemTrigger class="hover:bg-primary-200/60 hover:dark:bg-primary-500">
 						<span class="text-2xl font-bold">{book.label}</span>
-						<span class="text-surface-600 dark:text-surface-400 ml-2 text-sm"
+						<span class="text-surface-950-50/70 ml-2 text-sm"
 							>({book.count})</span
 						>
 					</Accordion.ItemTrigger>
@@ -109,7 +109,7 @@
 								<li>
 									<div class="flex flex-wrap items-baseline gap-x-2">
 										<span data-type="bible-ref">{ref.label}</span>
-										<span class="text-surface-600 dark:text-surface-400 text-sm"
+										<span class="text-surface-950-50/70 text-sm"
 											>({ref.count})</span
 										>
 									</div>
@@ -145,7 +145,7 @@
 	<div class="facet-panel">
 		<div class="facet-header">
 			<h2 class="h3 m-0">Facettierte Suche</h2>
-			<span class="text-surface-600 dark:text-surface-400 text-sm"
+			<span class="text-surface-950-50/70 text-sm"
 				>Treffer: {filteredCount}</span
 			>
 		</div>
@@ -194,7 +194,7 @@
 	</div>
 
 	{#if filteredCount === 0}
-		<p class="text-surface-600 dark:text-surface-400 mt-6">
+		<p class="text-surface-950-50/70 mt-6">
 			Keine Bibelstellen für diese Auswahl gefunden.
 		</p>
 	{/if}

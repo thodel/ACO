@@ -56,7 +56,7 @@
 	}
 
 	.lit-entry :global(span[id^='page-']) {
-		@apply text-surface-600 dark:text-surface-400;
+		@apply text-surface-950-50/70;
 	}
 
 	.lit-docs {
@@ -76,6 +76,6 @@
 	}
 
 	.doc-empty {
-		@apply mt-3 text-sm text-surface-600 dark:text-surface-400;
+		@apply mt-3 text-sm text-surface-950-50/70;
 	}
 </style>
