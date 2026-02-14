@@ -34,6 +34,8 @@ const copyOutputs = async () => {
 	// register + corpus
 	await copyFile(path.join(outputSource, 'register.json'), path.join(outputTarget, 'register.json'));
 	await copyFile(path.join(outputSource, 'corpus.jsonl'), path.join(outputTarget, 'corpus.jsonl'));
+	// timeline
+	await copyFile(path.join(outputSource, 'timeline.json'), path.join(outputTarget, 'timeline.json'));
 };
 
 const main = async () => {

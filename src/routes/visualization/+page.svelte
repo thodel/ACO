@@ -19,6 +19,11 @@
 			description: 'Karte der Orte aus dem Register (Pleiades).'
 		},
 		{
+			title: 'Timeline',
+			path: `${base}/visualization/timeline`,
+			description: 'Zeitstrahl der Dokumente basierend auf der Datierung im Metadatenfeld.'
+		},
+		{
 			title: 'Semantic Search',
 			path: `${base}/visualization/suche`,
 			description:

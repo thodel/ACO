@@ -190,6 +190,16 @@
 					.attr('class', 'link')
 					.attr('d', d3.sankeyLinkHorizontal())
 					.attr('stroke-width', (d: any) => Math.max(1, d.width))
+					.on('click', (event: any, d: any) => {
+						event.stopPropagation();
+						const target = d.target;
+						if (target?.type === 'document') {
+							const docId = encodeURIComponent(target.name || target.id || '');
+							if (docId) {
+								window.open(`${base}/dokumente/vol1/${docId}`, '_blank', 'noopener');
+							}
+						}
+					})
 					.on('mousemove', (event: any, d: any) => {
 						showTooltip(event, d, d.value);
 						linkSel.classed('dim', (l: any) => l !== d);
