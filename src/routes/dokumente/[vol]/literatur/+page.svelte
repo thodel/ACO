@@ -18,7 +18,7 @@
 								<div class="doc-links">
 									{#each item.docs as doc}
 										<a
-											href={`${base}/dokumente/vol1/${doc.slug}`}
+											href={`${base}/dokumente/vol1/${doc.slug}/text`}
 											target="_blank"
 											rel="noopener noreferrer"
 											title={doc.title}
