@@ -254,7 +254,8 @@ export const load: PageServerLoad = async () => {
 				slug: doc.slug,
 				acoDocNum: doc.acoDocNum ?? null,
 				acoDocLabel: doc.acoDocLabel ?? (doc.acoDocNum ? `Dok. ${doc.acoDocNum}` : doc.slug),
-				title: doc.title ?? doc.slug
+				title: doc.title ?? doc.slug,
+				displayLabel: doc.title ? `${doc.slug} – ${doc.title}` : doc.slug
 			}
 		])
 	);
@@ -298,7 +299,7 @@ export const load: PageServerLoad = async () => {
 							const doc = docIndex.get(docId);
 							return {
 								slug: doc?.slug ?? docId,
-								label: doc?.acoDocLabel ?? docId,
+								label: doc?.displayLabel ?? docId,
 								title: doc?.title ?? docId,
 								acoDocNum: doc?.acoDocNum ?? null,
 								count
