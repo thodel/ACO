@@ -37,6 +37,7 @@
 		{ name: 'Suche', path: '', slug: '/suche' },
 		{ name: 'Literaturverzeichnis', path: '/dokumente/vol1', slug: '/literatur' },
 		{ name: 'Bibelstellen', path: '', slug: '/bibelstellen' },
+		{ name: 'Visualisierungen', path: '', slug: '/visualization' },
 		{ name: 'Geovisualisierung', path: '', slug: '/karte' }
 	];
 

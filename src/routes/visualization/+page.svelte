@@ -1,0 +1,48 @@
+<script>
+	import { base } from '$app/paths';
+
+	const visualizations = [
+		{
+			title: 'Network Explorer',
+			path: `${base}/visualization/index.html`,
+			description:
+				'Interaktives Netzwerk aus Personen, Dokumenten und Bibelstellen. Ideal für Erkundungen und Zusammenhänge.'
+		},
+		{
+			title: 'Bible → Document Sankey',
+			path: `${base}/visualization/sankey.html`,
+			description: 'Sankey-Diagramm für Bibelstellen und Dokumente mit Vers-, Kapitel- und Buch-Ebene.'
+		},
+		{
+			title: 'Geovisualisierung',
+			path: `${base}/visualization/geo.html`,
+			description: 'Karte der Orte aus dem Register (Pleiades).'
+		},
+		{
+			title: 'Semantic Search',
+			path: `${base}/visualization/search.html`,
+			description:
+				'Semantische Suche (BGE‑M3). Auf GitHub Pages deaktiviert; lokal mit Server nutzbar.'
+		}
+	];
+</script>
+
+<div class="visualization">
+	<h1 class="h1">Visualisierungen</h1>
+	<p class="my-6 max-w-[1000px]">
+		Die Visualisierungen wurden in die Website integriert und sind vollständig statisch deploybar.
+		Einige Funktionen (z. B. semantische Suche) benötigen lokal einen Server.
+	</p>
+
+	<div class="grid gap-10 md:grid-cols-2">
+		{#each visualizations as vis}
+			<section class="bg-surface-50-950 border border-surface-200-800 rounded-lg p-6 shadow-md">
+				<h2 class="h3 mt-0!">{vis.title}</h2>
+				<p class="mb-4">{vis.description}</p>
+				<a class="btn preset-filled-primary-500-600" href={vis.path} target="_blank" rel="noopener noreferrer">
+					Öffnen
+				</a>
+			</section>
+		{/each}
+	</div>
+</div>

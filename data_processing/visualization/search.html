@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ACO Semantic Search</title>
+  <link rel="stylesheet" href="search.css" />
+</head>
+<body>
+  <div class="toolbar">
+    <div class="title">ACO Semantic Search</div>
+    <div class="search-bar">
+      <input id="queryInput" type="text" placeholder="Enter search query…" />
+      <button id="searchBtn">Search</button>
+    </div>
+    <label class="toggle">
+      <input id="expandToggle" type="checkbox" checked />
+      Use Expansion
+    </label>
+    <label class="toggle">
+      Results
+      <select id="topK">
+        <option value="5">5</option>
+        <option value="10" selected>10</option>
+        <option value="20">20</option>
+      </select>
+    </label>
+  </div>
+
+  <div class="status" id="status">Loading index…</div>
+  <div class="results" id="results"></div>
+
+  <script src="search.js"></script>
+</body>
+</html>

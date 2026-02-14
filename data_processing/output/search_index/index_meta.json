@@ -1,0 +1,22 @@
+{
+  "generated_on": "2026-02-13T20:51:36+00:00",
+  "corpus": "/Users/TH_1/Documents/Repo/ACO/data_processing/output/corpus.jsonl",
+  "embedding": {
+    "method": "char_ngram_hash",
+    "dim": 256,
+    "ngram_min": 3,
+    "ngram_max": 5,
+    "min_df": 2,
+    "stopwords": 69,
+    "decimals": 6
+  },
+  "query_expansion": {
+    "top_k": 5,
+    "min_sim": 0.35,
+    "source": "vocab.jsonl"
+  },
+  "counts": {
+    "docs": 44,
+    "vocab": 7264
+  }
+}

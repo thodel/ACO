@@ -276,6 +276,25 @@ def extract_metadata(body: ET.Element) -> Dict[str, str | List[str]]:
     return metadata
 
 
+def extract_paragraphs(body: ET.Element) -> Tuple[List[str], List[str]]:
+    main_paras: List[str] = []
+    note_paras: List[str] = []
+
+    for p in body.findall(".//tei:p", NS):
+        if p.get("rendition") == "#rp-kopf":
+            continue
+        p_text = normalize_space(iter_text(p, skip_tags={"note", "milestone"}, skip_hidden=True))
+        if p_text:
+            main_paras.append(p_text)
+
+    for note in body.findall(".//tei:note", NS):
+        note_text = normalize_space(iter_text(note, skip_tags={"milestone"}, skip_hidden=True))
+        if note_text:
+            note_paras.append(note_text)
+
+    return main_paras, note_paras
+
+
 def extract_texts(body: ET.Element) -> Tuple[str, str, str]:
     # main text: all non-kopf paragraphs + heads, without notes
     main_parts: List[str] = []
@@ -337,6 +356,7 @@ def build_corpus(doc_files: List[str]) -> List[Dict]:
             lang = text_elem.get(f"{{{XML_NS}}}lang")
 
         metadata = extract_metadata(body)
+        paragraphs_main, paragraphs_notes = extract_paragraphs(body)
         text_main, text_notes, text_full = extract_texts(body)
 
         corpus.append(
@@ -349,6 +369,8 @@ def build_corpus(doc_files: List[str]) -> List[Dict]:
                 "text_main": text_main,
                 "text_notes": text_notes,
                 "text_full": text_full,
+                "paragraphs": paragraphs_main,
+                "paragraphs_notes": paragraphs_notes,
             }
         )
 

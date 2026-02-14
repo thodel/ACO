@@ -1,0 +1,3289 @@
+{
+  "nodes": [
+    {
+      "id": "b:sir",
+      "label": "Sir",
+      "type": "bible",
+      "book": "Sir",
+      "testament": "OT"
+    },
+    {
+      "id": "d:cpal20",
+      "label": "CPal20",
+      "type": "document",
+      "title": "Dokument 1, Nestorius’ erste Predigt gegen den θεοτόκος-Titel (sermo 9)"
+    },
+    {
+      "id": "b:titus",
+      "label": "Titus",
+      "type": "bible",
+      "book": "Titus",
+      "testament": "NT"
+    },
+    {
+      "id": "b:2tim",
+      "label": "2Tim",
+      "type": "bible",
+      "book": "2Tim",
+      "testament": "NT"
+    },
+    {
+      "id": "b:gen",
+      "label": "Gen",
+      "type": "bible",
+      "book": "Gen",
+      "testament": "OT"
+    },
+    {
+      "id": "b:wis",
+      "label": "Wis",
+      "type": "bible",
+      "book": "Wis",
+      "testament": "OT"
+    },
+    {
+      "id": "b:1cor",
+      "label": "1Cor",
+      "type": "bible",
+      "book": "1Cor",
+      "testament": "NT"
+    },
+    {
+      "id": "b:1tim",
+      "label": "1Tim",
+      "type": "bible",
+      "book": "1Tim",
+      "testament": "NT"
+    },
+    {
+      "id": "b:heb",
+      "label": "Heb",
+      "type": "bible",
+      "book": "Heb",
+      "testament": "NT"
+    },
+    {
+      "id": "b:john",
+      "label": "John",
+      "type": "bible",
+      "book": "John",
+      "testament": "NT"
+    },
+    {
+      "id": "b:matt",
+      "label": "Matt",
+      "type": "bible",
+      "book": "Matt",
+      "testament": "NT"
+    },
+    {
+      "id": "b:ps",
+      "label": "Ps",
+      "type": "bible",
+      "book": "Ps",
+      "testament": "OT"
+    },
+    {
+      "id": "d:cv18",
+      "label": "CV18",
+      "type": "document",
+      "title": "Dokument 2, Contestatio gegen die Kleriker von Konstantinopel"
+    },
+    {
+      "id": "b:acts",
+      "label": "Acts",
+      "type": "bible",
+      "book": "Acts",
+      "testament": "NT"
+    },
+    {
+      "id": "b:luke",
+      "label": "Luke",
+      "type": "bible",
+      "book": "Luke",
+      "testament": "NT"
+    },
+    {
+      "id": "b:bar",
+      "label": "Bar",
+      "type": "bible",
+      "book": "Bar",
+      "testament": "OT"
+    },
+    {
+      "id": "b:rom",
+      "label": "Rom",
+      "type": "bible",
+      "book": "Rom",
+      "testament": "NT"
+    },
+    {
+      "id": "d:cv19",
+      "label": "CV19",
+      "type": "document",
+      "title": "Dokument 3, Homilie des Proklos von Kyzikos"
+    },
+    {
+      "id": "b:exod",
+      "label": "Exod",
+      "type": "bible",
+      "book": "Exod",
+      "testament": "OT"
+    },
+    {
+      "id": "b:isa",
+      "label": "Isa",
+      "type": "bible",
+      "book": "Isa",
+      "testament": "OT"
+    },
+    {
+      "id": "b:judg",
+      "label": "Judg",
+      "type": "bible",
+      "book": "Judg",
+      "testament": "OT"
+    },
+    {
+      "id": "b:col",
+      "label": "Col",
+      "type": "bible",
+      "book": "Col",
+      "testament": "NT"
+    },
+    {
+      "id": "b:eph",
+      "label": "Eph",
+      "type": "bible",
+      "book": "Eph",
+      "testament": "NT"
+    },
+    {
+      "id": "b:jer",
+      "label": "Jer",
+      "type": "bible",
+      "book": "Jer",
+      "testament": "OT"
+    },
+    {
+      "id": "b:mic",
+      "label": "Mic",
+      "type": "bible",
+      "book": "Mic",
+      "testament": "OT"
+    },
+    {
+      "id": "b:hab",
+      "label": "Hab",
+      "type": "bible",
+      "book": "Hab",
+      "testament": "OT"
+    },
+    {
+      "id": "b:gal",
+      "label": "Gal",
+      "type": "bible",
+      "book": "Gal",
+      "testament": "NT"
+    },
+    {
+      "id": "b:mark",
+      "label": "Mark",
+      "type": "bible",
+      "book": "Mark",
+      "testament": "NT"
+    },
+    {
+      "id": "b:song",
+      "label": "Song",
+      "type": "bible",
+      "book": "Song",
+      "testament": "OT"
+    },
+    {
+      "id": "b:ezek",
+      "label": "Ezek",
+      "type": "bible",
+      "book": "Ezek",
+      "testament": "OT"
+    },
+    {
+      "id": "d:cpal22",
+      "label": "CPal22",
+      "type": "document",
+      "title": "Dokument 4, Nestorius’ Antwort auf die Homilie des Proklos von Kyzikos (sermo 27)"
+    },
+    {
+      "id": "b:prov",
+      "label": "Prov",
+      "type": "bible",
+      "book": "Prov",
+      "testament": "OT"
+    },
+    {
+      "id": "d:cv1",
+      "label": "CV1",
+      "type": "document",
+      "title": "Dokument 5, Kyrills Brief an die ägyptischen Mönche"
+    },
+    {
+      "id": "b:2pet",
+      "label": "2Pet",
+      "type": "bible",
+      "book": "2Pet",
+      "testament": "NT"
+    },
+    {
+      "id": "b:1pet",
+      "label": "1Pet",
+      "type": "bible",
+      "book": "1Pet",
+      "testament": "NT"
+    },
+    {
+      "id": "b:deut",
+      "label": "Deut",
+      "type": "bible",
+      "book": "Deut",
+      "testament": "OT"
+    },
+    {
+      "id": "b:1john",
+      "label": "1John",
+      "type": "bible",
+      "book": "1John",
+      "testament": "NT"
+    },
+    {
+      "id": "b:zech",
+      "label": "Zech",
+      "type": "bible",
+      "book": "Zech",
+      "testament": "OT"
+    },
+    {
+      "id": "b:phil",
+      "label": "Phil",
+      "type": "bible",
+      "book": "Phil",
+      "testament": "NT"
+    },
+    {
+      "id": "b:mal",
+      "label": "Mal",
+      "type": "bible",
+      "book": "Mal",
+      "testament": "OT"
+    },
+    {
+      "id": "b:num",
+      "label": "Num",
+      "type": "bible",
+      "book": "Num",
+      "testament": "OT"
+    },
+    {
+      "id": "b:2cor",
+      "label": "2Cor",
+      "type": "bible",
+      "book": "2Cor",
+      "testament": "NT"
+    },
+    {
+      "id": "b:lev",
+      "label": "Lev",
+      "type": "bible",
+      "book": "Lev",
+      "testament": "OT"
+    },
+    {
+      "id": "d:cpal21",
+      "label": "CPal21",
+      "type": "document",
+      "title": "Dokument 6, Nestorius’ Reaktion auf die Angriffe Kyrills (sermo 10)"
+    },
+    {
+      "id": "b:rev",
+      "label": "Rev",
+      "type": "bible",
+      "book": "Rev",
+      "testament": "NT"
+    },
+    {
+      "id": "d:cv22",
+      "label": "CV22",
+      "type": "document",
+      "title": "Dokument 8, Kyrills Brief an die Apokrisiare in Konstantinopel"
+    },
+    {
+      "id": "d:cv20",
+      "label": "CV20",
+      "type": "document",
+      "title": "Dokument 9, Kyrills Brief an einen Anhänger des Nestorius"
+    },
+    {
+      "id": "d:cv16",
+      "label": "CV16",
+      "type": "document",
+      "title": "Dokument 11, Kyrills Brief an Akakios von Beroia (Ep. 14)"
+    },
+    {
+      "id": "d:cv17",
+      "label": "CV17",
+      "type": "document",
+      "title": "Dokument 12, Brief des Akakios von Beroia an Kyrill"
+    },
+    {
+      "id": "d:cpal31",
+      "label": "CPal31",
+      "type": "document",
+      "title": "Dokument 13, Predigt des Nestorius gegen die Pelagianer (sermo 20 [Auszüge])"
+    },
+    {
+      "id": "b:job",
+      "label": "Job",
+      "type": "bible",
+      "book": "Job",
+      "testament": "OT"
+    },
+    {
+      "id": "d:cpal32",
+      "label": "CPal32",
+      "type": "document",
+      "title": "Dokument 14, Predigt des Nestorius gegen die Pelagianer (sermo 28 [Auszüge])"
+    },
+    {
+      "id": "d:cpal33",
+      "label": "CPal33",
+      "type": "document",
+      "title": "Dokument 15, Predigt des Nestorius gegen die Pelagianer (sermo 29 [Auszüge])"
+    },
+    {
+      "id": "d:cpal34",
+      "label": "CPal34",
+      "type": "document",
+      "title": "Dokument 16, Predigt des Nestorius gegen die Pelagianer (sermo 30 [Auszüge])"
+    },
+    {
+      "id": "d:cpal36",
+      "label": "CPal36",
+      "type": "document",
+      "title": "Dokument 17, Marius Mercators Commonitorium bezüglich Caelestius"
+    },
+    {
+      "id": "b:amos",
+      "label": "Amos",
+      "type": "bible",
+      "book": "Amos",
+      "testament": "OT"
+    },
+    {
+      "id": "d:cv2",
+      "label": "CV2",
+      "type": "document",
+      "title": "Dokument 18, Kyrills erster Brief an Nestorius"
+    },
+    {
+      "id": "d:cv3",
+      "label": "CV3",
+      "type": "document",
+      "title": "Dokument 19, Nestorius’ erster Brief an Kyrill"
+    },
+    {
+      "id": "d:cv143",
+      "label": "CV143",
+      "type": "document",
+      "title": "Dokument 20, Bittschrift des Diakon Basilius und weiterer Mönche"
+    },
+    {
+      "id": "d:cpal35",
+      "label": "CPal35",
+      "type": "document",
+      "title": "Dokument 21, Nestorius’ Brief an Caelestius"
+    },
+    {
+      "id": "d:cv4",
+      "label": "CV4",
+      "type": "document",
+      "title": "Dokument 23, Kyrills zweiter Brief an Nestorius"
+    },
+    {
+      "id": "d:cv5",
+      "label": "CV5",
+      "type": "document",
+      "title": "Dokument 24, Nestorius’ zweiter Brief an Kyrill"
+    },
+    {
+      "id": "d:cv166",
+      "label": "CV166",
+      "type": "document",
+      "title": "Dokument 25, Kyrill, ‚Gegen Nestorius‘"
+    },
+    {
+      "id": "b:1thess",
+      "label": "1Thess",
+      "type": "bible",
+      "book": "1Thess",
+      "testament": "NT"
+    },
+    {
+      "id": "b:hos",
+      "label": "Hos",
+      "type": "bible",
+      "book": "Hos",
+      "testament": "OT"
+    },
+    {
+      "id": "b:jas",
+      "label": "Jas",
+      "type": "bible",
+      "book": "Jas",
+      "testament": "NT"
+    },
+    {
+      "id": "b:jude",
+      "label": "Jude",
+      "type": "bible",
+      "book": "Jude",
+      "testament": "NT"
+    },
+    {
+      "id": "b:dan",
+      "label": "Dan",
+      "type": "bible",
+      "book": "Dan",
+      "testament": "OT"
+    },
+    {
+      "id": "b:eccl",
+      "label": "Eccl",
+      "type": "bible",
+      "book": "Eccl",
+      "testament": "OT"
+    },
+    {
+      "id": "b:joel",
+      "label": "Joel",
+      "type": "bible",
+      "book": "Joel",
+      "testament": "OT"
+    },
+    {
+      "id": "d:cpal29",
+      "label": "CPal29",
+      "type": "document",
+      "title": "Dokument 26, Kyrill, Exzerpte aus den Schriften des Nestorius"
+    },
+    {
+      "id": "d:cv144",
+      "label": "CV144",
+      "type": "document",
+      "title": "Dokument 27, Kyrills Brief an Coelestin"
+    },
+    {
+      "id": "d:cu4",
+      "label": "CU4",
+      "type": "document",
+      "title": "Dokument 28, Kyrills Memorandum an Poseidonios"
+    },
+    {
+      "id": "b:josh",
+      "label": "Josh",
+      "type": "bible",
+      "book": "Josh",
+      "testament": "OT"
+    },
+    {
+      "id": "d:cver1",
+      "label": "CVer1",
+      "type": "document",
+      "title": "Dokument 29, Coelestins Brief an Kyrill"
+    },
+    {
+      "id": "d:cver2",
+      "label": "CVer2",
+      "type": "document",
+      "title": "Dokument 30, Coelestins Brief an Nestorius"
+    },
+    {
+      "id": "d:cver5",
+      "label": "CVer5",
+      "type": "document",
+      "title": "Dokument 31, Coelestins Brief an Priester, Diakone, Kleriker und Volk in Konstantinopel"
+    },
+    {
+      "id": "b:1sam",
+      "label": "1Sam",
+      "type": "bible",
+      "book": "1Sam",
+      "testament": "OT"
+    },
+    {
+      "id": "d:cver6",
+      "label": "CVer6",
+      "type": "document",
+      "title": "Dokument 32, Coelestins Brief an Johannes von Antiochia, Juvenal von Jerusalem, Rufus von Thessaloniki und Flavian von Philippi"
+    },
+    {
+      "id": "d:cv15",
+      "label": "CV15",
+      "type": "document",
+      "title": "Dokument 34, Kyrills Brief an Juvenal von Jerusalem"
+    },
+    {
+      "id": "d:cv14",
+      "label": "CV14",
+      "type": "document",
+      "title": "Dokument 35, Brief des Johannes von Antiochia an Nestorius"
+    },
+    {
+      "id": "d:cv6",
+      "label": "CV6",
+      "type": "document",
+      "title": "Dokument 36, Kyrills dritter Brief an Nestorius"
+    },
+    {
+      "id": "d:cv24",
+      "label": "CV24",
+      "type": "document",
+      "title": "Dokument 37, Kyrills Brief an Klerus und Volk von Konstantinopel"
+    },
+    {
+      "id": "d:cv145",
+      "label": "CV145",
+      "type": "document",
+      "title": "Dokument 38, Kyrills Brief an die Mönche in Konstantinopel"
+    },
+    {
+      "id": "d:cv7",
+      "label": "CV7",
+      "type": "document",
+      "title": "Dokument 39, Kyrills Rede über den rechten Glauben an Theodosius"
+    },
+    {
+      "id": "b:2chr",
+      "label": "2Chr",
+      "type": "bible",
+      "book": "2Chr",
+      "testament": "OT"
+    },
+    {
+      "id": "b:tob",
+      "label": "Tob",
+      "type": "bible",
+      "book": "Tob",
+      "testament": "OT"
+    },
+    {
+      "id": "b:jonah",
+      "label": "Jonah",
+      "type": "bible",
+      "book": "Jonah",
+      "testament": "OT"
+    },
+    {
+      "id": "d:cv150",
+      "label": "CV150",
+      "type": "document",
+      "title": "Dokument 40, Kyrills Rede an die Herrinnen"
+    },
+    {
+      "id": "b:zeph",
+      "label": "Zeph",
+      "type": "bible",
+      "book": "Zeph",
+      "testament": "OT"
+    },
+    {
+      "id": "b:hag",
+      "label": "Hag",
+      "type": "bible",
+      "book": "Hag",
+      "testament": "OT"
+    },
+    {
+      "id": "d:cv149",
+      "label": "CV149",
+      "type": "document",
+      "title": "Dokument 41, Kyrills Rede an die Augustae über den Glauben"
+    },
+    {
+      "id": "d:cv25",
+      "label": "CV25",
+      "type": "document",
+      "title": "Dokument 42, Sacra an Kyrill und die Metropoliten, durch welche die Synode in Ephesus einberufen wird"
+    },
+    {
+      "id": "d:cv8",
+      "label": "CV8",
+      "type": "document",
+      "title": "Dokument 43, Sacra an Kyrill"
+    }
+  ],
+  "links": [
+    {
+      "id": "0",
+      "source": "b:sir",
+      "target": "d:cpal20",
+      "weight": 7.0
+    },
+    {
+      "id": "1",
+      "source": "b:titus",
+      "target": "d:cpal20",
+      "weight": 2.0
+    },
+    {
+      "id": "2",
+      "source": "b:2tim",
+      "target": "d:cpal20",
+      "weight": 2.0
+    },
+    {
+      "id": "3",
+      "source": "b:gen",
+      "target": "d:cpal20",
+      "weight": 6.0
+    },
+    {
+      "id": "4",
+      "source": "b:wis",
+      "target": "d:cpal20",
+      "weight": 2.0
+    },
+    {
+      "id": "5",
+      "source": "b:1cor",
+      "target": "d:cpal20",
+      "weight": 2.0
+    },
+    {
+      "id": "6",
+      "source": "b:1tim",
+      "target": "d:cpal20",
+      "weight": 2.0
+    },
+    {
+      "id": "7",
+      "source": "b:heb",
+      "target": "d:cpal20",
+      "weight": 4.0
+    },
+    {
+      "id": "8",
+      "source": "b:john",
+      "target": "d:cpal20",
+      "weight": 4.0
+    },
+    {
+      "id": "9",
+      "source": "b:matt",
+      "target": "d:cpal20",
+      "weight": 2.0
+    },
+    {
+      "id": "10",
+      "source": "b:ps",
+      "target": "d:cpal20",
+      "weight": 4.0
+    },
+    {
+      "id": "11",
+      "source": "b:john",
+      "target": "d:cv18",
+      "weight": 2.0
+    },
+    {
+      "id": "12",
+      "source": "b:acts",
+      "target": "d:cv18",
+      "weight": 4.0
+    },
+    {
+      "id": "13",
+      "source": "b:luke",
+      "target": "d:cv18",
+      "weight": 2.0
+    },
+    {
+      "id": "14",
+      "source": "b:bar",
+      "target": "d:cv18",
+      "weight": 2.0
+    },
+    {
+      "id": "15",
+      "source": "b:rom",
+      "target": "d:cv19",
+      "weight": 8.0
+    },
+    {
+      "id": "16",
+      "source": "b:exod",
+      "target": "d:cv19",
+      "weight": 2.0
+    },
+    {
+      "id": "17",
+      "source": "b:isa",
+      "target": "d:cv19",
+      "weight": 8.0
+    },
+    {
+      "id": "18",
+      "source": "b:judg",
+      "target": "d:cv19",
+      "weight": 2.0
+    },
+    {
+      "id": "19",
+      "source": "b:matt",
+      "target": "d:cv19",
+      "weight": 12.0
+    },
+    {
+      "id": "20",
+      "source": "b:john",
+      "target": "d:cv19",
+      "weight": 18.0
+    },
+    {
+      "id": "21",
+      "source": "b:luke",
+      "target": "d:cv19",
+      "weight": 14.0
+    },
+    {
+      "id": "22",
+      "source": "b:gen",
+      "target": "d:cv19",
+      "weight": 4.0
+    },
+    {
+      "id": "23",
+      "source": "b:heb",
+      "target": "d:cv19",
+      "weight": 16.0
+    },
+    {
+      "id": "24",
+      "source": "b:1cor",
+      "target": "d:cv19",
+      "weight": 2.0
+    },
+    {
+      "id": "25",
+      "source": "b:col",
+      "target": "d:cv19",
+      "weight": 4.0
+    },
+    {
+      "id": "26",
+      "source": "b:eph",
+      "target": "d:cv19",
+      "weight": 4.0
+    },
+    {
+      "id": "27",
+      "source": "b:ps",
+      "target": "d:cv19",
+      "weight": 33.0
+    },
+    {
+      "id": "28",
+      "source": "b:jer",
+      "target": "d:cv19",
+      "weight": 2.0
+    },
+    {
+      "id": "29",
+      "source": "b:mic",
+      "target": "d:cv19",
+      "weight": 2.0
+    },
+    {
+      "id": "30",
+      "source": "b:hab",
+      "target": "d:cv19",
+      "weight": 2.0
+    },
+    {
+      "id": "31",
+      "source": "b:gal",
+      "target": "d:cv19",
+      "weight": 2.0
+    },
+    {
+      "id": "32",
+      "source": "b:mark",
+      "target": "d:cv19",
+      "weight": 6.0
+    },
+    {
+      "id": "33",
+      "source": "b:song",
+      "target": "d:cv19",
+      "weight": 2.0
+    },
+    {
+      "id": "34",
+      "source": "b:ezek",
+      "target": "d:cv19",
+      "weight": 2.0
+    },
+    {
+      "id": "35",
+      "source": "b:heb",
+      "target": "d:cpal22",
+      "weight": 4.0
+    },
+    {
+      "id": "36",
+      "source": "b:acts",
+      "target": "d:cpal22",
+      "weight": 4.0
+    },
+    {
+      "id": "37",
+      "source": "b:john",
+      "target": "d:cpal22",
+      "weight": 6.0
+    },
+    {
+      "id": "38",
+      "source": "b:mark",
+      "target": "d:cpal22",
+      "weight": 2.0
+    },
+    {
+      "id": "39",
+      "source": "b:matt",
+      "target": "d:cpal22",
+      "weight": 4.0
+    },
+    {
+      "id": "40",
+      "source": "b:1tim",
+      "target": "d:cpal22",
+      "weight": 2.0
+    },
+    {
+      "id": "41",
+      "source": "b:prov",
+      "target": "d:cpal22",
+      "weight": 2.0
+    },
+    {
+      "id": "42",
+      "source": "b:mark",
+      "target": "d:cv1",
+      "weight": 2.0
+    },
+    {
+      "id": "43",
+      "source": "b:1cor",
+      "target": "d:cv1",
+      "weight": 16.0
+    },
+    {
+      "id": "44",
+      "source": "b:2pet",
+      "target": "d:cv1",
+      "weight": 2.0
+    },
+    {
+      "id": "45",
+      "source": "b:eph",
+      "target": "d:cv1",
+      "weight": 10.0
+    },
+    {
+      "id": "46",
+      "source": "b:isa",
+      "target": "d:cv1",
+      "weight": 20.0
+    },
+    {
+      "id": "47",
+      "source": "b:1pet",
+      "target": "d:cv1",
+      "weight": 10.0
+    },
+    {
+      "id": "48",
+      "source": "b:exod",
+      "target": "d:cv1",
+      "weight": 10.0
+    },
+    {
+      "id": "49",
+      "source": "b:luke",
+      "target": "d:cv1",
+      "weight": 8.0
+    },
+    {
+      "id": "50",
+      "source": "b:2tim",
+      "target": "d:cv1",
+      "weight": 6.0
+    },
+    {
+      "id": "51",
+      "source": "b:matt",
+      "target": "d:cv1",
+      "weight": 16.0
+    },
+    {
+      "id": "52",
+      "source": "b:heb",
+      "target": "d:cv1",
+      "weight": 22.0
+    },
+    {
+      "id": "53",
+      "source": "b:jer",
+      "target": "d:cv1",
+      "weight": 2.0
+    },
+    {
+      "id": "54",
+      "source": "b:john",
+      "target": "d:cv1",
+      "weight": 30.0
+    },
+    {
+      "id": "55",
+      "source": "b:ps",
+      "target": "d:cv1",
+      "weight": 24.0
+    },
+    {
+      "id": "56",
+      "source": "b:1tim",
+      "target": "d:cv1",
+      "weight": 4.0
+    },
+    {
+      "id": "57",
+      "source": "b:deut",
+      "target": "d:cv1",
+      "weight": 4.0
+    },
+    {
+      "id": "58",
+      "source": "b:col",
+      "target": "d:cv1",
+      "weight": 4.0
+    },
+    {
+      "id": "59",
+      "source": "b:gal",
+      "target": "d:cv1",
+      "weight": 6.0
+    },
+    {
+      "id": "60",
+      "source": "b:rom",
+      "target": "d:cv1",
+      "weight": 10.0
+    },
+    {
+      "id": "61",
+      "source": "b:hab",
+      "target": "d:cv1",
+      "weight": 2.0
+    },
+    {
+      "id": "62",
+      "source": "b:1john",
+      "target": "d:cv1",
+      "weight": 6.0
+    },
+    {
+      "id": "63",
+      "source": "b:acts",
+      "target": "d:cv1",
+      "weight": 4.0
+    },
+    {
+      "id": "64",
+      "source": "b:zech",
+      "target": "d:cv1",
+      "weight": 2.0
+    },
+    {
+      "id": "65",
+      "source": "b:phil",
+      "target": "d:cv1",
+      "weight": 10.0
+    },
+    {
+      "id": "66",
+      "source": "b:mal",
+      "target": "d:cv1",
+      "weight": 2.0
+    },
+    {
+      "id": "67",
+      "source": "b:num",
+      "target": "d:cv1",
+      "weight": 4.0
+    },
+    {
+      "id": "68",
+      "source": "b:2cor",
+      "target": "d:cv1",
+      "weight": 2.0
+    },
+    {
+      "id": "69",
+      "source": "b:lev",
+      "target": "d:cv1",
+      "weight": 2.0
+    },
+    {
+      "id": "70",
+      "source": "b:ps",
+      "target": "d:cpal21",
+      "weight": 6.0
+    },
+    {
+      "id": "71",
+      "source": "b:matt",
+      "target": "d:cpal21",
+      "weight": 20.0
+    },
+    {
+      "id": "72",
+      "source": "b:isa",
+      "target": "d:cpal21",
+      "weight": 8.0
+    },
+    {
+      "id": "73",
+      "source": "b:mark",
+      "target": "d:cpal21",
+      "weight": 8.0
+    },
+    {
+      "id": "74",
+      "source": "b:luke",
+      "target": "d:cpal21",
+      "weight": 10.0
+    },
+    {
+      "id": "75",
+      "source": "b:john",
+      "target": "d:cpal21",
+      "weight": 48.0
+    },
+    {
+      "id": "76",
+      "source": "b:1john",
+      "target": "d:cpal21",
+      "weight": 2.0
+    },
+    {
+      "id": "77",
+      "source": "b:mal",
+      "target": "d:cpal21",
+      "weight": 2.0
+    },
+    {
+      "id": "78",
+      "source": "b:acts",
+      "target": "d:cpal21",
+      "weight": 16.0
+    },
+    {
+      "id": "79",
+      "source": "b:eph",
+      "target": "d:cpal21",
+      "weight": 22.0
+    },
+    {
+      "id": "80",
+      "source": "b:phil",
+      "target": "d:cpal21",
+      "weight": 12.0
+    },
+    {
+      "id": "81",
+      "source": "b:heb",
+      "target": "d:cpal21",
+      "weight": 20.0
+    },
+    {
+      "id": "82",
+      "source": "b:rom",
+      "target": "d:cpal21",
+      "weight": 18.0
+    },
+    {
+      "id": "83",
+      "source": "b:gen",
+      "target": "d:cpal21",
+      "weight": 6.0
+    },
+    {
+      "id": "84",
+      "source": "b:deut",
+      "target": "d:cpal21",
+      "weight": 2.0
+    },
+    {
+      "id": "85",
+      "source": "b:col",
+      "target": "d:cpal21",
+      "weight": 12.0
+    },
+    {
+      "id": "86",
+      "source": "b:1cor",
+      "target": "d:cpal21",
+      "weight": 10.0
+    },
+    {
+      "id": "87",
+      "source": "b:1pet",
+      "target": "d:cpal21",
+      "weight": 2.0
+    },
+    {
+      "id": "88",
+      "source": "b:2cor",
+      "target": "d:cpal21",
+      "weight": 8.0
+    },
+    {
+      "id": "89",
+      "source": "b:gal",
+      "target": "d:cpal21",
+      "weight": 4.0
+    },
+    {
+      "id": "90",
+      "source": "b:rev",
+      "target": "d:cpal21",
+      "weight": 2.0
+    },
+    {
+      "id": "91",
+      "source": "b:2tim",
+      "target": "d:cpal21",
+      "weight": 2.0
+    },
+    {
+      "id": "92",
+      "source": "b:acts",
+      "target": "d:cv22",
+      "weight": 2.0
+    },
+    {
+      "id": "93",
+      "source": "b:john",
+      "target": "d:cv22",
+      "weight": 4.0
+    },
+    {
+      "id": "94",
+      "source": "b:1cor",
+      "target": "d:cv22",
+      "weight": 2.0
+    },
+    {
+      "id": "95",
+      "source": "b:1pet",
+      "target": "d:cv22",
+      "weight": 4.0
+    },
+    {
+      "id": "96",
+      "source": "b:ps",
+      "target": "d:cv22",
+      "weight": 2.0
+    },
+    {
+      "id": "97",
+      "source": "b:prov",
+      "target": "d:cv22",
+      "weight": 2.0
+    },
+    {
+      "id": "98",
+      "source": "b:1john",
+      "target": "d:cv20",
+      "weight": 2.0
+    },
+    {
+      "id": "99",
+      "source": "b:2tim",
+      "target": "d:cv20",
+      "weight": 2.0
+    },
+    {
+      "id": "100",
+      "source": "b:isa",
+      "target": "d:cv20",
+      "weight": 2.0
+    },
+    {
+      "id": "101",
+      "source": "b:matt",
+      "target": "d:cv20",
+      "weight": 2.0
+    },
+    {
+      "id": "102",
+      "source": "b:sir",
+      "target": "d:cv20",
+      "weight": 2.0
+    },
+    {
+      "id": "103",
+      "source": "b:mark",
+      "target": "d:cv16",
+      "weight": 2.0
+    },
+    {
+      "id": "104",
+      "source": "b:sir",
+      "target": "d:cv17",
+      "weight": 2.0
+    },
+    {
+      "id": "105",
+      "source": "b:mark",
+      "target": "d:cv17",
+      "weight": 2.0
+    },
+    {
+      "id": "106",
+      "source": "b:2cor",
+      "target": "d:cv17",
+      "weight": 4.0
+    },
+    {
+      "id": "107",
+      "source": "b:gen",
+      "target": "d:cpal31",
+      "weight": 58.0
+    },
+    {
+      "id": "108",
+      "source": "b:luke",
+      "target": "d:cpal31",
+      "weight": 16.0
+    },
+    {
+      "id": "109",
+      "source": "b:job",
+      "target": "d:cpal31",
+      "weight": 4.0
+    },
+    {
+      "id": "110",
+      "source": "b:heb",
+      "target": "d:cpal31",
+      "weight": 4.0
+    },
+    {
+      "id": "111",
+      "source": "b:john",
+      "target": "d:cpal31",
+      "weight": 2.0
+    },
+    {
+      "id": "112",
+      "source": "b:ps",
+      "target": "d:cpal31",
+      "weight": 2.0
+    },
+    {
+      "id": "113",
+      "source": "b:matt",
+      "target": "d:cpal32",
+      "weight": 4.0
+    },
+    {
+      "id": "114",
+      "source": "b:luke",
+      "target": "d:cpal32",
+      "weight": 2.0
+    },
+    {
+      "id": "115",
+      "source": "b:exod",
+      "target": "d:cpal32",
+      "weight": 2.0
+    },
+    {
+      "id": "116",
+      "source": "b:rom",
+      "target": "d:cpal32",
+      "weight": 2.0
+    },
+    {
+      "id": "117",
+      "source": "b:1cor",
+      "target": "d:cpal32",
+      "weight": 2.0
+    },
+    {
+      "id": "118",
+      "source": "b:matt",
+      "target": "d:cpal33",
+      "weight": 10.0
+    },
+    {
+      "id": "119",
+      "source": "b:luke",
+      "target": "d:cpal33",
+      "weight": 4.0
+    },
+    {
+      "id": "120",
+      "source": "b:col",
+      "target": "d:cpal33",
+      "weight": 4.0
+    },
+    {
+      "id": "121",
+      "source": "b:2cor",
+      "target": "d:cpal33",
+      "weight": 2.0
+    },
+    {
+      "id": "122",
+      "source": "b:mal",
+      "target": "d:cpal33",
+      "weight": 2.0
+    },
+    {
+      "id": "123",
+      "source": "b:john",
+      "target": "d:cpal33",
+      "weight": 2.0
+    },
+    {
+      "id": "124",
+      "source": "b:1cor",
+      "target": "d:cpal33",
+      "weight": 2.0
+    },
+    {
+      "id": "125",
+      "source": "b:eph",
+      "target": "d:cpal33",
+      "weight": 4.0
+    },
+    {
+      "id": "126",
+      "source": "b:mark",
+      "target": "d:cpal33",
+      "weight": 2.0
+    },
+    {
+      "id": "127",
+      "source": "b:gen",
+      "target": "d:cpal34",
+      "weight": 10.0
+    },
+    {
+      "id": "128",
+      "source": "b:rom",
+      "target": "d:cpal34",
+      "weight": 2.0
+    },
+    {
+      "id": "129",
+      "source": "b:matt",
+      "target": "d:cpal34",
+      "weight": 4.0
+    },
+    {
+      "id": "130",
+      "source": "b:jer",
+      "target": "d:cpal34",
+      "weight": 2.0
+    },
+    {
+      "id": "131",
+      "source": "b:mark",
+      "target": "d:cpal34",
+      "weight": 4.0
+    },
+    {
+      "id": "132",
+      "source": "b:john",
+      "target": "d:cpal34",
+      "weight": 10.0
+    },
+    {
+      "id": "133",
+      "source": "b:1tim",
+      "target": "d:cpal34",
+      "weight": 2.0
+    },
+    {
+      "id": "134",
+      "source": "b:ezek",
+      "target": "d:cpal34",
+      "weight": 2.0
+    },
+    {
+      "id": "135",
+      "source": "b:titus",
+      "target": "d:cpal34",
+      "weight": 2.0
+    },
+    {
+      "id": "136",
+      "source": "b:num",
+      "target": "d:cpal34",
+      "weight": 2.0
+    },
+    {
+      "id": "137",
+      "source": "b:eph",
+      "target": "d:cpal34",
+      "weight": 2.0
+    },
+    {
+      "id": "138",
+      "source": "b:rom",
+      "target": "d:cpal36",
+      "weight": 28.0
+    },
+    {
+      "id": "139",
+      "source": "b:luke",
+      "target": "d:cpal36",
+      "weight": 2.0
+    },
+    {
+      "id": "140",
+      "source": "b:acts",
+      "target": "d:cpal36",
+      "weight": 2.0
+    },
+    {
+      "id": "141",
+      "source": "b:ps",
+      "target": "d:cpal36",
+      "weight": 6.0
+    },
+    {
+      "id": "142",
+      "source": "b:gen",
+      "target": "d:cpal36",
+      "weight": 8.0
+    },
+    {
+      "id": "143",
+      "source": "b:lev",
+      "target": "d:cpal36",
+      "weight": 2.0
+    },
+    {
+      "id": "144",
+      "source": "b:amos",
+      "target": "d:cpal36",
+      "weight": 4.0
+    },
+    {
+      "id": "145",
+      "source": "b:prov",
+      "target": "d:cpal36",
+      "weight": 2.0
+    },
+    {
+      "id": "146",
+      "source": "b:deut",
+      "target": "d:cpal36",
+      "weight": 10.0
+    },
+    {
+      "id": "147",
+      "source": "b:gal",
+      "target": "d:cpal36",
+      "weight": 12.0
+    },
+    {
+      "id": "148",
+      "source": "b:matt",
+      "target": "d:cpal36",
+      "weight": 2.0
+    },
+    {
+      "id": "149",
+      "source": "b:2cor",
+      "target": "d:cv2",
+      "weight": 2.0
+    },
+    {
+      "id": "150",
+      "source": "b:luke",
+      "target": "d:cv2",
+      "weight": 2.0
+    },
+    {
+      "id": "151",
+      "source": "b:2cor",
+      "target": "d:cv3",
+      "weight": 2.0
+    },
+    {
+      "id": "152",
+      "source": "b:titus",
+      "target": "d:cv143",
+      "weight": 2.0
+    },
+    {
+      "id": "153",
+      "source": "b:1tim",
+      "target": "d:cv143",
+      "weight": 6.0
+    },
+    {
+      "id": "154",
+      "source": "b:matt",
+      "target": "d:cv143",
+      "weight": 6.0
+    },
+    {
+      "id": "155",
+      "source": "b:gal",
+      "target": "d:cv143",
+      "weight": 4.0
+    },
+    {
+      "id": "156",
+      "source": "b:acts",
+      "target": "d:cv143",
+      "weight": 8.0
+    },
+    {
+      "id": "157",
+      "source": "b:heb",
+      "target": "d:cv143",
+      "weight": 2.0
+    },
+    {
+      "id": "158",
+      "source": "b:john",
+      "target": "d:cv143",
+      "weight": 2.0
+    },
+    {
+      "id": "159",
+      "source": "b:col",
+      "target": "d:cv143",
+      "weight": 2.0
+    },
+    {
+      "id": "160",
+      "source": "b:rom",
+      "target": "d:cv143",
+      "weight": 6.0
+    },
+    {
+      "id": "161",
+      "source": "b:2tim",
+      "target": "d:cv143",
+      "weight": 4.0
+    },
+    {
+      "id": "162",
+      "source": "b:phil",
+      "target": "d:cv143",
+      "weight": 6.0
+    },
+    {
+      "id": "163",
+      "source": "b:isa",
+      "target": "d:cv143",
+      "weight": 2.0
+    },
+    {
+      "id": "164",
+      "source": "b:mark",
+      "target": "d:cpal35",
+      "weight": 4.0
+    },
+    {
+      "id": "165",
+      "source": "b:matt",
+      "target": "d:cpal35",
+      "weight": 4.0
+    },
+    {
+      "id": "166",
+      "source": "b:luke",
+      "target": "d:cpal35",
+      "weight": 2.0
+    },
+    {
+      "id": "167",
+      "source": "b:ps",
+      "target": "d:cv4",
+      "weight": 2.0
+    },
+    {
+      "id": "168",
+      "source": "b:rom",
+      "target": "d:cv4",
+      "weight": 2.0
+    },
+    {
+      "id": "169",
+      "source": "b:matt",
+      "target": "d:cv4",
+      "weight": 2.0
+    },
+    {
+      "id": "170",
+      "source": "b:2cor",
+      "target": "d:cv4",
+      "weight": 2.0
+    },
+    {
+      "id": "171",
+      "source": "b:heb",
+      "target": "d:cv4",
+      "weight": 4.0
+    },
+    {
+      "id": "172",
+      "source": "b:john",
+      "target": "d:cv4",
+      "weight": 2.0
+    },
+    {
+      "id": "173",
+      "source": "b:1tim",
+      "target": "d:cv4",
+      "weight": 2.0
+    },
+    {
+      "id": "174",
+      "source": "b:1tim",
+      "target": "d:cv5",
+      "weight": 6.0
+    },
+    {
+      "id": "175",
+      "source": "b:john",
+      "target": "d:cv5",
+      "weight": 6.0
+    },
+    {
+      "id": "176",
+      "source": "b:phil",
+      "target": "d:cv5",
+      "weight": 2.0
+    },
+    {
+      "id": "177",
+      "source": "b:matt",
+      "target": "d:cv5",
+      "weight": 14.0
+    },
+    {
+      "id": "178",
+      "source": "b:acts",
+      "target": "d:cv5",
+      "weight": 2.0
+    },
+    {
+      "id": "179",
+      "source": "b:rom",
+      "target": "d:cv5",
+      "weight": 4.0
+    },
+    {
+      "id": "180",
+      "source": "b:1cor",
+      "target": "d:cv5",
+      "weight": 6.0
+    },
+    {
+      "id": "181",
+      "source": "b:1pet",
+      "target": "d:cv5",
+      "weight": 2.0
+    },
+    {
+      "id": "182",
+      "source": "b:ps",
+      "target": "d:cv5",
+      "weight": 2.0
+    },
+    {
+      "id": "183",
+      "source": "b:luke",
+      "target": "d:cv5",
+      "weight": 14.0
+    },
+    {
+      "id": "184",
+      "source": "b:heb",
+      "target": "d:cv5",
+      "weight": 2.0
+    },
+    {
+      "id": "185",
+      "source": "b:hab",
+      "target": "d:cv5",
+      "weight": 2.0
+    },
+    {
+      "id": "186",
+      "source": "b:isa",
+      "target": "d:cv5",
+      "weight": 2.0
+    },
+    {
+      "id": "187",
+      "source": "b:prov",
+      "target": "d:cv166",
+      "weight": 8.0
+    },
+    {
+      "id": "188",
+      "source": "b:1john",
+      "target": "d:cv166",
+      "weight": 14.0
+    },
+    {
+      "id": "189",
+      "source": "b:1cor",
+      "target": "d:cv166",
+      "weight": 108.0
+    },
+    {
+      "id": "190",
+      "source": "b:matt",
+      "target": "d:cv166",
+      "weight": 100.0
+    },
+    {
+      "id": "191",
+      "source": "b:1thess",
+      "target": "d:cv166",
+      "weight": 6.0
+    },
+    {
+      "id": "192",
+      "source": "b:isa",
+      "target": "d:cv166",
+      "weight": 94.0
+    },
+    {
+      "id": "193",
+      "source": "b:2cor",
+      "target": "d:cv166",
+      "weight": 46.0
+    },
+    {
+      "id": "194",
+      "source": "b:ps",
+      "target": "d:cv166",
+      "weight": 74.0
+    },
+    {
+      "id": "195",
+      "source": "b:mark",
+      "target": "d:cv166",
+      "weight": 22.0
+    },
+    {
+      "id": "196",
+      "source": "b:john",
+      "target": "d:cv166",
+      "weight": 278.0
+    },
+    {
+      "id": "197",
+      "source": "b:col",
+      "target": "d:cv166",
+      "weight": 30.0
+    },
+    {
+      "id": "198",
+      "source": "b:phil",
+      "target": "d:cv166",
+      "weight": 56.0
+    },
+    {
+      "id": "199",
+      "source": "b:heb",
+      "target": "d:cv166",
+      "weight": 197.0
+    },
+    {
+      "id": "200",
+      "source": "b:eph",
+      "target": "d:cv166",
+      "weight": 56.0
+    },
+    {
+      "id": "201",
+      "source": "b:gal",
+      "target": "d:cv166",
+      "weight": 44.0
+    },
+    {
+      "id": "202",
+      "source": "b:1tim",
+      "target": "d:cv166",
+      "weight": 18.0
+    },
+    {
+      "id": "203",
+      "source": "b:rom",
+      "target": "d:cv166",
+      "weight": 84.0
+    },
+    {
+      "id": "204",
+      "source": "b:acts",
+      "target": "d:cv166",
+      "weight": 28.0
+    },
+    {
+      "id": "205",
+      "source": "b:luke",
+      "target": "d:cv166",
+      "weight": 52.0
+    },
+    {
+      "id": "206",
+      "source": "b:gen",
+      "target": "d:cv166",
+      "weight": 32.0
+    },
+    {
+      "id": "207",
+      "source": "b:deut",
+      "target": "d:cv166",
+      "weight": 22.0
+    },
+    {
+      "id": "208",
+      "source": "b:jer",
+      "target": "d:cv166",
+      "weight": 10.0
+    },
+    {
+      "id": "209",
+      "source": "b:hos",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "210",
+      "source": "b:mal",
+      "target": "d:cv166",
+      "weight": 5.0
+    },
+    {
+      "id": "211",
+      "source": "b:hab",
+      "target": "d:cv166",
+      "weight": 10.0
+    },
+    {
+      "id": "212",
+      "source": "b:num",
+      "target": "d:cv166",
+      "weight": 26.0
+    },
+    {
+      "id": "213",
+      "source": "b:ezek",
+      "target": "d:cv166",
+      "weight": 4.0
+    },
+    {
+      "id": "214",
+      "source": "b:2pet",
+      "target": "d:cv166",
+      "weight": 14.0
+    },
+    {
+      "id": "215",
+      "source": "b:jas",
+      "target": "d:cv166",
+      "weight": 8.0
+    },
+    {
+      "id": "216",
+      "source": "b:sir",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "217",
+      "source": "b:song",
+      "target": "d:cv166",
+      "weight": 4.0
+    },
+    {
+      "id": "218",
+      "source": "b:1pet",
+      "target": "d:cv166",
+      "weight": 44.0
+    },
+    {
+      "id": "219",
+      "source": "b:exod",
+      "target": "d:cv166",
+      "weight": 30.0
+    },
+    {
+      "id": "220",
+      "source": "b:lev",
+      "target": "d:cv166",
+      "weight": 8.0
+    },
+    {
+      "id": "221",
+      "source": "b:jude",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "222",
+      "source": "b:wis",
+      "target": "d:cv166",
+      "weight": 4.0
+    },
+    {
+      "id": "223",
+      "source": "b:bar",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "224",
+      "source": "b:rev",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "225",
+      "source": "b:2tim",
+      "target": "d:cv166",
+      "weight": 4.0
+    },
+    {
+      "id": "226",
+      "source": "b:dan",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "227",
+      "source": "b:zech",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "228",
+      "source": "b:eccl",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "229",
+      "source": "b:job",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "230",
+      "source": "b:joel",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "231",
+      "source": "b:gal",
+      "target": "d:cpal29",
+      "weight": 4.0
+    },
+    {
+      "id": "232",
+      "source": "b:john",
+      "target": "d:cpal29",
+      "weight": 44.0
+    },
+    {
+      "id": "233",
+      "source": "b:mark",
+      "target": "d:cpal29",
+      "weight": 8.0
+    },
+    {
+      "id": "234",
+      "source": "b:heb",
+      "target": "d:cpal29",
+      "weight": 16.0
+    },
+    {
+      "id": "235",
+      "source": "b:matt",
+      "target": "d:cpal29",
+      "weight": 22.0
+    },
+    {
+      "id": "236",
+      "source": "b:acts",
+      "target": "d:cpal29",
+      "weight": 6.0
+    },
+    {
+      "id": "237",
+      "source": "b:eph",
+      "target": "d:cpal29",
+      "weight": 4.0
+    },
+    {
+      "id": "238",
+      "source": "b:luke",
+      "target": "d:cpal29",
+      "weight": 6.0
+    },
+    {
+      "id": "239",
+      "source": "b:phil",
+      "target": "d:cpal29",
+      "weight": 6.0
+    },
+    {
+      "id": "240",
+      "source": "b:ps",
+      "target": "d:cpal29",
+      "weight": 2.0
+    },
+    {
+      "id": "241",
+      "source": "b:isa",
+      "target": "d:cpal29",
+      "weight": 2.0
+    },
+    {
+      "id": "242",
+      "source": "b:rom",
+      "target": "d:cpal29",
+      "weight": 2.0
+    },
+    {
+      "id": "243",
+      "source": "b:rev",
+      "target": "d:cpal29",
+      "weight": 2.0
+    },
+    {
+      "id": "244",
+      "source": "b:1cor",
+      "target": "d:cpal29",
+      "weight": 4.0
+    },
+    {
+      "id": "245",
+      "source": "b:1tim",
+      "target": "d:cpal29",
+      "weight": 2.0
+    },
+    {
+      "id": "246",
+      "source": "b:1thess",
+      "target": "d:cv144",
+      "weight": 2.0
+    },
+    {
+      "id": "247",
+      "source": "b:2tim",
+      "target": "d:cv144",
+      "weight": 2.0
+    },
+    {
+      "id": "248",
+      "source": "b:1pet",
+      "target": "d:cv144",
+      "weight": 2.0
+    },
+    {
+      "id": "249",
+      "source": "b:matt",
+      "target": "d:cv144",
+      "weight": 2.0
+    },
+    {
+      "id": "250",
+      "source": "b:prov",
+      "target": "d:cv144",
+      "weight": 2.0
+    },
+    {
+      "id": "251",
+      "source": "b:amos",
+      "target": "d:cv144",
+      "weight": 2.0
+    },
+    {
+      "id": "252",
+      "source": "b:1cor",
+      "target": "d:cv144",
+      "weight": 2.0
+    },
+    {
+      "id": "253",
+      "source": "b:phil",
+      "target": "d:cu4",
+      "weight": 2.0
+    },
+    {
+      "id": "254",
+      "source": "b:josh",
+      "target": "d:cu4",
+      "weight": 2.0
+    },
+    {
+      "id": "255",
+      "source": "b:1pet",
+      "target": "d:cu4",
+      "weight": 2.0
+    },
+    {
+      "id": "256",
+      "source": "b:acts",
+      "target": "d:cu4",
+      "weight": 2.0
+    },
+    {
+      "id": "257",
+      "source": "b:john",
+      "target": "d:cver1",
+      "weight": 6.0
+    },
+    {
+      "id": "258",
+      "source": "b:mark",
+      "target": "d:cver1",
+      "weight": 2.0
+    },
+    {
+      "id": "259",
+      "source": "b:matt",
+      "target": "d:cver1",
+      "weight": 4.0
+    },
+    {
+      "id": "260",
+      "source": "b:titus",
+      "target": "d:cver1",
+      "weight": 2.0
+    },
+    {
+      "id": "261",
+      "source": "b:luke",
+      "target": "d:cver1",
+      "weight": 2.0
+    },
+    {
+      "id": "262",
+      "source": "b:ezek",
+      "target": "d:cver1",
+      "weight": 2.0
+    },
+    {
+      "id": "263",
+      "source": "b:amos",
+      "target": "d:cver1",
+      "weight": 2.0
+    },
+    {
+      "id": "264",
+      "source": "b:rom",
+      "target": "d:cver2",
+      "weight": 6.0
+    },
+    {
+      "id": "265",
+      "source": "b:1tim",
+      "target": "d:cver2",
+      "weight": 14.0
+    },
+    {
+      "id": "266",
+      "source": "b:sir",
+      "target": "d:cver2",
+      "weight": 2.0
+    },
+    {
+      "id": "267",
+      "source": "b:gal",
+      "target": "d:cver2",
+      "weight": 6.0
+    },
+    {
+      "id": "268",
+      "source": "b:amos",
+      "target": "d:cver2",
+      "weight": 4.0
+    },
+    {
+      "id": "269",
+      "source": "b:1cor",
+      "target": "d:cver2",
+      "weight": 7.0
+    },
+    {
+      "id": "270",
+      "source": "b:matt",
+      "target": "d:cver2",
+      "weight": 14.0
+    },
+    {
+      "id": "271",
+      "source": "b:2tim",
+      "target": "d:cver2",
+      "weight": 6.0
+    },
+    {
+      "id": "272",
+      "source": "b:titus",
+      "target": "d:cver2",
+      "weight": 4.0
+    },
+    {
+      "id": "273",
+      "source": "b:jer",
+      "target": "d:cver2",
+      "weight": 8.0
+    },
+    {
+      "id": "274",
+      "source": "b:luke",
+      "target": "d:cver2",
+      "weight": 8.0
+    },
+    {
+      "id": "275",
+      "source": "b:john",
+      "target": "d:cver2",
+      "weight": 16.0
+    },
+    {
+      "id": "276",
+      "source": "b:deut",
+      "target": "d:cver2",
+      "weight": 6.0
+    },
+    {
+      "id": "277",
+      "source": "b:prov",
+      "target": "d:cver2",
+      "weight": 2.0
+    },
+    {
+      "id": "278",
+      "source": "b:rev",
+      "target": "d:cver2",
+      "weight": 2.0
+    },
+    {
+      "id": "279",
+      "source": "b:heb",
+      "target": "d:cver2",
+      "weight": 2.0
+    },
+    {
+      "id": "280",
+      "source": "b:ps",
+      "target": "d:cver2",
+      "weight": 8.0
+    },
+    {
+      "id": "281",
+      "source": "b:acts",
+      "target": "d:cver2",
+      "weight": 4.0
+    },
+    {
+      "id": "282",
+      "source": "b:mark",
+      "target": "d:cver2",
+      "weight": 2.0
+    },
+    {
+      "id": "283",
+      "source": "b:1john",
+      "target": "d:cver2",
+      "weight": 2.0
+    },
+    {
+      "id": "284",
+      "source": "b:2cor",
+      "target": "d:cver2",
+      "weight": 2.0
+    },
+    {
+      "id": "285",
+      "source": "b:eph",
+      "target": "d:cver2",
+      "weight": 2.0
+    },
+    {
+      "id": "286",
+      "source": "b:2cor",
+      "target": "d:cver5",
+      "weight": 12.0
+    },
+    {
+      "id": "287",
+      "source": "b:1cor",
+      "target": "d:cver5",
+      "weight": 14.0
+    },
+    {
+      "id": "288",
+      "source": "b:jer",
+      "target": "d:cver5",
+      "weight": 10.0
+    },
+    {
+      "id": "289",
+      "source": "b:ezek",
+      "target": "d:cver5",
+      "weight": 4.0
+    },
+    {
+      "id": "290",
+      "source": "b:matt",
+      "target": "d:cver5",
+      "weight": 16.0
+    },
+    {
+      "id": "291",
+      "source": "b:rom",
+      "target": "d:cver5",
+      "weight": 10.0
+    },
+    {
+      "id": "292",
+      "source": "b:john",
+      "target": "d:cver5",
+      "weight": 8.0
+    },
+    {
+      "id": "293",
+      "source": "b:gal",
+      "target": "d:cver5",
+      "weight": 2.0
+    },
+    {
+      "id": "294",
+      "source": "b:heb",
+      "target": "d:cver5",
+      "weight": 2.0
+    },
+    {
+      "id": "295",
+      "source": "b:prov",
+      "target": "d:cver5",
+      "weight": 6.0
+    },
+    {
+      "id": "296",
+      "source": "b:ps",
+      "target": "d:cver5",
+      "weight": 12.0
+    },
+    {
+      "id": "297",
+      "source": "b:2tim",
+      "target": "d:cver5",
+      "weight": 2.0
+    },
+    {
+      "id": "298",
+      "source": "b:isa",
+      "target": "d:cver5",
+      "weight": 6.0
+    },
+    {
+      "id": "299",
+      "source": "b:eph",
+      "target": "d:cver5",
+      "weight": 4.0
+    },
+    {
+      "id": "300",
+      "source": "b:1thess",
+      "target": "d:cver5",
+      "weight": 4.0
+    },
+    {
+      "id": "301",
+      "source": "b:1john",
+      "target": "d:cver5",
+      "weight": 2.0
+    },
+    {
+      "id": "302",
+      "source": "b:luke",
+      "target": "d:cver5",
+      "weight": 2.0
+    },
+    {
+      "id": "303",
+      "source": "b:1sam",
+      "target": "d:cver5",
+      "weight": 2.0
+    },
+    {
+      "id": "304",
+      "source": "b:acts",
+      "target": "d:cver5",
+      "weight": 2.0
+    },
+    {
+      "id": "305",
+      "source": "b:amos",
+      "target": "d:cver5",
+      "weight": 2.0
+    },
+    {
+      "id": "306",
+      "source": "b:eph",
+      "target": "d:cver6",
+      "weight": 4.0
+    },
+    {
+      "id": "307",
+      "source": "b:1thess",
+      "target": "d:cver6",
+      "weight": 2.0
+    },
+    {
+      "id": "308",
+      "source": "b:isa",
+      "target": "d:cver6",
+      "weight": 2.0
+    },
+    {
+      "id": "309",
+      "source": "b:amos",
+      "target": "d:cver6",
+      "weight": 2.0
+    },
+    {
+      "id": "310",
+      "source": "b:matt",
+      "target": "d:cv15",
+      "weight": 2.0
+    },
+    {
+      "id": "311",
+      "source": "b:exod",
+      "target": "d:cv15",
+      "weight": 2.0
+    },
+    {
+      "id": "312",
+      "source": "b:prov",
+      "target": "d:cv15",
+      "weight": 2.0
+    },
+    {
+      "id": "313",
+      "source": "b:1cor",
+      "target": "d:cv14",
+      "weight": 2.0
+    },
+    {
+      "id": "314",
+      "source": "b:phil",
+      "target": "d:cv14",
+      "weight": 2.0
+    },
+    {
+      "id": "315",
+      "source": "b:gal",
+      "target": "d:cv14",
+      "weight": 2.0
+    },
+    {
+      "id": "316",
+      "source": "b:matt",
+      "target": "d:cv6",
+      "weight": 10.0
+    },
+    {
+      "id": "317",
+      "source": "b:1cor",
+      "target": "d:cv6",
+      "weight": 12.0
+    },
+    {
+      "id": "318",
+      "source": "b:heb",
+      "target": "d:cv6",
+      "weight": 20.0
+    },
+    {
+      "id": "319",
+      "source": "b:luke",
+      "target": "d:cv6",
+      "weight": 6.0
+    },
+    {
+      "id": "320",
+      "source": "b:num",
+      "target": "d:cv6",
+      "weight": 2.0
+    },
+    {
+      "id": "321",
+      "source": "b:mal",
+      "target": "d:cv6",
+      "weight": 2.0
+    },
+    {
+      "id": "322",
+      "source": "b:eph",
+      "target": "d:cv6",
+      "weight": 6.0
+    },
+    {
+      "id": "323",
+      "source": "b:john",
+      "target": "d:cv6",
+      "weight": 36.0
+    },
+    {
+      "id": "324",
+      "source": "b:col",
+      "target": "d:cv6",
+      "weight": 6.0
+    },
+    {
+      "id": "325",
+      "source": "b:gal",
+      "target": "d:cv6",
+      "weight": 2.0
+    },
+    {
+      "id": "326",
+      "source": "b:1pet",
+      "target": "d:cv6",
+      "weight": 6.0
+    },
+    {
+      "id": "327",
+      "source": "b:mark",
+      "target": "d:cv6",
+      "weight": 2.0
+    },
+    {
+      "id": "328",
+      "source": "b:acts",
+      "target": "d:cv6",
+      "weight": 4.0
+    },
+    {
+      "id": "329",
+      "source": "b:ps",
+      "target": "d:cv6",
+      "weight": 4.0
+    },
+    {
+      "id": "330",
+      "source": "b:phil",
+      "target": "d:cv6",
+      "weight": 2.0
+    },
+    {
+      "id": "331",
+      "source": "b:1tim",
+      "target": "d:cv6",
+      "weight": 4.0
+    },
+    {
+      "id": "332",
+      "source": "b:gen",
+      "target": "d:cv6",
+      "weight": 4.0
+    },
+    {
+      "id": "333",
+      "source": "b:rom",
+      "target": "d:cv6",
+      "weight": 2.0
+    },
+    {
+      "id": "334",
+      "source": "b:isa",
+      "target": "d:cv6",
+      "weight": 2.0
+    },
+    {
+      "id": "335",
+      "source": "b:2cor",
+      "target": "d:cv6",
+      "weight": 2.0
+    },
+    {
+      "id": "336",
+      "source": "b:john",
+      "target": "d:cv24",
+      "weight": 2.0
+    },
+    {
+      "id": "337",
+      "source": "b:matt",
+      "target": "d:cv24",
+      "weight": 2.0
+    },
+    {
+      "id": "338",
+      "source": "b:1cor",
+      "target": "d:cv24",
+      "weight": 2.0
+    },
+    {
+      "id": "339",
+      "source": "b:1pet",
+      "target": "d:cv24",
+      "weight": 2.0
+    },
+    {
+      "id": "340",
+      "source": "b:1tim",
+      "target": "d:cv145",
+      "weight": 2.0
+    },
+    {
+      "id": "341",
+      "source": "b:2tim",
+      "target": "d:cv145",
+      "weight": 2.0
+    },
+    {
+      "id": "342",
+      "source": "b:exod",
+      "target": "d:cv145",
+      "weight": 2.0
+    },
+    {
+      "id": "343",
+      "source": "b:num",
+      "target": "d:cv145",
+      "weight": 2.0
+    },
+    {
+      "id": "344",
+      "source": "b:ps",
+      "target": "d:cv145",
+      "weight": 2.0
+    },
+    {
+      "id": "345",
+      "source": "b:1cor",
+      "target": "d:cv145",
+      "weight": 2.0
+    },
+    {
+      "id": "346",
+      "source": "b:rom",
+      "target": "d:cv145",
+      "weight": 6.0
+    },
+    {
+      "id": "347",
+      "source": "b:isa",
+      "target": "d:cv7",
+      "weight": 36.0
+    },
+    {
+      "id": "348",
+      "source": "b:phil",
+      "target": "d:cv7",
+      "weight": 16.0
+    },
+    {
+      "id": "349",
+      "source": "b:eph",
+      "target": "d:cv7",
+      "weight": 6.0
+    },
+    {
+      "id": "350",
+      "source": "b:col",
+      "target": "d:cv7",
+      "weight": 14.0
+    },
+    {
+      "id": "351",
+      "source": "b:prov",
+      "target": "d:cv7",
+      "weight": 6.0
+    },
+    {
+      "id": "352",
+      "source": "b:1cor",
+      "target": "d:cv7",
+      "weight": 36.0
+    },
+    {
+      "id": "353",
+      "source": "b:2chr",
+      "target": "d:cv7",
+      "weight": 2.0
+    },
+    {
+      "id": "354",
+      "source": "b:matt",
+      "target": "d:cv7",
+      "weight": 36.0
+    },
+    {
+      "id": "355",
+      "source": "b:tob",
+      "target": "d:cv7",
+      "weight": 2.0
+    },
+    {
+      "id": "356",
+      "source": "b:1tim",
+      "target": "d:cv7",
+      "weight": 16.0
+    },
+    {
+      "id": "357",
+      "source": "b:luke",
+      "target": "d:cv7",
+      "weight": 14.0
+    },
+    {
+      "id": "358",
+      "source": "b:heb",
+      "target": "d:cv7",
+      "weight": 36.0
+    },
+    {
+      "id": "359",
+      "source": "b:john",
+      "target": "d:cv7",
+      "weight": 104.0
+    },
+    {
+      "id": "360",
+      "source": "b:1pet",
+      "target": "d:cv7",
+      "weight": 6.0
+    },
+    {
+      "id": "361",
+      "source": "b:hos",
+      "target": "d:cv7",
+      "weight": 2.0
+    },
+    {
+      "id": "362",
+      "source": "b:jonah",
+      "target": "d:cv7",
+      "weight": 2.0
+    },
+    {
+      "id": "363",
+      "source": "b:1john",
+      "target": "d:cv7",
+      "weight": 16.0
+    },
+    {
+      "id": "364",
+      "source": "b:gal",
+      "target": "d:cv7",
+      "weight": 14.0
+    },
+    {
+      "id": "365",
+      "source": "b:rom",
+      "target": "d:cv7",
+      "weight": 40.0
+    },
+    {
+      "id": "366",
+      "source": "b:bar",
+      "target": "d:cv7",
+      "weight": 6.0
+    },
+    {
+      "id": "367",
+      "source": "b:ps",
+      "target": "d:cv7",
+      "weight": 24.0
+    },
+    {
+      "id": "368",
+      "source": "b:exod",
+      "target": "d:cv7",
+      "weight": 4.0
+    },
+    {
+      "id": "369",
+      "source": "b:2cor",
+      "target": "d:cv7",
+      "weight": 8.0
+    },
+    {
+      "id": "370",
+      "source": "b:acts",
+      "target": "d:cv7",
+      "weight": 12.0
+    },
+    {
+      "id": "371",
+      "source": "b:jude",
+      "target": "d:cv7",
+      "weight": 2.0
+    },
+    {
+      "id": "372",
+      "source": "b:2pet",
+      "target": "d:cv7",
+      "weight": 2.0
+    },
+    {
+      "id": "373",
+      "source": "b:mark",
+      "target": "d:cv7",
+      "weight": 2.0
+    },
+    {
+      "id": "374",
+      "source": "b:deut",
+      "target": "d:cv7",
+      "weight": 2.0
+    },
+    {
+      "id": "375",
+      "source": "b:1cor",
+      "target": "d:cv150",
+      "weight": 80.0
+    },
+    {
+      "id": "376",
+      "source": "b:phil",
+      "target": "d:cv150",
+      "weight": 30.0
+    },
+    {
+      "id": "377",
+      "source": "b:1tim",
+      "target": "d:cv150",
+      "weight": 20.0
+    },
+    {
+      "id": "378",
+      "source": "b:heb",
+      "target": "d:cv150",
+      "weight": 82.0
+    },
+    {
+      "id": "379",
+      "source": "b:john",
+      "target": "d:cv150",
+      "weight": 118.0
+    },
+    {
+      "id": "380",
+      "source": "b:isa",
+      "target": "d:cv150",
+      "weight": 38.0
+    },
+    {
+      "id": "381",
+      "source": "b:deut",
+      "target": "d:cv150",
+      "weight": 26.0
+    },
+    {
+      "id": "382",
+      "source": "b:hos",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "383",
+      "source": "b:eph",
+      "target": "d:cv150",
+      "weight": 34.0
+    },
+    {
+      "id": "384",
+      "source": "b:2pet",
+      "target": "d:cv150",
+      "weight": 4.0
+    },
+    {
+      "id": "385",
+      "source": "b:luke",
+      "target": "d:cv150",
+      "weight": 84.0
+    },
+    {
+      "id": "386",
+      "source": "b:1pet",
+      "target": "d:cv150",
+      "weight": 22.0
+    },
+    {
+      "id": "387",
+      "source": "b:rom",
+      "target": "d:cv150",
+      "weight": 116.0
+    },
+    {
+      "id": "388",
+      "source": "b:acts",
+      "target": "d:cv150",
+      "weight": 14.0
+    },
+    {
+      "id": "389",
+      "source": "b:gal",
+      "target": "d:cv150",
+      "weight": 46.0
+    },
+    {
+      "id": "390",
+      "source": "b:1john",
+      "target": "d:cv150",
+      "weight": 20.0
+    },
+    {
+      "id": "391",
+      "source": "b:ps",
+      "target": "d:cv150",
+      "weight": 62.0
+    },
+    {
+      "id": "392",
+      "source": "b:mal",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "393",
+      "source": "b:exod",
+      "target": "d:cv150",
+      "weight": 10.0
+    },
+    {
+      "id": "394",
+      "source": "b:matt",
+      "target": "d:cv150",
+      "weight": 76.0
+    },
+    {
+      "id": "395",
+      "source": "b:mark",
+      "target": "d:cv150",
+      "weight": 12.0
+    },
+    {
+      "id": "396",
+      "source": "b:prov",
+      "target": "d:cv150",
+      "weight": 4.0
+    },
+    {
+      "id": "397",
+      "source": "b:jas",
+      "target": "d:cv150",
+      "weight": 14.0
+    },
+    {
+      "id": "398",
+      "source": "b:2cor",
+      "target": "d:cv150",
+      "weight": 46.0
+    },
+    {
+      "id": "399",
+      "source": "b:zeph",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "400",
+      "source": "b:col",
+      "target": "d:cv150",
+      "weight": 18.0
+    },
+    {
+      "id": "401",
+      "source": "b:gen",
+      "target": "d:cv150",
+      "weight": 12.0
+    },
+    {
+      "id": "402",
+      "source": "b:jer",
+      "target": "d:cv150",
+      "weight": 8.0
+    },
+    {
+      "id": "403",
+      "source": "b:lev",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "404",
+      "source": "b:hab",
+      "target": "d:cv150",
+      "weight": 4.0
+    },
+    {
+      "id": "405",
+      "source": "b:hag",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "406",
+      "source": "b:titus",
+      "target": "d:cv150",
+      "weight": 4.0
+    },
+    {
+      "id": "407",
+      "source": "b:jude",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "408",
+      "source": "b:num",
+      "target": "d:cv150",
+      "weight": 4.0
+    },
+    {
+      "id": "409",
+      "source": "b:dan",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "410",
+      "source": "b:isa",
+      "target": "d:cv149",
+      "weight": 24.0
+    },
+    {
+      "id": "411",
+      "source": "b:ps",
+      "target": "d:cv149",
+      "weight": 48.0
+    },
+    {
+      "id": "412",
+      "source": "b:2cor",
+      "target": "d:cv149",
+      "weight": 30.0
+    },
+    {
+      "id": "413",
+      "source": "b:1cor",
+      "target": "d:cv149",
+      "weight": 46.0
+    },
+    {
+      "id": "414",
+      "source": "b:gal",
+      "target": "d:cv149",
+      "weight": 18.0
+    },
+    {
+      "id": "415",
+      "source": "b:phil",
+      "target": "d:cv149",
+      "weight": 24.0
+    },
+    {
+      "id": "416",
+      "source": "b:john",
+      "target": "d:cv149",
+      "weight": 104.0
+    },
+    {
+      "id": "417",
+      "source": "b:joel",
+      "target": "d:cv149",
+      "weight": 4.0
+    },
+    {
+      "id": "418",
+      "source": "b:gen",
+      "target": "d:cv149",
+      "weight": 8.0
+    },
+    {
+      "id": "419",
+      "source": "b:matt",
+      "target": "d:cv149",
+      "weight": 34.0
+    },
+    {
+      "id": "420",
+      "source": "b:rom",
+      "target": "d:cv149",
+      "weight": 34.0
+    },
+    {
+      "id": "421",
+      "source": "b:eph",
+      "target": "d:cv149",
+      "weight": 14.0
+    },
+    {
+      "id": "422",
+      "source": "b:deut",
+      "target": "d:cv149",
+      "weight": 4.0
+    },
+    {
+      "id": "423",
+      "source": "b:heb",
+      "target": "d:cv149",
+      "weight": 114.0
+    },
+    {
+      "id": "424",
+      "source": "b:luke",
+      "target": "d:cv149",
+      "weight": 20.0
+    },
+    {
+      "id": "425",
+      "source": "b:wis",
+      "target": "d:cv149",
+      "weight": 8.0
+    },
+    {
+      "id": "426",
+      "source": "b:acts",
+      "target": "d:cv149",
+      "weight": 12.0
+    },
+    {
+      "id": "427",
+      "source": "b:col",
+      "target": "d:cv149",
+      "weight": 12.0
+    },
+    {
+      "id": "428",
+      "source": "b:zech",
+      "target": "d:cv149",
+      "weight": 2.0
+    },
+    {
+      "id": "429",
+      "source": "b:1pet",
+      "target": "d:cv149",
+      "weight": 10.0
+    },
+    {
+      "id": "430",
+      "source": "b:hab",
+      "target": "d:cv149",
+      "weight": 2.0
+    },
+    {
+      "id": "431",
+      "source": "b:num",
+      "target": "d:cv149",
+      "weight": 4.0
+    },
+    {
+      "id": "432",
+      "source": "b:1tim",
+      "target": "d:cv149",
+      "weight": 8.0
+    },
+    {
+      "id": "433",
+      "source": "b:tob",
+      "target": "d:cv149",
+      "weight": 2.0
+    },
+    {
+      "id": "434",
+      "source": "b:lev",
+      "target": "d:cv149",
+      "weight": 2.0
+    },
+    {
+      "id": "435",
+      "source": "b:jude",
+      "target": "d:cv149",
+      "weight": 2.0
+    },
+    {
+      "id": "436",
+      "source": "b:exod",
+      "target": "d:cv149",
+      "weight": 2.0
+    },
+    {
+      "id": "437",
+      "source": "b:titus",
+      "target": "d:cv149",
+      "weight": 2.0
+    },
+    {
+      "id": "438",
+      "source": "b:prov",
+      "target": "d:cv149",
+      "weight": 6.0
+    },
+    {
+      "id": "439",
+      "source": "b:1john",
+      "target": "d:cv149",
+      "weight": 2.0
+    },
+    {
+      "id": "440",
+      "source": "b:mark",
+      "target": "d:cv149",
+      "weight": 4.0
+    },
+    {
+      "id": "441",
+      "source": "b:jas",
+      "target": "d:cv149",
+      "weight": 2.0
+    },
+    {
+      "id": "442",
+      "source": "b:amos",
+      "target": "d:cv25",
+      "weight": 2.0
+    },
+    {
+      "id": "443",
+      "source": "b:amos",
+      "target": "d:cv8",
+      "weight": 2.0
+    }
+  ]
+}

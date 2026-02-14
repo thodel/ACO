@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ACO Geo Visualization</title>
+  <link rel="stylesheet" href="geo.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+<body>
+  <div class="toolbar">
+    <div class="title">ACO Places (Pleiades)</div>
+    <div class="meta">Matched locations from register (Orte)</div>
+  </div>
+  <div id="map"></div>
+  <div class="legend" id="geoLegend">
+    <div class="legend-title">Legend</div>
+    <div class="legend-item"><span class="swatch"></span>Matched place</div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="geo.js"></script>
+</body>
+</html>

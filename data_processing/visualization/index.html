@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ACO Networks</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="toolbar">
+    <div class="title">ACO Network Explorer</div>
+    <label>
+      Network
+      <select id="networkSelect">
+        <option value="person_person.json">Person–Person</option>
+        <option value="person_document.json">Person–Document</option>
+        <option value="bible_bible.json">Bible–Bible</option>
+        <option value="bible_document.json">Bible–Document</option>
+      </select>
+    </label>
+    <label class="toggle">
+      <input id="bibleLevelToggle" type="checkbox" />
+      Book Level
+    </label>
+    <div class="search-panel">
+      <input id="searchInput" type="text" placeholder="Search node…" />
+      <button id="searchBtn">Find</button>
+      <button id="searchClear">Clear</button>
+    </div>
+    <div class="zoom-panel">
+      <button id="zoomIn">+</button>
+      <button id="zoomOut">−</button>
+      <button id="zoomReset">100%</button>
+    </div>
+    <button id="reset">Reset</button>
+  </div>
+
+  <div id="chart"></div>
+  <div class="legend" id="legend">
+    <div class="legend-title">Legend</div>
+    <div class="legend-item"><span class="swatch person"></span>Person</div>
+    <div class="legend-item"><span class="swatch document"></span>Document</div>
+    <div class="legend-item"><span class="swatch bible"></span>Bible (default)</div>
+    <div class="legend-item"><span class="swatch ot"></span>Old Testament</div>
+    <div class="legend-item"><span class="swatch nt"></span>New Testament</div>
+  </div>
+  <div id="tooltip" class="tooltip" hidden></div>
+
+  <!-- D3 via CDN. If offline, download d3.v7.min.js locally and update this src. -->
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

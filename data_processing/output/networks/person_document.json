@@ -1,0 +1,3539 @@
+{
+  "nodes": [
+    {
+      "id": "p:aaron",
+      "label": "Aaron",
+      "type": "person"
+    },
+    {
+      "id": "d:cv149",
+      "label": "CV149",
+      "type": "document",
+      "title": "Dokument 41, Kyrills Rede an die Augustae über den Glauben"
+    },
+    {
+      "id": "d:cv166",
+      "label": "CV166",
+      "type": "document",
+      "title": "Dokument 25, Kyrill, ‚Gegen Nestorius‘"
+    },
+    {
+      "id": "p:abraham",
+      "label": "Abraham",
+      "type": "person"
+    },
+    {
+      "id": "d:cv1",
+      "label": "CV1",
+      "type": "document",
+      "title": "Dokument 5, Kyrills Brief an die ägyptischen Mönche"
+    },
+    {
+      "id": "d:cv5",
+      "label": "CV5",
+      "type": "document",
+      "title": "Dokument 24, Nestorius’ zweiter Brief an Kyrill"
+    },
+    {
+      "id": "d:cv7",
+      "label": "CV7",
+      "type": "document",
+      "title": "Dokument 39, Kyrills Rede über den rechten Glauben an Theodosius"
+    },
+    {
+      "id": "d:cv150",
+      "label": "CV150",
+      "type": "document",
+      "title": "Dokument 40, Kyrills Rede an die Herrinnen"
+    },
+    {
+      "id": "d:cpal36",
+      "label": "CPal36",
+      "type": "document",
+      "title": "Dokument 17, Marius Mercators Commonitorium bezüglich Caelestius"
+    },
+    {
+      "id": "p:adam",
+      "label": "Adam",
+      "type": "person"
+    },
+    {
+      "id": "d:cv19",
+      "label": "CV19",
+      "type": "document",
+      "title": "Dokument 3, Homilie des Proklos von Kyzikos"
+    },
+    {
+      "id": "d:cpal20",
+      "label": "CPal20",
+      "type": "document",
+      "title": "Dokument 1, Nestorius’ erste Predigt gegen den θεοτόκος-Titel (sermo 9)"
+    },
+    {
+      "id": "d:cpal21",
+      "label": "CPal21",
+      "type": "document",
+      "title": "Dokument 6, Nestorius’ Reaktion auf die Angriffe Kyrills (sermo 10)"
+    },
+    {
+      "id": "d:cpal31",
+      "label": "CPal31",
+      "type": "document",
+      "title": "Dokument 13, Predigt des Nestorius gegen die Pelagianer (sermo 20 [Auszüge])"
+    },
+    {
+      "id": "d:cpal32",
+      "label": "CPal32",
+      "type": "document",
+      "title": "Dokument 14, Predigt des Nestorius gegen die Pelagianer (sermo 28 [Auszüge])"
+    },
+    {
+      "id": "d:cpal33",
+      "label": "CPal33",
+      "type": "document",
+      "title": "Dokument 15, Predigt des Nestorius gegen die Pelagianer (sermo 29 [Auszüge])"
+    },
+    {
+      "id": "d:cpal34",
+      "label": "CPal34",
+      "type": "document",
+      "title": "Dokument 16, Predigt des Nestorius gegen die Pelagianer (sermo 30 [Auszüge])"
+    },
+    {
+      "id": "p:alexander_i_von_alexandria",
+      "label": "Alexander I. von Alexandria",
+      "type": "person"
+    },
+    {
+      "id": "p:akakios_von_beroia",
+      "label": "Akakios von Beroia",
+      "type": "person"
+    },
+    {
+      "id": "d:cv14",
+      "label": "CV14",
+      "type": "document",
+      "title": "Dokument 35, Brief des Johannes von Antiochia an Nestorius"
+    },
+    {
+      "id": "d:cv16",
+      "label": "CV16",
+      "type": "document",
+      "title": "Dokument 11, Kyrills Brief an Akakios von Beroia (Ep. 14)"
+    },
+    {
+      "id": "d:cv17",
+      "label": "CV17",
+      "type": "document",
+      "title": "Dokument 12, Brief des Akakios von Beroia an Kyrill"
+    },
+    {
+      "id": "d:cv23",
+      "label": "CV23",
+      "type": "document",
+      "title": "Dokument 44, Sacra an Akakios von Beroia und andere"
+    },
+    {
+      "id": "p:ambrosius_von_mailand",
+      "label": "Ambrosius von Mailand",
+      "type": "person"
+    },
+    {
+      "id": "d:cv143",
+      "label": "CV143",
+      "type": "document",
+      "title": "Dokument 20, Bittschrift des Diakon Basilius und weiterer Mönche"
+    },
+    {
+      "id": "p:ammon_von_hadrianopolis",
+      "label": "Ammon von Hadrianopolis",
+      "type": "person"
+    },
+    {
+      "id": "p:amphilochios_von_ikonion",
+      "label": "Amphilochios von Ikonion",
+      "type": "person"
+    },
+    {
+      "id": "p:anastasios_presbyter_in_konstantinopel",
+      "label": "Anastasios (Presbyter in Konstantinopel)",
+      "type": "person"
+    },
+    {
+      "id": "d:cv22",
+      "label": "CV22",
+      "type": "document",
+      "title": "Dokument 8, Kyrills Brief an die Apokrisiare in Konstantinopel"
+    },
+    {
+      "id": "p:neas_apg_9_34",
+      "label": "Äneas (Apg 9,34)",
+      "type": "person"
+    },
+    {
+      "id": "p:antiochos_von_ptolemais",
+      "label": "Antiochos von Ptolemais",
+      "type": "person"
+    },
+    {
+      "id": "p:antiochus_praefectus_praetorio_orientis",
+      "label": "Antiochus (praefectus praetorio Orientis)",
+      "type": "person"
+    },
+    {
+      "id": "d:cver2",
+      "label": "CVer2",
+      "type": "document",
+      "title": "Dokument 30, Coelestins Brief an Nestorius"
+    },
+    {
+      "id": "d:item",
+      "label": "(?)",
+      "type": "document"
+    },
+    {
+      "id": "p:antiochus_praefectus_praetorio_illyriens",
+      "label": "Antiochus (praefectus praetorio Illyriens)",
+      "type": "person"
+    },
+    {
+      "id": "p:apolinarios_von_laodikea",
+      "label": "Apolinarios von Laodikea",
+      "type": "person"
+    },
+    {
+      "id": "d:cver3",
+      "label": "CVer3",
+      "type": "document",
+      "title": "Dokument 7, Nestorius’ erster Brief an Coelestin"
+    },
+    {
+      "id": "d:cver4",
+      "label": "CVer4",
+      "type": "document",
+      "title": "Dokument 22, Nestorius’ zweiter Brief an Coelestin"
+    },
+    {
+      "id": "p:apollos",
+      "label": "Apollos",
+      "type": "person"
+    },
+    {
+      "id": "p:apringios_von_chalkis",
+      "label": "Apringios von Chalkis",
+      "type": "person"
+    },
+    {
+      "id": "p:archelaos_von_myndos",
+      "label": "Archelaos von Myndos",
+      "type": "person"
+    },
+    {
+      "id": "p:arius",
+      "label": "Arius",
+      "type": "person"
+    },
+    {
+      "id": "d:cver5",
+      "label": "CVer5",
+      "type": "document",
+      "title": "Dokument 31, Coelestins Brief an Priester, Diakone, Kleriker und Volk in Konstantinopel"
+    },
+    {
+      "id": "p:athanasius_von_alexandria",
+      "label": "Athanasius von Alexandria",
+      "type": "person"
+    },
+    {
+      "id": "p:attikos_von_konstantinopel",
+      "label": "Attikos von Konstantinopel",
+      "type": "person"
+    },
+    {
+      "id": "d:cv2",
+      "label": "CV2",
+      "type": "document",
+      "title": "Dokument 18, Kyrills erster Brief an Nestorius"
+    },
+    {
+      "id": "p:augustus",
+      "label": "Augustus",
+      "type": "person"
+    },
+    {
+      "id": "d:cv18",
+      "label": "CV18",
+      "type": "document",
+      "title": "Dokument 2, Contestatio gegen die Kleriker von Konstantinopel"
+    },
+    {
+      "id": "p:aurelius_von_karthago",
+      "label": "Aurelius von Karthago",
+      "type": "person"
+    },
+    {
+      "id": "p:barnabas",
+      "label": "Barnabas",
+      "type": "person"
+    },
+    {
+      "id": "p:baruch",
+      "label": "Baruch",
+      "type": "person"
+    },
+    {
+      "id": "p:basilius_von_caesarea",
+      "label": "Basilius von Caesarea",
+      "type": "person"
+    },
+    {
+      "id": "p:basilius_von_konstantinopel_diakon",
+      "label": "Basilius von Konstantinopel (Diakon)",
+      "type": "person"
+    },
+    {
+      "id": "p:benjamin",
+      "label": "Benjamin",
+      "type": "person"
+    },
+    {
+      "id": "p:betu_l",
+      "label": "Betuël",
+      "type": "person"
+    },
+    {
+      "id": "p:buphas_martyrios_diakon",
+      "label": "Buphas Martyrios (Diakon)",
+      "type": "person"
+    },
+    {
+      "id": "p:caelestius_pelagianer",
+      "label": "Caelestius (Pelagianer)",
+      "type": "person"
+    },
+    {
+      "id": "d:cu4",
+      "label": "CU4",
+      "type": "document",
+      "title": "Dokument 28, Kyrills Memorandum an Poseidonios"
+    },
+    {
+      "id": "d:cpal35",
+      "label": "CPal35",
+      "type": "document",
+      "title": "Dokument 21, Nestorius’ Brief an Caelestius"
+    },
+    {
+      "id": "p:chairemon_ankl_ger_kyrills",
+      "label": "Chairemon (Ankläger Kyrills)",
+      "type": "person"
+    },
+    {
+      "id": "p:coelestin_i_papst",
+      "label": "Coelestin I. (Papst)",
+      "type": "person"
+    },
+    {
+      "id": "d:cv6",
+      "label": "CV6",
+      "type": "document",
+      "title": "Dokument 36, Kyrills dritter Brief an Nestorius"
+    },
+    {
+      "id": "d:cv13",
+      "label": "CV13",
+      "type": "document",
+      "title": "Dokument 33, Kyrills Brief an Johannes von Antiochia"
+    },
+    {
+      "id": "d:cv15",
+      "label": "CV15",
+      "type": "document",
+      "title": "Dokument 34, Kyrills Brief an Juvenal von Jerusalem"
+    },
+    {
+      "id": "d:cv24",
+      "label": "CV24",
+      "type": "document",
+      "title": "Dokument 37, Kyrills Brief an Klerus und Volk von Konstantinopel"
+    },
+    {
+      "id": "d:cv144",
+      "label": "CV144",
+      "type": "document",
+      "title": "Dokument 27, Kyrills Brief an Coelestin"
+    },
+    {
+      "id": "d:cv145",
+      "label": "CV145",
+      "type": "document",
+      "title": "Dokument 38, Kyrills Brief an die Mönche in Konstantinopel"
+    },
+    {
+      "id": "d:cver1",
+      "label": "CVer1",
+      "type": "document",
+      "title": "Dokument 29, Coelestins Brief an Kyrill"
+    },
+    {
+      "id": "d:cver6",
+      "label": "CVer6",
+      "type": "document",
+      "title": "Dokument 32, Coelestins Brief an Johannes von Antiochia, Juvenal von Jerusalem, Rufus von Thessaloniki und Flavian von Philippi"
+    },
+    {
+      "id": "p:david",
+      "label": "David",
+      "type": "person"
+    },
+    {
+      "id": "p:dionysius_konsul",
+      "label": "Dionysius (Konsul)",
+      "type": "person"
+    },
+    {
+      "id": "p:dorotheos_von_markianopolis",
+      "label": "Dorotheos von Markianopolis",
+      "type": "person"
+    },
+    {
+      "id": "d:cv21",
+      "label": "CV21",
+      "type": "document",
+      "title": "Dokument 10, Kyrills Brief an seine Kritiker"
+    },
+    {
+      "id": "p:elija",
+      "label": "Elija",
+      "type": "person"
+    },
+    {
+      "id": "p:elisabeth",
+      "label": "Elisabeth",
+      "type": "person"
+    },
+    {
+      "id": "p:enosch",
+      "label": "Enosch",
+      "type": "person"
+    },
+    {
+      "id": "p:ephraim_der_syrer",
+      "label": "Ephraim, der Syrer",
+      "type": "person"
+    },
+    {
+      "id": "p:eunomius",
+      "label": "Eunomius",
+      "type": "person"
+    },
+    {
+      "id": "p:eustathius_von_antiochia",
+      "label": "Eustathius von Antiochia",
+      "type": "person"
+    },
+    {
+      "id": "p:eva",
+      "label": "Eva",
+      "type": "person"
+    },
+    {
+      "id": "p:ezechiel",
+      "label": "Ezechiel",
+      "type": "person"
+    },
+    {
+      "id": "p:fabius_westlicher_bischof",
+      "label": "Fabius (westlicher Bischof)",
+      "type": "person"
+    },
+    {
+      "id": "p:flavian_betr_ger_ankl_ger_kyrills",
+      "label": "Flavian („Betrüger“; Ankläger Kyrills)",
+      "type": "person"
+    },
+    {
+      "id": "p:flavian_von_philippi",
+      "label": "Flavian von Philippi",
+      "type": "person"
+    },
+    {
+      "id": "p:florentius_konsul",
+      "label": "Florentius, Konsul",
+      "type": "person"
+    },
+    {
+      "id": "p:florus_italienischer_bischof",
+      "label": "Florus (Italienischer Bischof)",
+      "type": "person"
+    },
+    {
+      "id": "p:gabriel",
+      "label": "Gabriel",
+      "type": "person"
+    },
+    {
+      "id": "p:gregor_von_nazianz",
+      "label": "Gregor von Nazianz",
+      "type": "person"
+    },
+    {
+      "id": "p:gregor_von_neocaesarea",
+      "label": "Gregor von Neocaesarea",
+      "type": "person"
+    },
+    {
+      "id": "p:gregor_von_nyssa",
+      "label": "Gregor von Nyssa",
+      "type": "person"
+    },
+    {
+      "id": "p:habakuk",
+      "label": "Habakuk",
+      "type": "person"
+    },
+    {
+      "id": "p:heliades_von_zeugma",
+      "label": "Heliades von Zeugma",
+      "type": "person"
+    },
+    {
+      "id": "p:herodes_antipas",
+      "label": "Herodes Antipas",
+      "type": "person"
+    },
+    {
+      "id": "p:hiskija",
+      "label": "Hiskija",
+      "type": "person"
+    },
+    {
+      "id": "p:innozenz_i",
+      "label": "Innozenz I.",
+      "type": "person"
+    },
+    {
+      "id": "p:irenaeus_von_tyros_comes",
+      "label": "Irenaeus von Tyros (comes)",
+      "type": "person"
+    },
+    {
+      "id": "p:irenaeus_von_lyon",
+      "label": "Irenaeus von Lyon",
+      "type": "person"
+    },
+    {
+      "id": "d:cv",
+      "label": "CV",
+      "type": "document"
+    },
+    {
+      "id": "d:143",
+      "label": "143",
+      "type": "document"
+    },
+    {
+      "id": "p:isaak",
+      "label": "Isaak",
+      "type": "person"
+    },
+    {
+      "id": "d:z_94",
+      "label": "Z.94",
+      "type": "document"
+    },
+    {
+      "id": "p:isai",
+      "label": "Isai",
+      "type": "person"
+    },
+    {
+      "id": "p:jakob",
+      "label": "Jakob",
+      "type": "person"
+    },
+    {
+      "id": "p:jakobus",
+      "label": "Jakobus",
+      "type": "person"
+    },
+    {
+      "id": "p:jeremia",
+      "label": "Jeremia",
+      "type": "person"
+    },
+    {
+      "id": "p:jesaja",
+      "label": "Jesaja",
+      "type": "person"
+    },
+    {
+      "id": "p:johannes_evangelist",
+      "label": "Johannes (Evangelist)",
+      "type": "person"
+    },
+    {
+      "id": "p:johannes_chrysostomos",
+      "label": "Johannes Chrysostomos",
+      "type": "person"
+    },
+    {
+      "id": "p:johannes_von_antiochia",
+      "label": "Johannes von Antiochia",
+      "type": "person"
+    },
+    {
+      "id": "p:johannes_der_t_ufer",
+      "label": "Johannes (der Täufer)",
+      "type": "person"
+    },
+    {
+      "id": "d:cv166i",
+      "label": "CV166I",
+      "type": "document"
+    },
+    {
+      "id": "p:joschija",
+      "label": "Joschija",
+      "type": "person"
+    },
+    {
+      "id": "p:joseph",
+      "label": "Joseph",
+      "type": "person"
+    },
+    {
+      "id": "p:judas",
+      "label": "Judas",
+      "type": "person"
+    },
+    {
+      "id": "p:julian_von_eclanum",
+      "label": "Julian von Eclanum",
+      "type": "person"
+    },
+    {
+      "id": "p:juvenal_von_jerusalem",
+      "label": "Juvenal von Jerusalem",
+      "type": "person"
+    },
+    {
+      "id": "p:kambyses",
+      "label": "Kambyses",
+      "type": "person"
+    },
+    {
+      "id": "p:kefas_s_auch_petrus",
+      "label": "Kefas (s. auch Petrus)",
+      "type": "person"
+    },
+    {
+      "id": "p:kyrill",
+      "label": "Kyrill",
+      "type": "person"
+    },
+    {
+      "id": "d:cv3",
+      "label": "CV3",
+      "type": "document",
+      "title": "Dokument 19, Nestorius’ erster Brief an Kyrill"
+    },
+    {
+      "id": "d:cv4",
+      "label": "CV4",
+      "type": "document",
+      "title": "Dokument 23, Kyrills zweiter Brief an Nestorius"
+    },
+    {
+      "id": "d:cv8",
+      "label": "CV8",
+      "type": "document",
+      "title": "Dokument 43, Sacra an Kyrill"
+    },
+    {
+      "id": "d:cv20",
+      "label": "CV20",
+      "type": "document",
+      "title": "Dokument 9, Kyrills Brief an einen Anhänger des Nestorius"
+    },
+    {
+      "id": "d:cv25",
+      "label": "CV25",
+      "type": "document",
+      "title": "Dokument 42, Sacra an Kyrill und die Metropoliten, durch welche die Synode in Ephesus einberufen wird"
+    },
+    {
+      "id": "d:cpal29",
+      "label": "CPal29",
+      "type": "document",
+      "title": "Dokument 26, Kyrill, Exzerpte aus den Schriften des Nestorius"
+    },
+    {
+      "id": "p:kyros",
+      "label": "Kyros",
+      "type": "person"
+    },
+    {
+      "id": "p:laban",
+      "label": "Laban",
+      "type": "person"
+    },
+    {
+      "id": "p:lampon_presbyter",
+      "label": "Lampon (Presbyter)",
+      "type": "person"
+    },
+    {
+      "id": "p:lazarus",
+      "label": "Lazarus",
+      "type": "person"
+    },
+    {
+      "id": "p:leporius",
+      "label": "Leporius",
+      "type": "person"
+    },
+    {
+      "id": "p:livania_witwe",
+      "label": "Livania (Witwe)",
+      "type": "person"
+    },
+    {
+      "id": "p:lukas",
+      "label": "Lukas",
+      "type": "person"
+    },
+    {
+      "id": "p:makarios_von_laodikea",
+      "label": "Makarios von Laodikea",
+      "type": "person"
+    },
+    {
+      "id": "p:markellos_von_ankyra",
+      "label": "Markellos von Ankyra",
+      "type": "person"
+    },
+    {
+      "id": "p:matth_us",
+      "label": "Matthäus",
+      "type": "person"
+    },
+    {
+      "id": "p:melchisedek",
+      "label": "Melchisedek",
+      "type": "person"
+    },
+    {
+      "id": "p:meletios_von_mopsuestia",
+      "label": "Meletios von Mopsuestia",
+      "type": "person"
+    },
+    {
+      "id": "p:mercator_marius",
+      "label": "Mercator (Marius)",
+      "type": "person"
+    },
+    {
+      "id": "p:methodios_von_olympos",
+      "label": "Methodios von Olympos",
+      "type": "person"
+    },
+    {
+      "id": "p:mose",
+      "label": "Mose",
+      "type": "person"
+    },
+    {
+      "id": "p:nathanael",
+      "label": "Nathanael",
+      "type": "person"
+    },
+    {
+      "id": "p:nestorius",
+      "label": "Nestorius",
+      "type": "person"
+    },
+    {
+      "id": "d:cv21_z_2_5",
+      "label": "CV21.Z.2.5",
+      "type": "document"
+    },
+    {
+      "id": "p:nikodemus",
+      "label": "Nikodemus",
+      "type": "person"
+    },
+    {
+      "id": "p:noah",
+      "label": "Noah",
+      "type": "person"
+    },
+    {
+      "id": "p:optimus",
+      "label": "Optimus",
+      "type": "person"
+    },
+    {
+      "id": "p:orontius_italienischer_bischof",
+      "label": "Orontius (Italienischer Bischof)",
+      "type": "person"
+    },
+    {
+      "id": "p:paulinus_von_antiochia",
+      "label": "Paulinus von Antiochia",
+      "type": "person"
+    },
+    {
+      "id": "p:paulinus_von_mailand",
+      "label": "Paulinus von Mailand",
+      "type": "person"
+    },
+    {
+      "id": "p:paulus_apostel",
+      "label": "Paulus (Apostel)",
+      "type": "person"
+    },
+    {
+      "id": "d:cpal22",
+      "label": "CPal22",
+      "type": "document",
+      "title": "Dokument 4, Nestorius’ Antwort auf die Homilie des Proklos von Kyzikos (sermo 27)"
+    },
+    {
+      "id": "p:paulus_von_samosata",
+      "label": "Paulus von Samosata",
+      "type": "person"
+    },
+    {
+      "id": "p:pelagius",
+      "label": "Pelagius",
+      "type": "person"
+    },
+    {
+      "id": "p:petrus_s_auch_kefas",
+      "label": "Petrus (s. auch Kefas)",
+      "type": "person"
+    },
+    {
+      "id": "p:philippus_apostel",
+      "label": "Philippus (Apostel)",
+      "type": "person"
+    },
+    {
+      "id": "p:philippus_presbyter",
+      "label": "Philippus (Presbyter)",
+      "type": "person"
+    },
+    {
+      "id": "p:photin_von_sirmium",
+      "label": "Photin von Sirmium",
+      "type": "person"
+    },
+    {
+      "id": "p:photios_presbyter",
+      "label": "Photios (Presbyter)",
+      "type": "person"
+    },
+    {
+      "id": "p:pontius_pilatus",
+      "label": "Pontius Pilatus",
+      "type": "person"
+    },
+    {
+      "id": "p:poseidonios_diakon_kyrills",
+      "label": "Poseidonios (Diakon Kyrills)",
+      "type": "person"
+    },
+    {
+      "id": "p:praylios_von_jerusalem",
+      "label": "Praylios von Jerusalem",
+      "type": "person"
+    },
+    {
+      "id": "p:proklos_von_kyzikos",
+      "label": "Proklos von Kyzikos",
+      "type": "person"
+    },
+    {
+      "id": "p:pulcheria_aelia",
+      "label": "Pulcheria (Aelia)",
+      "type": "person"
+    },
+    {
+      "id": "p:rabschake",
+      "label": "Rabschake",
+      "type": "person"
+    },
+    {
+      "id": "p:rufus_von_thessaloniki",
+      "label": "Rufus von Thessaloniki",
+      "type": "person"
+    },
+    {
+      "id": "p:salomon",
+      "label": "Salomon",
+      "type": "person"
+    },
+    {
+      "id": "p:samuel",
+      "label": "Samuel",
+      "type": "person"
+    },
+    {
+      "id": "d:150",
+      "label": "150",
+      "type": "document"
+    },
+    {
+      "id": "p:saul",
+      "label": "Saul",
+      "type": "person"
+    },
+    {
+      "id": "p:seth",
+      "label": "Seth",
+      "type": "person"
+    },
+    {
+      "id": "p:severian_von_gabala",
+      "label": "Severian von Gabala",
+      "type": "person"
+    },
+    {
+      "id": "p:simeon",
+      "label": "Simeon",
+      "type": "person"
+    },
+    {
+      "id": "p:simon_bar_jona",
+      "label": "Simon Bar Jona",
+      "type": "person"
+    },
+    {
+      "id": "p:sisinnius_von_konstantinopel",
+      "label": "Sisinnius von Konstantinopel",
+      "type": "person"
+    },
+    {
+      "id": "p:sophronas_ankl_ger_kyrills",
+      "label": "Sophronas (Ankläger Kyrills)",
+      "type": "person"
+    },
+    {
+      "id": "p:sosthenes",
+      "label": "Sosthenes",
+      "type": "person"
+    },
+    {
+      "id": "p:stephanus",
+      "label": "Stephanus",
+      "type": "person"
+    },
+    {
+      "id": "p:symeon_stylites",
+      "label": "Symeon Stylites",
+      "type": "person"
+    },
+    {
+      "id": "p:teman",
+      "label": "Teman",
+      "type": "person"
+    },
+    {
+      "id": "p:thalassius_vorleser_m_nch",
+      "label": "Thalassius (Vorleser/Mönch)",
+      "type": "person"
+    },
+    {
+      "id": "p:theodor_von_mopsuestia",
+      "label": "Theodor von Mopsuestia",
+      "type": "person"
+    },
+    {
+      "id": "p:theodoret_von_kyros",
+      "label": "Theodoret von Kyros",
+      "type": "person"
+    },
+    {
+      "id": "p:theodosius_ii",
+      "label": "Theodosius (II.)",
+      "type": "person"
+    },
+    {
+      "id": "p:theodotos_von_antiochia",
+      "label": "Theodotos von Antiochia",
+      "type": "person"
+    },
+    {
+      "id": "p:theophilos_von_alexandria",
+      "label": "Theophilos von Alexandria",
+      "type": "person"
+    },
+    {
+      "id": "p:thomas",
+      "label": "Thomas",
+      "type": "person"
+    },
+    {
+      "id": "d:166",
+      "label": "166",
+      "type": "document"
+    },
+    {
+      "id": "p:timotheus",
+      "label": "Timotheus",
+      "type": "person"
+    },
+    {
+      "id": "p:titus",
+      "label": "Titus",
+      "type": "person"
+    },
+    {
+      "id": "p:valentinianus",
+      "label": "Valentinianus",
+      "type": "person"
+    },
+    {
+      "id": "p:valerius_cubicularius",
+      "label": "Valerius (cubicularius)",
+      "type": "person"
+    },
+    {
+      "id": "p:viktor_ankl_ger_kyrills",
+      "label": "Viktor (Ankläger Kyrills)",
+      "type": "person"
+    },
+    {
+      "id": "p:vitalius_von_antiochia",
+      "label": "Vitalius von Antiochia",
+      "type": "person"
+    },
+    {
+      "id": "p:zacharias",
+      "label": "Zacharias",
+      "type": "person"
+    },
+    {
+      "id": "p:zosimus_papst",
+      "label": "Zosimus (Papst)",
+      "type": "person"
+    }
+  ],
+  "links": [
+    {
+      "id": "0",
+      "source": "p:aaron",
+      "target": "d:cv149",
+      "weight": 1.0
+    },
+    {
+      "id": "1",
+      "source": "p:aaron",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "2",
+      "source": "p:abraham",
+      "target": "d:cv1",
+      "weight": 2.0
+    },
+    {
+      "id": "3",
+      "source": "p:abraham",
+      "target": "d:cv5",
+      "weight": 1.0
+    },
+    {
+      "id": "4",
+      "source": "p:abraham",
+      "target": "d:cv7",
+      "weight": 5.0
+    },
+    {
+      "id": "5",
+      "source": "p:abraham",
+      "target": "d:cv149",
+      "weight": 5.0
+    },
+    {
+      "id": "6",
+      "source": "p:abraham",
+      "target": "d:cv150",
+      "weight": 8.0
+    },
+    {
+      "id": "7",
+      "source": "p:abraham",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "8",
+      "source": "p:abraham",
+      "target": "d:cpal36",
+      "weight": 2.0
+    },
+    {
+      "id": "9",
+      "source": "p:adam",
+      "target": "d:cv1",
+      "weight": 2.0
+    },
+    {
+      "id": "10",
+      "source": "p:adam",
+      "target": "d:cv19",
+      "weight": 2.0
+    },
+    {
+      "id": "11",
+      "source": "p:adam",
+      "target": "d:cv149",
+      "weight": 6.0
+    },
+    {
+      "id": "12",
+      "source": "p:adam",
+      "target": "d:cv150",
+      "weight": 4.0
+    },
+    {
+      "id": "13",
+      "source": "p:adam",
+      "target": "d:cv166",
+      "weight": 4.0
+    },
+    {
+      "id": "14",
+      "source": "p:adam",
+      "target": "d:cpal20",
+      "weight": 1.0
+    },
+    {
+      "id": "15",
+      "source": "p:adam",
+      "target": "d:cpal21",
+      "weight": 10.0
+    },
+    {
+      "id": "16",
+      "source": "p:adam",
+      "target": "d:cpal31",
+      "weight": 2.0
+    },
+    {
+      "id": "17",
+      "source": "p:adam",
+      "target": "d:cpal32",
+      "weight": 2.0
+    },
+    {
+      "id": "18",
+      "source": "p:adam",
+      "target": "d:cpal33",
+      "weight": 2.0
+    },
+    {
+      "id": "19",
+      "source": "p:adam",
+      "target": "d:cpal34",
+      "weight": 5.0
+    },
+    {
+      "id": "20",
+      "source": "p:adam",
+      "target": "d:cpal36",
+      "weight": 17.0
+    },
+    {
+      "id": "21",
+      "source": "p:alexander_i_von_alexandria",
+      "target": "d:cv1",
+      "weight": 1.0
+    },
+    {
+      "id": "22",
+      "source": "p:akakios_von_beroia",
+      "target": "d:cv14",
+      "weight": 1.0
+    },
+    {
+      "id": "23",
+      "source": "p:akakios_von_beroia",
+      "target": "d:cv16",
+      "weight": 1.0
+    },
+    {
+      "id": "24",
+      "source": "p:akakios_von_beroia",
+      "target": "d:cv17",
+      "weight": 1.0
+    },
+    {
+      "id": "25",
+      "source": "p:akakios_von_beroia",
+      "target": "d:cv23",
+      "weight": 1.0
+    },
+    {
+      "id": "26",
+      "source": "p:ambrosius_von_mailand",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "27",
+      "source": "p:ambrosius_von_mailand",
+      "target": "d:cpal36",
+      "weight": 1.0
+    },
+    {
+      "id": "28",
+      "source": "p:ammon_von_hadrianopolis",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "29",
+      "source": "p:ammon_von_hadrianopolis",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "30",
+      "source": "p:amphilochios_von_ikonion",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "31",
+      "source": "p:amphilochios_von_ikonion",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "32",
+      "source": "p:anastasios_presbyter_in_konstantinopel",
+      "target": "d:cv22",
+      "weight": 1.0
+    },
+    {
+      "id": "33",
+      "source": "p:neas_apg_9_34",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "34",
+      "source": "p:antiochos_von_ptolemais",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "35",
+      "source": "p:antiochos_von_ptolemais",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "36",
+      "source": "p:antiochus_praefectus_praetorio_orientis",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "37",
+      "source": "p:antiochus_praefectus_praetorio_orientis",
+      "target": "d:item",
+      "weight": 1.0
+    },
+    {
+      "id": "38",
+      "source": "p:antiochus_praefectus_praetorio_illyriens",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "39",
+      "source": "p:antiochus_praefectus_praetorio_illyriens",
+      "target": "d:item",
+      "weight": 1.0
+    },
+    {
+      "id": "40",
+      "source": "p:apolinarios_von_laodikea",
+      "target": "d:cv5",
+      "weight": 1.0
+    },
+    {
+      "id": "41",
+      "source": "p:apolinarios_von_laodikea",
+      "target": "d:cv17",
+      "weight": 1.0
+    },
+    {
+      "id": "42",
+      "source": "p:apolinarios_von_laodikea",
+      "target": "d:cv149",
+      "weight": 1.0
+    },
+    {
+      "id": "43",
+      "source": "p:apolinarios_von_laodikea",
+      "target": "d:cv166",
+      "weight": 3.0
+    },
+    {
+      "id": "44",
+      "source": "p:apolinarios_von_laodikea",
+      "target": "d:cver3",
+      "weight": 1.0
+    },
+    {
+      "id": "45",
+      "source": "p:apolinarios_von_laodikea",
+      "target": "d:cver4",
+      "weight": 1.0
+    },
+    {
+      "id": "46",
+      "source": "p:apolinarios_von_laodikea",
+      "target": "d:cpal21",
+      "weight": 3.0
+    },
+    {
+      "id": "47",
+      "source": "p:apollos",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "48",
+      "source": "p:apringios_von_chalkis",
+      "target": "d:cv14",
+      "weight": 1.0
+    },
+    {
+      "id": "49",
+      "source": "p:archelaos_von_myndos",
+      "target": "d:cv14",
+      "weight": 1.0
+    },
+    {
+      "id": "50",
+      "source": "p:arius",
+      "target": "d:cv5",
+      "weight": 1.0
+    },
+    {
+      "id": "51",
+      "source": "p:arius",
+      "target": "d:cv19",
+      "weight": 1.0
+    },
+    {
+      "id": "52",
+      "source": "p:arius",
+      "target": "d:cv166",
+      "weight": 5.0
+    },
+    {
+      "id": "53",
+      "source": "p:arius",
+      "target": "d:cver3",
+      "weight": 1.0
+    },
+    {
+      "id": "54",
+      "source": "p:arius",
+      "target": "d:cver4",
+      "weight": 1.0
+    },
+    {
+      "id": "55",
+      "source": "p:arius",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "56",
+      "source": "p:arius",
+      "target": "d:cpal21",
+      "weight": 4.0
+    },
+    {
+      "id": "57",
+      "source": "p:athanasius_von_alexandria",
+      "target": "d:cv1",
+      "weight": 1.0
+    },
+    {
+      "id": "58",
+      "source": "p:athanasius_von_alexandria",
+      "target": "d:cv16",
+      "weight": 1.0
+    },
+    {
+      "id": "59",
+      "source": "p:athanasius_von_alexandria",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "60",
+      "source": "p:athanasius_von_alexandria",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "61",
+      "source": "p:athanasius_von_alexandria",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "62",
+      "source": "p:attikos_von_konstantinopel",
+      "target": "d:cv2",
+      "weight": 1.0
+    },
+    {
+      "id": "63",
+      "source": "p:attikos_von_konstantinopel",
+      "target": "d:cv16",
+      "weight": 1.0
+    },
+    {
+      "id": "64",
+      "source": "p:attikos_von_konstantinopel",
+      "target": "d:cv22",
+      "weight": 1.0
+    },
+    {
+      "id": "65",
+      "source": "p:attikos_von_konstantinopel",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "66",
+      "source": "p:attikos_von_konstantinopel",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "67",
+      "source": "p:attikos_von_konstantinopel",
+      "target": "d:cver2",
+      "weight": 2.0
+    },
+    {
+      "id": "68",
+      "source": "p:attikos_von_konstantinopel",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "69",
+      "source": "p:attikos_von_konstantinopel",
+      "target": "d:cpal36",
+      "weight": 1.0
+    },
+    {
+      "id": "70",
+      "source": "p:augustus",
+      "target": "d:cv18",
+      "weight": 1.0
+    },
+    {
+      "id": "71",
+      "source": "p:aurelius_von_karthago",
+      "target": "d:cpal36",
+      "weight": 1.0
+    },
+    {
+      "id": "72",
+      "source": "p:barnabas",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "73",
+      "source": "p:baruch",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "74",
+      "source": "p:basilius_von_caesarea",
+      "target": "d:cv16",
+      "weight": 1.0
+    },
+    {
+      "id": "75",
+      "source": "p:basilius_von_caesarea",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "76",
+      "source": "p:basilius_von_konstantinopel_diakon",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "77",
+      "source": "p:benjamin",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "78",
+      "source": "p:betu_l",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "79",
+      "source": "p:buphas_martyrios_diakon",
+      "target": "d:cv22",
+      "weight": 1.0
+    },
+    {
+      "id": "80",
+      "source": "p:caelestius_pelagianer",
+      "target": "d:cu4",
+      "weight": 2.0
+    },
+    {
+      "id": "81",
+      "source": "p:caelestius_pelagianer",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "82",
+      "source": "p:caelestius_pelagianer",
+      "target": "d:cpal35",
+      "weight": 2.0
+    },
+    {
+      "id": "83",
+      "source": "p:caelestius_pelagianer",
+      "target": "d:cpal36",
+      "weight": 16.0
+    },
+    {
+      "id": "84",
+      "source": "p:chairemon_ankl_ger_kyrills",
+      "target": "d:cv22",
+      "weight": 1.0
+    },
+    {
+      "id": "85",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cv2",
+      "weight": 1.0
+    },
+    {
+      "id": "86",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cv6",
+      "weight": 1.0
+    },
+    {
+      "id": "87",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cv13",
+      "weight": 1.0
+    },
+    {
+      "id": "88",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cv14",
+      "weight": 2.0
+    },
+    {
+      "id": "89",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cv15",
+      "weight": 2.0
+    },
+    {
+      "id": "90",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cv24",
+      "weight": 1.0
+    },
+    {
+      "id": "91",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cv144",
+      "weight": 1.0
+    },
+    {
+      "id": "92",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cv145",
+      "weight": 1.0
+    },
+    {
+      "id": "93",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cver1",
+      "weight": 1.0
+    },
+    {
+      "id": "94",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "95",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cver3",
+      "weight": 1.0
+    },
+    {
+      "id": "96",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cver4",
+      "weight": 1.0
+    },
+    {
+      "id": "97",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "98",
+      "source": "p:coelestin_i_papst",
+      "target": "d:cver6",
+      "weight": 1.0
+    },
+    {
+      "id": "99",
+      "source": "p:david",
+      "target": "d:cv1",
+      "weight": 3.0
+    },
+    {
+      "id": "100",
+      "source": "p:david",
+      "target": "d:cv5",
+      "weight": 2.0
+    },
+    {
+      "id": "101",
+      "source": "p:david",
+      "target": "d:cv7",
+      "weight": 8.0
+    },
+    {
+      "id": "102",
+      "source": "p:david",
+      "target": "d:cv18",
+      "weight": 1.0
+    },
+    {
+      "id": "103",
+      "source": "p:david",
+      "target": "d:cv19",
+      "weight": 1.0
+    },
+    {
+      "id": "104",
+      "source": "p:david",
+      "target": "d:cv149",
+      "weight": 5.0
+    },
+    {
+      "id": "105",
+      "source": "p:david",
+      "target": "d:cv150",
+      "weight": 11.0
+    },
+    {
+      "id": "106",
+      "source": "p:david",
+      "target": "d:cv166",
+      "weight": 16.0
+    },
+    {
+      "id": "107",
+      "source": "p:dionysius_konsul",
+      "target": "d:cpal36",
+      "weight": 1.0
+    },
+    {
+      "id": "108",
+      "source": "p:dorotheos_von_markianopolis",
+      "target": "d:cv16",
+      "weight": 1.0
+    },
+    {
+      "id": "109",
+      "source": "p:dorotheos_von_markianopolis",
+      "target": "d:cv21",
+      "weight": 1.0
+    },
+    {
+      "id": "110",
+      "source": "p:dorotheos_von_markianopolis",
+      "target": "d:cv144",
+      "weight": 2.0
+    },
+    {
+      "id": "111",
+      "source": "p:elija",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "112",
+      "source": "p:elisabeth",
+      "target": "d:cv1",
+      "weight": 1.0
+    },
+    {
+      "id": "113",
+      "source": "p:elisabeth",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "114",
+      "source": "p:elisabeth",
+      "target": "d:cv166",
+      "weight": 3.0
+    },
+    {
+      "id": "115",
+      "source": "p:enosch",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "116",
+      "source": "p:ephraim_der_syrer",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "117",
+      "source": "p:eunomius",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "118",
+      "source": "p:eustathius_von_antiochia",
+      "target": "d:cv18",
+      "weight": 1.0
+    },
+    {
+      "id": "119",
+      "source": "p:eustathius_von_antiochia",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "120",
+      "source": "p:eva",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "121",
+      "source": "p:eva",
+      "target": "d:cpal31",
+      "weight": 1.0
+    },
+    {
+      "id": "122",
+      "source": "p:eva",
+      "target": "d:cpal34",
+      "weight": 1.0
+    },
+    {
+      "id": "123",
+      "source": "p:ezechiel",
+      "target": "d:cv19",
+      "weight": 1.0
+    },
+    {
+      "id": "124",
+      "source": "p:ezechiel",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "125",
+      "source": "p:ezechiel",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "126",
+      "source": "p:fabius_westlicher_bischof",
+      "target": "d:cver3",
+      "weight": 1.0
+    },
+    {
+      "id": "127",
+      "source": "p:flavian_betr_ger_ankl_ger_kyrills",
+      "target": "d:cv22",
+      "weight": 1.0
+    },
+    {
+      "id": "128",
+      "source": "p:flavian_von_philippi",
+      "target": "d:cver1",
+      "weight": 1.0
+    },
+    {
+      "id": "129",
+      "source": "p:flavian_von_philippi",
+      "target": "d:cver6",
+      "weight": 1.0
+    },
+    {
+      "id": "130",
+      "source": "p:florentius_konsul",
+      "target": "d:cpal36",
+      "weight": 1.0
+    },
+    {
+      "id": "131",
+      "source": "p:florus_italienischer_bischof",
+      "target": "d:cver3",
+      "weight": 1.0
+    },
+    {
+      "id": "132",
+      "source": "p:gabriel",
+      "target": "d:cv7",
+      "weight": 3.0
+    },
+    {
+      "id": "133",
+      "source": "p:gabriel",
+      "target": "d:cv19",
+      "weight": 1.0
+    },
+    {
+      "id": "134",
+      "source": "p:gabriel",
+      "target": "d:cpal31",
+      "weight": 1.0
+    },
+    {
+      "id": "135",
+      "source": "p:gregor_von_nazianz",
+      "target": "d:cv16",
+      "weight": 1.0
+    },
+    {
+      "id": "136",
+      "source": "p:gregor_von_nazianz",
+      "target": "d:item",
+      "weight": 1.0
+    },
+    {
+      "id": "137",
+      "source": "p:gregor_von_nazianz",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "138",
+      "source": "p:gregor_von_neocaesarea",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "139",
+      "source": "p:gregor_von_nyssa",
+      "target": "d:cv16",
+      "weight": 1.0
+    },
+    {
+      "id": "140",
+      "source": "p:gregor_von_nyssa",
+      "target": "d:item",
+      "weight": 1.0
+    },
+    {
+      "id": "141",
+      "source": "p:gregor_von_nyssa",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "142",
+      "source": "p:habakuk",
+      "target": "d:cv1",
+      "weight": 1.0
+    },
+    {
+      "id": "143",
+      "source": "p:habakuk",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "144",
+      "source": "p:heliades_von_zeugma",
+      "target": "d:cv14",
+      "weight": 1.0
+    },
+    {
+      "id": "145",
+      "source": "p:herodes_antipas",
+      "target": "d:cpal35",
+      "weight": 1.0
+    },
+    {
+      "id": "146",
+      "source": "p:hiskija",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "147",
+      "source": "p:innozenz_i",
+      "target": "d:cpal36",
+      "weight": 3.0
+    },
+    {
+      "id": "148",
+      "source": "p:irenaeus_von_tyros_comes",
+      "target": "d:cv14",
+      "weight": 1.0
+    },
+    {
+      "id": "149",
+      "source": "p:irenaeus_von_lyon",
+      "target": "d:cv",
+      "weight": 1.0
+    },
+    {
+      "id": "150",
+      "source": "p:irenaeus_von_lyon",
+      "target": "d:143",
+      "weight": 1.0
+    },
+    {
+      "id": "151",
+      "source": "p:isaak",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "152",
+      "source": "p:isaak",
+      "target": "d:cpal36",
+      "weight": 1.0
+    },
+    {
+      "id": "153",
+      "source": "p:isaak",
+      "target": "d:z_94",
+      "weight": 1.0
+    },
+    {
+      "id": "154",
+      "source": "p:isai",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "155",
+      "source": "p:isai",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "156",
+      "source": "p:isai",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "157",
+      "source": "p:jakob",
+      "target": "d:cv5",
+      "weight": 1.0
+    },
+    {
+      "id": "158",
+      "source": "p:jakob",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "159",
+      "source": "p:jakob",
+      "target": "d:cv18",
+      "weight": 1.0
+    },
+    {
+      "id": "160",
+      "source": "p:jakob",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "161",
+      "source": "p:jakob",
+      "target": "d:cv166",
+      "weight": 3.0
+    },
+    {
+      "id": "162",
+      "source": "p:jakob",
+      "target": "d:cpal36",
+      "weight": 1.0
+    },
+    {
+      "id": "163",
+      "source": "p:jakobus",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "164",
+      "source": "p:jakobus",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "165",
+      "source": "p:jakobus",
+      "target": "d:cpal21",
+      "weight": 2.0
+    },
+    {
+      "id": "166",
+      "source": "p:jeremia",
+      "target": "d:cv1",
+      "weight": 1.0
+    },
+    {
+      "id": "167",
+      "source": "p:jeremia",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "168",
+      "source": "p:jeremia",
+      "target": "d:cv18",
+      "weight": 1.0
+    },
+    {
+      "id": "169",
+      "source": "p:jeremia",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "170",
+      "source": "p:jeremia",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "171",
+      "source": "p:jeremia",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "172",
+      "source": "p:jeremia",
+      "target": "d:cpal34",
+      "weight": 1.0
+    },
+    {
+      "id": "173",
+      "source": "p:jesaja",
+      "target": "d:cv1",
+      "weight": 3.0
+    },
+    {
+      "id": "174",
+      "source": "p:jesaja",
+      "target": "d:cv149",
+      "weight": 2.0
+    },
+    {
+      "id": "175",
+      "source": "p:jesaja",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "176",
+      "source": "p:johannes_evangelist",
+      "target": "d:cv1",
+      "weight": 3.0
+    },
+    {
+      "id": "177",
+      "source": "p:johannes_evangelist",
+      "target": "d:cv6",
+      "weight": 2.0
+    },
+    {
+      "id": "178",
+      "source": "p:johannes_evangelist",
+      "target": "d:cv7",
+      "weight": 8.0
+    },
+    {
+      "id": "179",
+      "source": "p:johannes_evangelist",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "180",
+      "source": "p:johannes_evangelist",
+      "target": "d:cv149",
+      "weight": 1.0
+    },
+    {
+      "id": "181",
+      "source": "p:johannes_evangelist",
+      "target": "d:cv150",
+      "weight": 14.0
+    },
+    {
+      "id": "182",
+      "source": "p:johannes_evangelist",
+      "target": "d:cv166",
+      "weight": 16.0
+    },
+    {
+      "id": "183",
+      "source": "p:johannes_evangelist",
+      "target": "d:cpal20",
+      "weight": 1.0
+    },
+    {
+      "id": "184",
+      "source": "p:johannes_evangelist",
+      "target": "d:cpal21",
+      "weight": 2.0
+    },
+    {
+      "id": "185",
+      "source": "p:johannes_chrysostomos",
+      "target": "d:cv22",
+      "weight": 1.0
+    },
+    {
+      "id": "186",
+      "source": "p:johannes_chrysostomos",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "187",
+      "source": "p:johannes_chrysostomos",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "188",
+      "source": "p:johannes_chrysostomos",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "189",
+      "source": "p:johannes_chrysostomos",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "190",
+      "source": "p:johannes_von_antiochia",
+      "target": "d:cv13",
+      "weight": 1.0
+    },
+    {
+      "id": "191",
+      "source": "p:johannes_von_antiochia",
+      "target": "d:cv14",
+      "weight": 1.0
+    },
+    {
+      "id": "192",
+      "source": "p:johannes_von_antiochia",
+      "target": "d:cv17",
+      "weight": 1.0
+    },
+    {
+      "id": "193",
+      "source": "p:johannes_von_antiochia",
+      "target": "d:cver6",
+      "weight": 1.0
+    },
+    {
+      "id": "194",
+      "source": "p:johannes_von_antiochia",
+      "target": "d:cver1",
+      "weight": 1.0
+    },
+    {
+      "id": "195",
+      "source": "p:johannes_der_t_ufer",
+      "target": "d:cv1",
+      "weight": 1.0
+    },
+    {
+      "id": "196",
+      "source": "p:johannes_der_t_ufer",
+      "target": "d:cv149",
+      "weight": 1.0
+    },
+    {
+      "id": "197",
+      "source": "p:johannes_der_t_ufer",
+      "target": "d:cv150",
+      "weight": 4.0
+    },
+    {
+      "id": "198",
+      "source": "p:johannes_der_t_ufer",
+      "target": "d:cv166i",
+      "weight": 3.0
+    },
+    {
+      "id": "199",
+      "source": "p:johannes_der_t_ufer",
+      "target": "d:cpal35",
+      "weight": 1.0
+    },
+    {
+      "id": "200",
+      "source": "p:joschija",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "201",
+      "source": "p:joseph",
+      "target": "d:cv5",
+      "weight": 1.0
+    },
+    {
+      "id": "202",
+      "source": "p:joseph",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "203",
+      "source": "p:joseph",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "204",
+      "source": "p:joseph",
+      "target": "d:cpal21",
+      "weight": 3.0
+    },
+    {
+      "id": "205",
+      "source": "p:judas",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "206",
+      "source": "p:judas",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "207",
+      "source": "p:julian_von_eclanum",
+      "target": "d:cver3",
+      "weight": 1.0
+    },
+    {
+      "id": "208",
+      "source": "p:julian_von_eclanum",
+      "target": "d:cver4",
+      "weight": 1.0
+    },
+    {
+      "id": "209",
+      "source": "p:julian_von_eclanum",
+      "target": "d:cpal36",
+      "weight": 5.0
+    },
+    {
+      "id": "210",
+      "source": "p:juvenal_von_jerusalem",
+      "target": "d:cv13",
+      "weight": 1.0
+    },
+    {
+      "id": "211",
+      "source": "p:juvenal_von_jerusalem",
+      "target": "d:cv15",
+      "weight": 1.0
+    },
+    {
+      "id": "212",
+      "source": "p:juvenal_von_jerusalem",
+      "target": "d:cver1",
+      "weight": 1.0
+    },
+    {
+      "id": "213",
+      "source": "p:juvenal_von_jerusalem",
+      "target": "d:cver6",
+      "weight": 1.0
+    },
+    {
+      "id": "214",
+      "source": "p:kambyses",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "215",
+      "source": "p:kefas_s_auch_petrus",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "216",
+      "source": "p:kefas_s_auch_petrus",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "217",
+      "source": "p:kyrill",
+      "target": "d:cv1",
+      "weight": 1.0
+    },
+    {
+      "id": "218",
+      "source": "p:kyrill",
+      "target": "d:cv2",
+      "weight": 1.0
+    },
+    {
+      "id": "219",
+      "source": "p:kyrill",
+      "target": "d:cv3",
+      "weight": 1.0
+    },
+    {
+      "id": "220",
+      "source": "p:kyrill",
+      "target": "d:cv4",
+      "weight": 1.0
+    },
+    {
+      "id": "221",
+      "source": "p:kyrill",
+      "target": "d:cv5",
+      "weight": 1.0
+    },
+    {
+      "id": "222",
+      "source": "p:kyrill",
+      "target": "d:cv6",
+      "weight": 1.0
+    },
+    {
+      "id": "223",
+      "source": "p:kyrill",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "224",
+      "source": "p:kyrill",
+      "target": "d:cv8",
+      "weight": 1.0
+    },
+    {
+      "id": "225",
+      "source": "p:kyrill",
+      "target": "d:cv13",
+      "weight": 1.0
+    },
+    {
+      "id": "226",
+      "source": "p:kyrill",
+      "target": "d:cv14",
+      "weight": 1.0
+    },
+    {
+      "id": "227",
+      "source": "p:kyrill",
+      "target": "d:cv15",
+      "weight": 1.0
+    },
+    {
+      "id": "228",
+      "source": "p:kyrill",
+      "target": "d:cv16",
+      "weight": 1.0
+    },
+    {
+      "id": "229",
+      "source": "p:kyrill",
+      "target": "d:cv17",
+      "weight": 1.0
+    },
+    {
+      "id": "230",
+      "source": "p:kyrill",
+      "target": "d:cv20",
+      "weight": 1.0
+    },
+    {
+      "id": "231",
+      "source": "p:kyrill",
+      "target": "d:cv24",
+      "weight": 2.0
+    },
+    {
+      "id": "232",
+      "source": "p:kyrill",
+      "target": "d:cv25",
+      "weight": 1.0
+    },
+    {
+      "id": "233",
+      "source": "p:kyrill",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "234",
+      "source": "p:kyrill",
+      "target": "d:cv144",
+      "weight": 1.0
+    },
+    {
+      "id": "235",
+      "source": "p:kyrill",
+      "target": "d:cv145",
+      "weight": 1.0
+    },
+    {
+      "id": "236",
+      "source": "p:kyrill",
+      "target": "d:cv149",
+      "weight": 1.0
+    },
+    {
+      "id": "237",
+      "source": "p:kyrill",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "238",
+      "source": "p:kyrill",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "239",
+      "source": "p:kyrill",
+      "target": "d:cu4",
+      "weight": 1.0
+    },
+    {
+      "id": "240",
+      "source": "p:kyrill",
+      "target": "d:cver1",
+      "weight": 1.0
+    },
+    {
+      "id": "241",
+      "source": "p:kyrill",
+      "target": "d:cver2",
+      "weight": 3.0
+    },
+    {
+      "id": "242",
+      "source": "p:kyrill",
+      "target": "d:cver5",
+      "weight": 3.0
+    },
+    {
+      "id": "243",
+      "source": "p:kyrill",
+      "target": "d:cver6",
+      "weight": 1.0
+    },
+    {
+      "id": "244",
+      "source": "p:kyrill",
+      "target": "d:cpal29",
+      "weight": 1.0
+    },
+    {
+      "id": "245",
+      "source": "p:kyros",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "246",
+      "source": "p:laban",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "247",
+      "source": "p:lampon_presbyter",
+      "target": "d:cv3",
+      "weight": 2.0
+    },
+    {
+      "id": "248",
+      "source": "p:lazarus",
+      "target": "d:cv149",
+      "weight": 2.0
+    },
+    {
+      "id": "249",
+      "source": "p:lazarus",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "250",
+      "source": "p:leporius",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "251",
+      "source": "p:livania_witwe",
+      "target": "d:cpal36",
+      "weight": 1.0
+    },
+    {
+      "id": "252",
+      "source": "p:lukas",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "253",
+      "source": "p:lukas",
+      "target": "d:cv150",
+      "weight": 5.0
+    },
+    {
+      "id": "254",
+      "source": "p:lukas",
+      "target": "d:cv166",
+      "weight": 3.0
+    },
+    {
+      "id": "255",
+      "source": "p:makarios_von_laodikea",
+      "target": "d:cv14",
+      "weight": 1.0
+    },
+    {
+      "id": "256",
+      "source": "p:markellos_von_ankyra",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "257",
+      "source": "p:matth_us",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "258",
+      "source": "p:matth_us",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "259",
+      "source": "p:melchisedek",
+      "target": "d:cv19",
+      "weight": 1.0
+    },
+    {
+      "id": "260",
+      "source": "p:melchisedek",
+      "target": "d:cv149",
+      "weight": 2.0
+    },
+    {
+      "id": "261",
+      "source": "p:melchisedek",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "262",
+      "source": "p:meletios_von_mopsuestia",
+      "target": "d:cv14",
+      "weight": 1.0
+    },
+    {
+      "id": "263",
+      "source": "p:mercator_marius",
+      "target": "d:cpal36",
+      "weight": 2.0
+    },
+    {
+      "id": "264",
+      "source": "p:methodios_von_olympos",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "265",
+      "source": "p:mose",
+      "target": "d:cv1",
+      "weight": 4.0
+    },
+    {
+      "id": "266",
+      "source": "p:mose",
+      "target": "d:cv7",
+      "weight": 3.0
+    },
+    {
+      "id": "267",
+      "source": "p:mose",
+      "target": "d:cv18",
+      "weight": 1.0
+    },
+    {
+      "id": "268",
+      "source": "p:mose",
+      "target": "d:cv149",
+      "weight": 4.0
+    },
+    {
+      "id": "269",
+      "source": "p:mose",
+      "target": "d:cv150",
+      "weight": 10.0
+    },
+    {
+      "id": "270",
+      "source": "p:mose",
+      "target": "d:cv166",
+      "weight": 14.0
+    },
+    {
+      "id": "271",
+      "source": "p:mose",
+      "target": "d:cu4",
+      "weight": 1.0
+    },
+    {
+      "id": "272",
+      "source": "p:mose",
+      "target": "d:cpal34",
+      "weight": 1.0
+    },
+    {
+      "id": "273",
+      "source": "p:mose",
+      "target": "d:cpal36",
+      "weight": 3.0
+    },
+    {
+      "id": "274",
+      "source": "p:nathanael",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "275",
+      "source": "p:nestorius",
+      "target": "d:cv2",
+      "weight": 1.0
+    },
+    {
+      "id": "276",
+      "source": "p:nestorius",
+      "target": "d:cv3",
+      "weight": 1.0
+    },
+    {
+      "id": "277",
+      "source": "p:nestorius",
+      "target": "d:cv4",
+      "weight": 1.0
+    },
+    {
+      "id": "278",
+      "source": "p:nestorius",
+      "target": "d:cv5",
+      "weight": 1.0
+    },
+    {
+      "id": "279",
+      "source": "p:nestorius",
+      "target": "d:cv6",
+      "weight": 1.0
+    },
+    {
+      "id": "280",
+      "source": "p:nestorius",
+      "target": "d:cv13",
+      "weight": 1.0
+    },
+    {
+      "id": "281",
+      "source": "p:nestorius",
+      "target": "d:cv14",
+      "weight": 1.0
+    },
+    {
+      "id": "282",
+      "source": "p:nestorius",
+      "target": "d:cv15",
+      "weight": 1.0
+    },
+    {
+      "id": "283",
+      "source": "p:nestorius",
+      "target": "d:cv16",
+      "weight": 1.0
+    },
+    {
+      "id": "284",
+      "source": "p:nestorius",
+      "target": "d:cv18",
+      "weight": 2.0
+    },
+    {
+      "id": "285",
+      "source": "p:nestorius",
+      "target": "d:cv19",
+      "weight": 1.0
+    },
+    {
+      "id": "286",
+      "source": "p:nestorius",
+      "target": "d:cv20",
+      "weight": 2.0
+    },
+    {
+      "id": "287",
+      "source": "p:nestorius",
+      "target": "d:cv21_z_2_5",
+      "weight": 1.0
+    },
+    {
+      "id": "288",
+      "source": "p:nestorius",
+      "target": "d:cv24",
+      "weight": 3.0
+    },
+    {
+      "id": "289",
+      "source": "p:nestorius",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "290",
+      "source": "p:nestorius",
+      "target": "d:cv144",
+      "weight": 1.0
+    },
+    {
+      "id": "291",
+      "source": "p:nestorius",
+      "target": "d:cv145",
+      "weight": 1.0
+    },
+    {
+      "id": "292",
+      "source": "p:nestorius",
+      "target": "d:cv166",
+      "weight": 3.0
+    },
+    {
+      "id": "293",
+      "source": "p:nestorius",
+      "target": "d:cu4",
+      "weight": 3.0
+    },
+    {
+      "id": "294",
+      "source": "p:nestorius",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "295",
+      "source": "p:nestorius",
+      "target": "d:cver3",
+      "weight": 1.0
+    },
+    {
+      "id": "296",
+      "source": "p:nestorius",
+      "target": "d:cver5",
+      "weight": 2.0
+    },
+    {
+      "id": "297",
+      "source": "p:nestorius",
+      "target": "d:cver6",
+      "weight": 2.0
+    },
+    {
+      "id": "298",
+      "source": "p:nestorius",
+      "target": "d:cpal35",
+      "weight": 2.0
+    },
+    {
+      "id": "299",
+      "source": "p:nikodemus",
+      "target": "d:cv7",
+      "weight": 2.0
+    },
+    {
+      "id": "300",
+      "source": "p:nikodemus",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "301",
+      "source": "p:noah",
+      "target": "d:cpal34",
+      "weight": 1.0
+    },
+    {
+      "id": "302",
+      "source": "p:noah",
+      "target": "d:cpal36",
+      "weight": 1.0
+    },
+    {
+      "id": "303",
+      "source": "p:optimus",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "304",
+      "source": "p:orontius_italienischer_bischof",
+      "target": "d:cver3",
+      "weight": 1.0
+    },
+    {
+      "id": "305",
+      "source": "p:orontius_italienischer_bischof",
+      "target": "d:cver4",
+      "weight": 1.0
+    },
+    {
+      "id": "306",
+      "source": "p:paulinus_von_antiochia",
+      "target": "d:cv17",
+      "weight": 1.0
+    },
+    {
+      "id": "307",
+      "source": "p:paulinus_von_mailand",
+      "target": "d:cpal36",
+      "weight": 1.0
+    },
+    {
+      "id": "308",
+      "source": "p:paulus_apostel",
+      "target": "d:cv1",
+      "weight": 8.0
+    },
+    {
+      "id": "309",
+      "source": "p:paulus_apostel",
+      "target": "d:cv4",
+      "weight": 1.0
+    },
+    {
+      "id": "310",
+      "source": "p:paulus_apostel",
+      "target": "d:cv5",
+      "weight": 4.0
+    },
+    {
+      "id": "311",
+      "source": "p:paulus_apostel",
+      "target": "d:cv7",
+      "weight": 15.0
+    },
+    {
+      "id": "312",
+      "source": "p:paulus_apostel",
+      "target": "d:cv19",
+      "weight": 4.0
+    },
+    {
+      "id": "313",
+      "source": "p:paulus_apostel",
+      "target": "d:cv144",
+      "weight": 1.0
+    },
+    {
+      "id": "314",
+      "source": "p:paulus_apostel",
+      "target": "d:cv149",
+      "weight": 14.0
+    },
+    {
+      "id": "315",
+      "source": "p:paulus_apostel",
+      "target": "d:cv150",
+      "weight": 30.0
+    },
+    {
+      "id": "316",
+      "source": "p:paulus_apostel",
+      "target": "d:cv166",
+      "weight": 29.0
+    },
+    {
+      "id": "317",
+      "source": "p:paulus_apostel",
+      "target": "d:cver2",
+      "weight": 3.0
+    },
+    {
+      "id": "318",
+      "source": "p:paulus_apostel",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "319",
+      "source": "p:paulus_apostel",
+      "target": "d:cpal20",
+      "weight": 2.0
+    },
+    {
+      "id": "320",
+      "source": "p:paulus_apostel",
+      "target": "d:cpal21",
+      "weight": 16.0
+    },
+    {
+      "id": "321",
+      "source": "p:paulus_apostel",
+      "target": "d:cpal22",
+      "weight": 1.0
+    },
+    {
+      "id": "322",
+      "source": "p:paulus_apostel",
+      "target": "d:cpal34",
+      "weight": 1.0
+    },
+    {
+      "id": "323",
+      "source": "p:paulus_apostel",
+      "target": "d:cpal35",
+      "weight": 1.0
+    },
+    {
+      "id": "324",
+      "source": "p:paulus_apostel",
+      "target": "d:cpal36",
+      "weight": 2.0
+    },
+    {
+      "id": "325",
+      "source": "p:paulus_von_samosata",
+      "target": "d:cv18",
+      "weight": 3.0
+    },
+    {
+      "id": "326",
+      "source": "p:paulus_von_samosata",
+      "target": "d:cv143",
+      "weight": 2.0
+    },
+    {
+      "id": "327",
+      "source": "p:paulus_von_samosata",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "328",
+      "source": "p:paulus_von_samosata",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "329",
+      "source": "p:pelagius",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "330",
+      "source": "p:pelagius",
+      "target": "d:cpal36",
+      "weight": 16.0
+    },
+    {
+      "id": "331",
+      "source": "p:petrus_s_auch_kefas",
+      "target": "d:cv1",
+      "weight": 1.0
+    },
+    {
+      "id": "332",
+      "source": "p:petrus_s_auch_kefas",
+      "target": "d:cv6",
+      "weight": 1.0
+    },
+    {
+      "id": "333",
+      "source": "p:petrus_s_auch_kefas",
+      "target": "d:cv7",
+      "weight": 5.0
+    },
+    {
+      "id": "334",
+      "source": "p:petrus_s_auch_kefas",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "335",
+      "source": "p:petrus_s_auch_kefas",
+      "target": "d:cv149",
+      "weight": 1.0
+    },
+    {
+      "id": "336",
+      "source": "p:petrus_s_auch_kefas",
+      "target": "d:cv150",
+      "weight": 9.0
+    },
+    {
+      "id": "337",
+      "source": "p:petrus_s_auch_kefas",
+      "target": "d:cv166",
+      "weight": 3.0
+    },
+    {
+      "id": "338",
+      "source": "p:petrus_s_auch_kefas",
+      "target": "d:cpal21",
+      "weight": 3.0
+    },
+    {
+      "id": "339",
+      "source": "p:petrus_s_auch_kefas",
+      "target": "d:cpal35",
+      "weight": 1.0
+    },
+    {
+      "id": "340",
+      "source": "p:philippus_apostel",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "341",
+      "source": "p:philippus_presbyter",
+      "target": "d:cu4",
+      "weight": 1.0
+    },
+    {
+      "id": "342",
+      "source": "p:photin_von_sirmium",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "343",
+      "source": "p:photin_von_sirmium",
+      "target": "d:cpal22",
+      "weight": 2.0
+    },
+    {
+      "id": "344",
+      "source": "p:photios_presbyter",
+      "target": "d:cv22",
+      "weight": 1.0
+    },
+    {
+      "id": "345",
+      "source": "p:pontius_pilatus",
+      "target": "d:cv18",
+      "weight": 1.0
+    },
+    {
+      "id": "346",
+      "source": "p:pontius_pilatus",
+      "target": "d:cv19",
+      "weight": 1.0
+    },
+    {
+      "id": "347",
+      "source": "p:poseidonios_diakon_kyrills",
+      "target": "d:cv13",
+      "weight": 1.0
+    },
+    {
+      "id": "348",
+      "source": "p:poseidonios_diakon_kyrills",
+      "target": "d:cv144",
+      "weight": 1.0
+    },
+    {
+      "id": "349",
+      "source": "p:poseidonios_diakon_kyrills",
+      "target": "d:cu4",
+      "weight": 1.0
+    },
+    {
+      "id": "350",
+      "source": "p:poseidonios_diakon_kyrills",
+      "target": "d:cver1",
+      "weight": 2.0
+    },
+    {
+      "id": "351",
+      "source": "p:poseidonios_diakon_kyrills",
+      "target": "d:cver2",
+      "weight": 2.0
+    },
+    {
+      "id": "352",
+      "source": "p:poseidonios_diakon_kyrills",
+      "target": "d:cver5",
+      "weight": 3.0
+    },
+    {
+      "id": "353",
+      "source": "p:poseidonios_diakon_kyrills",
+      "target": "d:cver6",
+      "weight": 1.0
+    },
+    {
+      "id": "354",
+      "source": "p:praylios_von_jerusalem",
+      "target": "d:cpal36",
+      "weight": 1.0
+    },
+    {
+      "id": "355",
+      "source": "p:proklos_von_kyzikos",
+      "target": "d:cv19",
+      "weight": 1.0
+    },
+    {
+      "id": "356",
+      "source": "p:pulcheria_aelia",
+      "target": "d:cv8",
+      "weight": 1.0
+    },
+    {
+      "id": "357",
+      "source": "p:rabschake",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "358",
+      "source": "p:rufus_von_thessaloniki",
+      "target": "d:cv13",
+      "weight": 1.0
+    },
+    {
+      "id": "359",
+      "source": "p:rufus_von_thessaloniki",
+      "target": "d:cver1",
+      "weight": 1.0
+    },
+    {
+      "id": "360",
+      "source": "p:rufus_von_thessaloniki",
+      "target": "d:cver6",
+      "weight": 1.0
+    },
+    {
+      "id": "361",
+      "source": "p:salomon",
+      "target": "d:cv1",
+      "weight": 1.0
+    },
+    {
+      "id": "362",
+      "source": "p:salomon",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "363",
+      "source": "p:salomon",
+      "target": "d:cver5",
+      "weight": 2.0
+    },
+    {
+      "id": "364",
+      "source": "p:samuel",
+      "target": "d:cv1",
+      "weight": 1.0
+    },
+    {
+      "id": "365",
+      "source": "p:samuel",
+      "target": "d:150",
+      "weight": 1.0
+    },
+    {
+      "id": "366",
+      "source": "p:samuel",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "367",
+      "source": "p:saul",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "368",
+      "source": "p:saul",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "369",
+      "source": "p:seth",
+      "target": "d:cv166",
+      "weight": 2.0
+    },
+    {
+      "id": "370",
+      "source": "p:severian_von_gabala",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "371",
+      "source": "p:severian_von_gabala",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "372",
+      "source": "p:simeon",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "373",
+      "source": "p:simon_bar_jona",
+      "target": "d:cv150",
+      "weight": 2.0
+    },
+    {
+      "id": "374",
+      "source": "p:sisinnius_von_konstantinopel",
+      "target": "d:cver2",
+      "weight": 2.0
+    },
+    {
+      "id": "375",
+      "source": "p:sisinnius_von_konstantinopel",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "376",
+      "source": "p:sophronas_ankl_ger_kyrills",
+      "target": "d:cv22",
+      "weight": 1.0
+    },
+    {
+      "id": "377",
+      "source": "p:sosthenes",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "378",
+      "source": "p:stephanus",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "379",
+      "source": "p:stephanus",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "380",
+      "source": "p:symeon_stylites",
+      "target": "d:cv23",
+      "weight": 1.0
+    },
+    {
+      "id": "381",
+      "source": "p:teman",
+      "target": "d:cv166",
+      "weight": 1.0
+    },
+    {
+      "id": "382",
+      "source": "p:thalassius_vorleser_m_nch",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "383",
+      "source": "p:theodor_von_mopsuestia",
+      "target": "d:cv14",
+      "weight": 1.0
+    },
+    {
+      "id": "384",
+      "source": "p:theodoret_von_kyros",
+      "target": "d:cv14",
+      "weight": 1.0
+    },
+    {
+      "id": "385",
+      "source": "p:theodosius_ii",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "386",
+      "source": "p:theodosius_ii",
+      "target": "d:cv8",
+      "weight": 1.0
+    },
+    {
+      "id": "387",
+      "source": "p:theodosius_ii",
+      "target": "d:cv25",
+      "weight": 2.0
+    },
+    {
+      "id": "388",
+      "source": "p:theodosius_ii",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "389",
+      "source": "p:theodosius_ii",
+      "target": "d:cver1",
+      "weight": 1.0
+    },
+    {
+      "id": "390",
+      "source": "p:theodosius_ii",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "391",
+      "source": "p:theodosius_ii",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "392",
+      "source": "p:theodosius_ii",
+      "target": "d:cver6",
+      "weight": 1.0
+    },
+    {
+      "id": "393",
+      "source": "p:theodosius_ii",
+      "target": "d:cpal36",
+      "weight": 1.0
+    },
+    {
+      "id": "394",
+      "source": "p:theodotos_von_antiochia",
+      "target": "d:cpal36",
+      "weight": 2.0
+    },
+    {
+      "id": "395",
+      "source": "p:theophilos_von_alexandria",
+      "target": "d:cv16",
+      "weight": 1.0
+    },
+    {
+      "id": "396",
+      "source": "p:theophilos_von_alexandria",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "397",
+      "source": "p:thomas",
+      "target": "d:cv7",
+      "weight": 1.0
+    },
+    {
+      "id": "398",
+      "source": "p:thomas",
+      "target": "d:cv19",
+      "weight": 1.0
+    },
+    {
+      "id": "399",
+      "source": "p:thomas",
+      "target": "d:166",
+      "weight": 1.0
+    },
+    {
+      "id": "400",
+      "source": "p:thomas",
+      "target": "d:cpal21",
+      "weight": 2.0
+    },
+    {
+      "id": "401",
+      "source": "p:timotheus",
+      "target": "d:cv5",
+      "weight": 1.0
+    },
+    {
+      "id": "402",
+      "source": "p:timotheus",
+      "target": "d:cv150",
+      "weight": 3.0
+    },
+    {
+      "id": "403",
+      "source": "p:timotheus",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "404",
+      "source": "p:titus",
+      "target": "d:cv150",
+      "weight": 3.0
+    },
+    {
+      "id": "405",
+      "source": "p:titus",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "406",
+      "source": "p:valentinianus",
+      "target": "d:cv8",
+      "weight": 1.0
+    },
+    {
+      "id": "407",
+      "source": "p:valentinianus",
+      "target": "d:cv25",
+      "weight": 2.0
+    },
+    {
+      "id": "408",
+      "source": "p:valentinianus",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "409",
+      "source": "p:valentinianus",
+      "target": "d:cver1",
+      "weight": 1.0
+    },
+    {
+      "id": "410",
+      "source": "p:valentinianus",
+      "target": "d:cver2",
+      "weight": 1.0
+    },
+    {
+      "id": "411",
+      "source": "p:valentinianus",
+      "target": "d:cver5",
+      "weight": 1.0
+    },
+    {
+      "id": "412",
+      "source": "p:valentinianus",
+      "target": "d:cver6",
+      "weight": 1.0
+    },
+    {
+      "id": "413",
+      "source": "p:valerius_cubicularius",
+      "target": "d:cver4",
+      "weight": 1.0
+    },
+    {
+      "id": "414",
+      "source": "p:viktor_ankl_ger_kyrills",
+      "target": "d:cv22",
+      "weight": 1.0
+    },
+    {
+      "id": "415",
+      "source": "p:vitalius_von_antiochia",
+      "target": "d:cv143",
+      "weight": 1.0
+    },
+    {
+      "id": "416",
+      "source": "p:vitalius_von_antiochia",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "417",
+      "source": "p:zacharias",
+      "target": "d:cv150",
+      "weight": 1.0
+    },
+    {
+      "id": "418",
+      "source": "p:zosimus_papst",
+      "target": "d:cpal36",
+      "weight": 4.0
+    }
+  ]
+}

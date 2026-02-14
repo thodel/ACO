@@ -1,0 +1,151 @@
+:root {
+  --bg: #0f1115;
+  --panel: #171a21;
+  --text: #e6e6e6;
+  --muted: #a0a6b0;
+  --link: #3a3f4a;
+  --accent: #5dd2ff;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "IBM Plex Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.toolbar {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  padding: 12px 16px;
+  background: var(--panel);
+  border-bottom: 1px solid #222834;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.title {
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+label.toggle {
+  margin-left: auto;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+label.toggle input {
+  accent-color: var(--accent);
+}
+
+label.toggle select {
+  background: #12151c;
+  border: 1px solid #2a3140;
+  color: var(--text);
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 12px;
+}
+
+#chart {
+  width: 100vw;
+  height: calc(100vh - 56px);
+}
+
+.tooltip {
+  position: absolute;
+  pointer-events: none;
+  background: #12151c;
+  border: 1px solid #2a3140;
+  padding: 8px 10px;
+  border-radius: 6px;
+  font-size: 12px;
+  color: var(--text);
+  max-width: 360px;
+  line-height: 1.4;
+  z-index: 1000;
+}
+
+.node rect {
+  fill-opacity: 0.9;
+  stroke: #0b0d12;
+}
+
+.link {
+  fill: none;
+  stroke: var(--link);
+  stroke-opacity: 0.45;
+}
+
+.link:hover {
+  stroke-opacity: 0.8;
+}
+
+.link.highlight {
+  stroke-opacity: 0.95;
+  stroke: var(--accent);
+}
+
+.link.dim {
+  stroke-opacity: 0.08;
+}
+
+.node.dim rect {
+  opacity: 0.2;
+}
+
+.label {
+  font-size: 11px;
+  fill: #c7cbd4;
+}
+
+.legend {
+  position: absolute;
+  right: 16px;
+  top: 70px;
+  background: rgba(18, 21, 28, 0.9);
+  border: 1px solid #2a3140;
+  padding: 8px 10px;
+  border-radius: 6px;
+  font-size: 12px;
+  color: var(--muted);
+  z-index: 1000;
+}
+
+.legend-title {
+  font-weight: 700;
+  margin-bottom: 6px;
+  color: var(--text);
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 4px 0;
+}
+
+.swatch {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid #0b0d12;
+}
+
+.swatch.ot { background: #f6c945; }
+.swatch.nt { background: #5dd2ff; }
+.swatch.doc { background: #5dd2ff; }

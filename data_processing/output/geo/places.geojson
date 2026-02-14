@@ -1,0 +1,347 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "label": "Afrika",
+        "count": 6,
+        "pleiades_place_id": "775",
+        "pleiades_uri": "https://pleiades.stoa.org/places/775",
+        "pleiades_title": "Africa (region)",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20315257930402,
+          31.70699866360772
+        ]
+      },
+      "properties": {
+        "label": "Bethlehem",
+        "count": 3,
+        "pleiades_place_id": "687856",
+        "pleiades_uri": "https://pleiades.stoa.org/places/687856",
+        "pleiades_title": "Bethlehem",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.34240298195866,
+          37.940164271971945
+        ]
+      },
+      "properties": {
+        "label": "Ephesus",
+        "count": 4,
+        "pleiades_place_id": "599612",
+        "pleiades_uri": "https://pleiades.stoa.org/places/599612",
+        "pleiades_title": "Ephesus/Arsinoe(ia)",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25,
+          32.75
+        ]
+      },
+      "properties": {
+        "label": "Galiläa",
+        "count": 3,
+        "pleiades_place_id": "678145",
+        "pleiades_uri": "https://pleiades.stoa.org/places/678145",
+        "pleiades_title": "Galilaea",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.492331,
+          37.872202
+        ]
+      },
+      "properties": {
+        "label": "Ikonion",
+        "count": 1,
+        "pleiades_place_id": "648647",
+        "pleiades_uri": "https://pleiades.stoa.org/places/648647",
+        "pleiades_title": "Iconium/Claudiconium",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.858408575638617,
+          41.25406451387795
+        ]
+      },
+      "properties": {
+        "label": "Illyrien",
+        "count": 1,
+        "pleiades_place_id": "481865",
+        "pleiades_uri": "https://pleiades.stoa.org/places/481865",
+        "pleiades_title": "Illyricum",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2358,
+          31.7777
+        ]
+      },
+      "properties": {
+        "label": "Jerusalem",
+        "count": 17,
+        "pleiades_place_id": "687928",
+        "pleiades_uri": "https://pleiades.stoa.org/places/687928",
+        "pleiades_title": "Ierusalem/Hierosolyma/Col. Aelia Capitolina",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.564350945583705,
+          32.35704872917561
+        ]
+      },
+      "properties": {
+        "label": "Jordan",
+        "count": 4,
+        "pleiades_place_id": "687932",
+        "pleiades_uri": "https://pleiades.stoa.org/places/687932",
+        "pleiades_title": "Iordanes (river)",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.323056,
+          36.853056
+        ]
+      },
+      "properties": {
+        "label": "Karthago",
+        "count": 3,
+        "pleiades_place_id": "314921",
+        "pleiades_uri": "https://pleiades.stoa.org/places/314921",
+        "pleiades_title": "Carthago",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.965635140087546,
+          41.00659262530202
+        ]
+      },
+      "properties": {
+        "label": "Konstantinopel",
+        "count": 26,
+        "pleiades_place_id": "520998",
+        "pleiades_uri": "https://pleiades.stoa.org/places/520998",
+        "pleiades_title": "Constantinopolis",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.878614390874485,
+          37.90564164345828
+        ]
+      },
+      "properties": {
+        "label": "Korinth",
+        "count": 3,
+        "pleiades_place_id": "570182",
+        "pleiades_uri": "https://pleiades.stoa.org/places/570182",
+        "pleiades_title": "Corinthus/Korinthos",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.93568699550827,
+          40.80316484201761
+        ]
+      },
+      "properties": {
+        "label": "Kyros",
+        "count": 1,
+        "pleiades_place_id": "884173",
+        "pleiades_uri": "https://pleiades.stoa.org/places/884173",
+        "pleiades_title": "Kyros (river)",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.874127,
+          40.389806
+        ]
+      },
+      "properties": {
+        "label": "Kyzikos",
+        "count": 1,
+        "pleiades_place_id": "511218",
+        "pleiades_uri": "https://pleiades.stoa.org/places/511218",
+        "pleiades_title": "Cyzicus",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.300148,
+          32.701029
+        ]
+      },
+      "properties": {
+        "label": "Nazareth",
+        "count": 8,
+        "pleiades_place_id": "678299",
+        "pleiades_uri": "https://pleiades.stoa.org/places/678299",
+        "pleiades_title": "Nazareth",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.92341619989857,
+          40.221356696658404
+        ]
+      },
+      "properties": {
+        "label": "Pontus",
+        "count": 1,
+        "pleiades_place_id": "857287",
+        "pleiades_uri": "https://pleiades.stoa.org/places/857287",
+        "pleiades_title": "Pontus",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.285182,
+          41.012021
+        ]
+      },
+      "properties": {
+        "label": "Philippi",
+        "count": 1,
+        "pleiades_place_id": "501482",
+        "pleiades_uri": "https://pleiades.stoa.org/places/501482",
+        "pleiades_title": "Krenides/Philippi/Col. Augusta Iulia Philippensis",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.530357,
+          37.525756
+        ]
+      },
+      "properties": {
+        "label": "Samosata",
+        "count": 4,
+        "pleiades_place_id": "658587",
+        "pleiades_uri": "https://pleiades.stoa.org/places/658587",
+        "pleiades_title": "Samosata",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.956201,
+          40.626402
+        ]
+      },
+      "properties": {
+        "label": "Thessaloniki",
+        "count": 4,
+        "pleiades_place_id": "491741",
+        "pleiades_uri": "https://pleiades.stoa.org/places/491741",
+        "pleiades_title": "Thessalonica",
+        "match_status": "match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.084235,
+          48.430708
+        ]
+      },
+      "properties": {
+        "label": "Zion",
+        "count": 4,
+        "pleiades_place_id": "109347",
+        "pleiades_uri": "https://pleiades.stoa.org/places/109347",
+        "pleiades_title": "Sion",
+        "match_status": "match"
+      }
+    }
+  ]
+}
