@@ -11,12 +11,12 @@
 	let selectedChapter = $state('');
 	let selectedVerse = $state('');
 
-	const allBooks = $derived(() => [...data.oldTestament, ...data.newTestament]);
-	const selectedBookEntry = $derived(() =>
+	const allBooks = $derived.by(() => [...data.oldTestament, ...data.newTestament]);
+	const selectedBookEntry = $derived.by(() =>
 		allBooks.find((book) => book.book === selectedBook)
 	);
 
-	const chapterOptions = $derived(() => {
+	const chapterOptions = $derived.by(() => {
 		if (!selectedBookEntry) return [];
 		const set = new Set();
 		for (const ref of selectedBookEntry.refs || []) {
@@ -25,7 +25,7 @@
 		return Array.from(set).sort((a, b) => a - b);
 	});
 
-	const verseOptions = $derived(() => {
+	const verseOptions = $derived.by(() => {
 		if (!selectedBookEntry || !selectedChapter) return [];
 		const chapterNum = Number(selectedChapter);
 		const set = new Set();
@@ -67,9 +67,9 @@
 			}))
 			.filter((book) => book.refs.length > 0);
 
-	const filteredOldTestament = $derived(() => filterBooks(data.oldTestament));
-	const filteredNewTestament = $derived(() => filterBooks(data.newTestament));
-	const filteredCount = $derived(() => {
+	const filteredOldTestament = $derived.by(() => filterBooks(data.oldTestament));
+	const filteredNewTestament = $derived.by(() => filterBooks(data.newTestament));
+	const filteredCount = $derived.by(() => {
 		const countRefs = (books) => books.reduce((sum, book) => sum + book.refs.length, 0);
 		return countRefs(filteredOldTestament) + countRefs(filteredNewTestament);
 	});

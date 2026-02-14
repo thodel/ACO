@@ -15,17 +15,18 @@ const normalize = (value: string) =>
 		.trim();
 
 const extractKey = (text: string) => {
-	const match = text.match(/\[\s*=\s*([^\]]+)\]/);
+	const cleaned = text.replace(/\u00a0/g, ' ').replace(/\s+/g, ' ').trim();
+	const match = cleaned.match(/\[\s*=\s*([^\]]+)\]/);
 	if (match?.[1]) return match[1].replace(/\s+/g, ' ').trim();
 
-	const yearMatch = text.match(/(19|20)\d{2}[a-z]?/);
+	const yearMatch = cleaned.match(/(19|20)\d{2}[a-z]?/);
 	if (!yearMatch) return null;
 	const year = yearMatch[0];
 
-	const dual = text.match(/^([^,]+),[^/]+\/\s*([^,]+),/);
+	const dual = cleaned.match(/^([^,]+),[^/]+\/\s*([^,]+),/);
 	if (dual) return `${dual[1].trim()}/${dual[2].trim()} (${year})`;
 
-	const single = text.match(/^([^,]+),/);
+	const single = cleaned.match(/^([^,]+),/);
 	if (single) return `${single[1].trim()} (${year})`;
 	return null;
 };
@@ -67,7 +68,7 @@ export const load: PageServerLoad = async () => {
 	const doc = dom.window.document;
 
 	const docs = metaData.map((entry) => {
-		const literature = extractLiteratureText(entry.head || '');
+		const literature = extractLiteratureText(entry.content?.head || entry.head || '');
 		return {
 			slug: entry.slug,
 			acoDocNum: entry.acoDocNum ?? null,

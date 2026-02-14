@@ -59,13 +59,27 @@
 
 	<div class="grid gap-10 md:grid-cols-2">
 		{#each visualizations as vis}
-			<section class="bg-surface-50-950 border border-surface-200-800 rounded-lg p-6 shadow-md">
-				<h2 class="h3 mt-0!">{vis.title}</h2>
-				<p class="mb-4">{vis.description}</p>
-				<a class="btn preset-filled-primary-500-600" href={vis.path}>
-					Öffnen
-				</a>
-			</section>
+			<a class="vis-card" href={vis.path}>
+				<section class="vis-card-inner bg-surface-50-950 border border-surface-200-800 rounded-lg p-6 shadow-md">
+					<h2 class="h3 mt-0!">{vis.title}</h2>
+					<p class="mb-4">{vis.description}</p>
+					<span class="btn preset-filled-primary-500-600">Öffnen</span>
+				</section>
+			</a>
 		{/each}
 	</div>
 </div>
+
+<style>
+	.vis-card {
+		display: block;
+		color: inherit;
+		text-decoration: none;
+	}
+
+	.vis-card:focus-visible .vis-card-inner,
+	.vis-card:hover .vis-card-inner {
+		border-color: var(--color-primary-500, #5dd2ff);
+		box-shadow: 0 0 0 2px color-mix(in srgb, var(--color-primary-500, #5dd2ff) 40%, transparent);
+	}
+</style>

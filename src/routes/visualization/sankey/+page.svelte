@@ -65,8 +65,13 @@
 			const normalizeGraph = (data: any) => {
 				const nodes = data.nodes.map((n: any) => ({
 					id: n.id,
+					label: n.label || n.id,
 					name: n.label || n.id,
 					type: n.type || 'bible',
+					docSlug:
+						(n.type || 'bible') === 'document'
+							? (n.label || n.id || '').replace(/^d:/i, '')
+							: null,
 					order: (n.type || 'bible') === 'bible'
 						? bibleOrderValue(n.label || n.id)
 						: (n.label || n.id).toLowerCase(),
@@ -94,8 +99,10 @@
 					if (type === 'document') {
 						documentNodes.set(n.id, {
 							id: n.id,
+							label,
 							name: label,
 							type: 'document',
+							docSlug: (label || n.id || '').replace(/^d:/i, ''),
 							order: label.toLowerCase()
 						});
 						continue;
@@ -193,12 +200,11 @@
 					.on('click', (event: any, d: any) => {
 						event.stopPropagation();
 						const target = d.target;
-						if (target?.type === 'document') {
-							const docId = encodeURIComponent(target.name || target.id || '');
-							if (docId) {
-								window.open(`${base}/dokumente/vol1/${docId}`, '_blank', 'noopener');
-							}
-						}
+						if (target?.type !== 'document') return;
+						const rawSlug = target.docSlug || target.label || target.name || target.id || '';
+						const slug = String(rawSlug).replace(/^d:/i, '');
+						if (!slug) return;
+						window.location.assign(`${base}/dokumente/vol1/${encodeURIComponent(slug)}`);
 					})
 					.on('mousemove', (event: any, d: any) => {
 						showTooltip(event, d, d.value);
@@ -388,6 +394,7 @@
 		fill: none;
 		stroke: var(--link);
 		stroke-opacity: 0.45;
+		cursor: pointer;
 	}
 
 	.sankey-vis :global(.link:hover) {
