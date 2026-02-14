@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "title": "Document Type & Collection Overview (Draft)",
+    "notes": "Genres are inferred from title keywords. Date slices use document-level midpoint years from timeline.json.",
+    "genre_rules": [
+      [
+        "letter",
+        [
+          "brief",
+          "ep.",
+          "ep ",
+          "epist",
+          "schreiben",
+          "sacra"
+        ]
+      ],
+      [
+        "sermon",
+        [
+          "predigt",
+          "homilie",
+          "sermo",
+          "oratio"
+        ]
+      ],
+      [
+        "petition",
+        [
+          "bittschrift",
+          "petition",
+          "supplik",
+          "supplic",
+          "libellus"
+        ]
+      ],
+      [
+        "acts",
+        [
+          "acta",
+          "akten",
+          "sitzung",
+          "protokoll"
+        ]
+      ]
+    ]
+  },
+  "collections": [
+    {
+      "key": "CPal",
+      "label": "Collectio Palatina"
+    },
+    {
+      "key": "CU",
+      "label": "Collectio U"
+    },
+    {
+      "key": "CV",
+      "label": "Collectio Vaticana"
+    },
+    {
+      "key": "CVer",
+      "label": "Collectio Veronensis"
+    }
+  ],
+  "genres": [
+    {
+      "key": "letter",
+      "label": "Letters"
+    },
+    {
+      "key": "sermon",
+      "label": "Sermons/Homilies"
+    },
+    {
+      "key": "petition",
+      "label": "Petitions"
+    },
+    {
+      "key": "acts",
+      "label": "Acts/Proceedings"
+    },
+    {
+      "key": "other",
+      "label": "Other"
+    }
+  ],
+  "slices": [
+    {
+      "key": "pre-431",
+      "label": "Pre-431"
+    },
+    {
+      "key": "431",
+      "label": "431"
+    },
+    {
+      "key": "post-431",
+      "label": "Post-431"
+    },
+    {
+      "key": "undated",
+      "label": "Undated"
+    }
+  ],
+  "data": {
+    "pre-431": {
+      "CPal": {
+        "letter": 1,
+        "sermon": 7,
+        "petition": 0,
+        "acts": 0,
+        "other": 2
+      },
+      "CU": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 1
+      },
+      "CV": {
+        "letter": 20,
+        "sermon": 1,
+        "petition": 1,
+        "acts": 0,
+        "other": 5
+      },
+      "CVer": {
+        "letter": 6,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      }
+    },
+    "431": {
+      "CPal": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      },
+      "CU": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      },
+      "CV": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      },
+      "CVer": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      }
+    },
+    "post-431": {
+      "CPal": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      },
+      "CU": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      },
+      "CV": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      },
+      "CVer": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      }
+    },
+    "undated": {
+      "CPal": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      },
+      "CU": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      },
+      "CV": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      },
+      "CVer": {
+        "letter": 0,
+        "sermon": 0,
+        "petition": 0,
+        "acts": 0,
+        "other": 0
+      }
+    }
+  },
+  "total_docs": 44
+}

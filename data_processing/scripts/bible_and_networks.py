@@ -630,6 +630,47 @@ def build_bible_book_networks() -> None:
     )
 
 
+def build_bible_chapter_networks() -> None:
+    os.makedirs(NETWORK_DIR, exist_ok=True)
+
+    doc_titles = load_doc_titles()
+    chapter_doc_counts: Dict[Tuple[str, str], int] = defaultdict(int)
+    doc_to_chapters: Dict[str, List[str]] = defaultdict(list)
+
+    for row in read_jsonl(os.path.join(OUTPUT_DIR, "bible_refs.jsonl")):
+        doc_id = row.get("doc_id")
+        refs = row.get("refs", [])
+        for ref in refs:
+            book = ref.get("book")
+            chapter = ref.get("chapter")
+            if not book or chapter is None:
+                continue
+            chapter_key = f"{book}.{chapter}"
+            chapter_doc_counts[(chapter_key, doc_id)] += 1
+            doc_to_chapters[doc_id].append(chapter_key)
+
+    chapter_doc_edges = [(chapter_key, doc, w) for (chapter_key, doc), w in chapter_doc_counts.items()]
+
+    pair_weights = defaultdict(int)
+    for doc_id, clist in doc_to_chapters.items():
+        unique = sorted(set(clist))
+        for i in range(len(unique)):
+            for j in range(i + 1, len(unique)):
+                pair_weights[(unique[i], unique[j])] += 1
+
+    chapter_chapter_edges = [(a, b, w) for (a, b), w in pair_weights.items()]
+
+    write_gexf_bible_document(
+        os.path.join(NETWORK_DIR, "bible_chapter_document.gexf"),
+        chapter_doc_edges,
+        doc_titles,
+    )
+    write_gexf_bible_bible(
+        os.path.join(NETWORK_DIR, "bible_chapter_chapter.gexf"),
+        chapter_chapter_edges,
+    )
+
+
 def write_gexf_person_document(path: str, edges: List[Tuple[str, str, int]], doc_titles: Dict[str, str]) -> None:
     node_ids: Dict[str, str] = {}
     nodes: List[Tuple[str, str, str, Optional[str]]] = []
@@ -850,6 +891,7 @@ def main() -> None:
     build_person_networks()
     build_bible_networks()
     build_bible_book_networks()
+    build_bible_chapter_networks()
     print("Bible refs + networks generated")
 
 

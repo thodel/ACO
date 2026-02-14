@@ -36,6 +36,12 @@
 				'Zeitlicher Verlauf ausgewählter griechischer Fachbegriffe mit Schieberegler.'
 		},
 		{
+			title: 'Document Type & Collection Overview',
+			path: `${base}/visualization/structure`,
+			description:
+				'Strukturelle Übersicht nach Sammlung und Dokumenttyp, mit Zeitscheiben.'
+		},
+		{
 			title: 'Semantic Search',
 			path: `${base}/visualization/suche`,
 			description:

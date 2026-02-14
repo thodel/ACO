@@ -415,10 +415,10 @@
 		@apply lg:inline-block;
 	}
 	.containerLineNums :global(.lineNumBuffer) {
-		@apply text-surface-950-50/0 inline-block w-10 select-none;
+		@apply text-surface-950-50 opacity-0 inline-block w-10 select-none;
 	}
 	.containerLineNums :global(.lineNumBuffer:hover) {
-		@apply text-surface-950-50/50;
+		@apply text-surface-950-50 opacity-50;
 	}
 
 	/* Text */
@@ -432,7 +432,7 @@
 
 	/* Highlights in Text */
 	.containerText :global(.annotVisible span[data-ids]) {
-		@apply text-surface-950-50 bg-warning-100/40 dark:bg-warning-700 [&.multiple-ids]:bg-warning-300/70 dark:[&.multiple-ids]:bg-warning-200 cursor-pointer;
+		@apply text-surface-950-50 bg-warning-100 dark:bg-warning-700 [&.multiple-ids]:bg-warning-300 dark:[&.multiple-ids]:bg-warning-200 cursor-pointer;
 	}
 
 	.containerText :global(.annotVisible span[data-type='mark'].highlighted) {

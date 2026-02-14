@@ -40,6 +40,7 @@
 
 <style>
 	@reference "tailwindcss";
+	@reference "@skeletonlabs/skeleton";
 	.literatureList {
 		:global(.rp-heading_1) {
 			@apply mt-10 text-5xl leading-tight font-semibold;
@@ -56,7 +57,7 @@
 	}
 
 	.lit-entry :global(span[id^='page-']) {
-		@apply text-surface-950-50/70;
+		@apply text-surface-950-50 opacity-70;
 	}
 
 	.lit-docs {
@@ -76,6 +77,6 @@
 	}
 
 	.doc-empty {
-		@apply mt-3 text-sm text-surface-950-50/70;
+		@apply mt-3 text-sm text-surface-950-50 opacity-70;
 	}
 </style>

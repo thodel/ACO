@@ -13,8 +13,8 @@
 	let searchInputEl: HTMLInputElement | null = null;
 	let searchBtnEl: HTMLButtonElement | null = null;
 	let searchClearEl: HTMLButtonElement | null = null;
-	let bibleLevelToggleEl: HTMLInputElement | null = null;
-	let bibleToggleLabelEl: HTMLLabelElement | null = null;
+	let bibleLevelSelectEl: HTMLSelectElement | null = null;
+	let bibleLevelLabelEl: HTMLLabelElement | null = null;
 
 	onMount(() => {
 		let destroyed = false;
@@ -24,7 +24,7 @@
 			await loadScriptOnce('https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js');
 			if (destroyed) return;
 			const d3 = (window as any).d3;
-			if (!d3 || !chartEl || !tooltipEl || !selectEl || !bibleLevelToggleEl) return;
+			if (!d3 || !chartEl || !tooltipEl || !selectEl || !bibleLevelSelectEl) return;
 
 			let svg: any;
 			let simulation: any;
@@ -273,32 +273,38 @@
 				);
 			}
 
-			function updateBibleToggleVisibility(baseValue: string) {
-				if (!bibleToggleLabelEl) return;
+			function updateBibleLevelVisibility(baseValue: string) {
+				if (!bibleLevelLabelEl || !bibleLevelSelectEl) return;
 				if (isBibleNetwork(baseValue)) {
-					bibleToggleLabelEl.style.display = 'flex';
-					bibleLevelToggleEl!.checked = true;
+					bibleLevelLabelEl.style.display = 'flex';
+					bibleLevelSelectEl.value = 'book';
 				} else {
-					bibleToggleLabelEl.style.display = 'none';
-					bibleLevelToggleEl!.checked = false;
+					bibleLevelLabelEl.style.display = 'none';
 				}
 			}
 
 			function resolveNetworkFile(baseValue: string) {
-				const useBook = bibleLevelToggleEl?.checked;
+				const level = bibleLevelSelectEl?.value || 'book';
 				if (!baseValue) return baseValue;
-				if (useBook && baseValue === 'bible_bible.json') return 'bible_book_book.json';
-				if (useBook && baseValue === 'bible_document.json') return 'bible_book_document.json';
-				if (!useBook && baseValue === 'bible_book_book.json') return 'bible_bible.json';
-				if (!useBook && baseValue === 'bible_book_document.json') return 'bible_document.json';
+				if (level === 'chapter' && baseValue === 'bible_bible.json') return 'bible_chapter_chapter.json';
+				if (level === 'chapter' && baseValue === 'bible_document.json') return 'bible_chapter_document.json';
+				if (level === 'book' && baseValue === 'bible_bible.json') return 'bible_book_book.json';
+				if (level === 'book' && baseValue === 'bible_document.json') return 'bible_book_document.json';
+				if (level === 'verse' && baseValue === 'bible_book_book.json') return 'bible_bible.json';
+				if (level === 'verse' && baseValue === 'bible_book_document.json') return 'bible_document.json';
 				return baseValue;
 			}
 
+			async function loadSelectedNetwork() {
+				const baseValue = selectEl!.value;
+				await loadNetwork(resolveNetworkFile(baseValue));
+			}
+
 			const handleSelect = () => {
-				updateBibleToggleVisibility(selectEl!.value);
-				loadNetwork(resolveNetworkFile(selectEl!.value));
+				updateBibleLevelVisibility(selectEl!.value);
+				loadSelectedNetwork();
 			};
-			const handleReset = () => loadNetwork(resolveNetworkFile(selectEl!.value));
+			const handleReset = () => loadSelectedNetwork();
 			const handleZoomIn = () => {
 				if (svg) svg.transition().call(zoomBehavior.scaleBy, 1.2);
 			};
@@ -316,14 +322,14 @@
 			const handleKeydown = (e: KeyboardEvent) => {
 				if (e.key === 'Enter') applySearch(searchInputEl?.value || '');
 			};
-			const handleResize = () => loadNetwork(resolveNetworkFile(selectEl!.value));
+			const handleResize = () => loadSelectedNetwork();
 			const handleDocClick = () => {
 				if (pinnedNode) {
 					pinnedNode = null;
 					hideTooltip();
 				}
 			};
-			const handleBibleToggle = () => loadNetwork(resolveNetworkFile(selectEl!.value));
+			const handleBibleLevelChange = () => loadSelectedNetwork();
 
 			selectEl.addEventListener('change', handleSelect);
 			resetEl?.addEventListener('click', handleReset);
@@ -333,12 +339,12 @@
 			searchBtnEl?.addEventListener('click', handleSearch);
 			searchClearEl?.addEventListener('click', handleClear);
 			searchInputEl?.addEventListener('keydown', handleKeydown);
-			bibleLevelToggleEl.addEventListener('change', handleBibleToggle);
+			bibleLevelSelectEl.addEventListener('change', handleBibleLevelChange);
 			window.addEventListener('resize', handleResize);
 			document.addEventListener('click', handleDocClick);
 
-			updateBibleToggleVisibility(selectEl.value);
-			loadNetwork(resolveNetworkFile(selectEl.value));
+			updateBibleLevelVisibility(selectEl.value);
+			loadSelectedNetwork();
 
 			cleanup = () => {
 				selectEl?.removeEventListener('change', handleSelect);
@@ -349,7 +355,7 @@
 				searchBtnEl?.removeEventListener('click', handleSearch);
 				searchClearEl?.removeEventListener('click', handleClear);
 				searchInputEl?.removeEventListener('keydown', handleKeydown);
-				bibleLevelToggleEl?.removeEventListener('change', handleBibleToggle);
+				bibleLevelSelectEl?.removeEventListener('change', handleBibleLevelChange);
 				window.removeEventListener('resize', handleResize);
 				document.removeEventListener('click', handleDocClick);
 				if (simulation) simulation.stop();
@@ -381,9 +387,13 @@
 					<option value="bible_document.json">Bible–Document</option>
 				</select>
 			</label>
-			<label class="toggle" bind:this={bibleToggleLabelEl}>
-				<input bind:this={bibleLevelToggleEl} type="checkbox" />
-				Book Level
+			<label class="toggle" bind:this={bibleLevelLabelEl}>
+				Level
+				<select bind:this={bibleLevelSelectEl}>
+					<option value="book">Book</option>
+					<option value="chapter">Chapter</option>
+					<option value="verse">Verse</option>
+				</select>
 			</label>
 			<div class="search-panel">
 				<input bind:this={searchInputEl} type="text" placeholder="Search node…" />
@@ -452,10 +462,6 @@
 
 	.network-vis label.toggle {
 		gap: 6px;
-	}
-
-	.network-vis label.toggle input {
-		accent-color: var(--accent);
 	}
 
 	.network-vis select,
