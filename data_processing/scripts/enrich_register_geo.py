@@ -196,6 +196,19 @@ def count_occurrences(loc: Dict[str, List[str]]) -> int:
     return total
 
 
+def build_mentions(loc: Dict[str, List[str]]) -> List[Dict[str, object]]:
+    mentions = []
+    for doc_id, refs in (loc or {}).items():
+        mentions.append(
+            {
+                "doc_id": doc_id,
+                "count": len(refs or []),
+            }
+        )
+    mentions.sort(key=lambda x: x["doc_id"])
+    return mentions
+
+
 def main() -> None:
     os.makedirs(os.path.dirname(OUTPUT_GEOJSON), exist_ok=True)
 
@@ -245,6 +258,7 @@ def main() -> None:
         label = entry.get("label")
         loc = entry.get("loc", {})
         count = count_occurrences(loc)
+        mentions = build_mentions(loc)
 
         status, candidates, match_variant = match_place(label)
         geo = {
@@ -300,6 +314,7 @@ def main() -> None:
                         "properties": {
                             "label": label,
                             "count": count,
+                            "mentions": mentions,
                             "pleiades_place_id": pid,
                             "pleiades_uri": info.get("uri"),
                             "pleiades_title": info.get("title"),

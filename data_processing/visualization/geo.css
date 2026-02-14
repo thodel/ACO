@@ -80,3 +80,28 @@ body {
 .leaflet-container {
   background: #0f1115;
 }
+
+.mention-list {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid #2a3140;
+}
+
+.mention-title {
+  font-weight: 700;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.mention-item {
+  font-size: 12px;
+}
+
+.mention-item a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.mention-item a:hover {
+  text-decoration: underline;
+}

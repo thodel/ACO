@@ -25,13 +25,25 @@ async function loadGeo() {
     },
     onEachFeature: (feature, layer) => {
       const p = feature.properties || {};
+      const mentions = (p.mentions || [])
+        .map(m => {
+          const doc = encodeURIComponent(m.doc_id);
+          const count = m.count || 0;
+          return `<div class="mention-item"><a href="entry.html?type=document&id=${doc}" target="_blank">${m.doc_id}</a> (${count})</div>`;
+        })
+        .join("");
       const lines = [
         `<strong>${p.label || ''}</strong>`,
         p.pleiades_title ? `Pleiades: ${p.pleiades_title}` : null,
         p.pleiades_uri ? `<a href="${p.pleiades_uri}" target="_blank">${p.pleiades_uri}</a>` : null,
         p.count ? `Mentions: ${p.count}` : null,
+        mentions ? `<div class="mention-list"><div class="mention-title">Documents</div>${mentions}</div>` : null,
       ].filter(Boolean);
       layer.bindPopup(lines.join('<br/>'));
+      layer.on('mouseover', () => {
+        map.closePopup();
+        layer.openPopup();
+      });
     }
   }).addTo(map);
 

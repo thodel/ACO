@@ -321,7 +321,18 @@
             ",Z.1"
           ]
         },
-        "print": "CV14,3; CV16,Z.1; CV17,Z.1; CV23,Z.1"
+        "print": "CV14,3; CV16,Z.1; CV17,Z.1; CV23,Z.1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "102377871",
+            "uri": "https://d-nb.info/gnd/102377871",
+            "preferredName": "Acacius, Beroeensis",
+            "match_score": 1.0,
+            "wikidata": "Q337191"
+          },
+          "wikidata": null
+        }
       },
       {
         "label": "Ambrosius von Mailand",
@@ -341,7 +352,24 @@
             ",Z.17"
           ]
         },
-        "print": "CV143,1; CPal36,Z.17"
+        "print": "CV143,1; CPal36,Z.17",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "11850245X",
+            "uri": "https://d-nb.info/gnd/11850245X",
+            "preferredName": "Ambrosius, Mediolanensis, Heiliger",
+            "match_score": 1.0,
+            "wikidata": "Q43689"
+          },
+          "wikidata": {
+            "id": "Q43689",
+            "label": "Ambrose",
+            "description": "Roman theologian and Bishop of Milan (c. 340–397)",
+            "url": "//www.wikidata.org/wiki/Q43689",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Ammon von Hadrianopolis",
@@ -381,7 +409,18 @@
             ",13"
           ]
         },
-        "print": "CV143,1; CV150,13"
+        "print": "CV143,1; CV150,13",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118648888",
+            "uri": "https://d-nb.info/gnd/118648888",
+            "preferredName": "Amphilochius, Cappadox",
+            "match_score": 1.0,
+            "wikidata": "Q474872"
+          },
+          "wikidata": null
+        }
       },
       {
         "label": "Anastasios (Presbyter in Konstantinopel)",
@@ -731,7 +770,18 @@
             ",Z.45"
           ]
         },
-        "print": "CV2,4; CV16,Z.20; CV22,5; CV143,1; CV150,11; CVer2,1.16; CVer5,5; CPal36,Z.45"
+        "print": "CV2,4; CV16,Z.20; CV22,5; CV143,1; CV150,11; CVer2,1.16; CVer5,5; CPal36,Z.45",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "119364743",
+            "uri": "https://d-nb.info/gnd/119364743",
+            "preferredName": "Atticus, Constantinopolitanus",
+            "match_score": 1.0,
+            "wikidata": "Q669419"
+          },
+          "wikidata": null
+        }
       },
       {
         "label": "Augustus",
@@ -759,7 +809,24 @@
             ",Z.19"
           ]
         },
-        "print": "CPal36,Z.19"
+        "print": "CPal36,Z.19",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "102382689",
+            "uri": "https://d-nb.info/gnd/102382689",
+            "preferredName": "Aurelius, von Karthago",
+            "match_score": 1.0,
+            "wikidata": "Q598727"
+          },
+          "wikidata": {
+            "id": "Q598727",
+            "label": "Saint Aurelius",
+            "description": "Bishop of Carthage",
+            "url": "//www.wikidata.org/wiki/Q598727",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Barnabas",
@@ -807,7 +874,24 @@
             ",1"
           ]
         },
-        "print": "CV16,Z.16; CV143,1"
+        "print": "CV16,Z.16; CV143,1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118637797",
+            "uri": "https://d-nb.info/gnd/118637797",
+            "preferredName": "Basilius, Caesariensis",
+            "match_score": 1.0,
+            "wikidata": "Q44258"
+          },
+          "wikidata": {
+            "id": "Q44258",
+            "label": "Basil of Caesarea",
+            "description": "4th-century Christian bishop, theologian, and saint (329–379)",
+            "url": "//www.wikidata.org/wiki/Q44258",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Basilius von Konstantinopel (Diakon)",
@@ -849,7 +933,18 @@
             ",II-2"
           ]
         },
-        "print": "CV166,II,2"
+        "print": "CV166,II,2",
+        "normdata": {
+          "match_status": "match",
+          "gnd": null,
+          "wikidata": {
+            "id": "Q1579827",
+            "label": "Bethuel",
+            "description": "biblical character",
+            "url": "//www.wikidata.org/wiki/Q1579827",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Buphas Martyrios (Diakon)",
@@ -929,7 +1024,24 @@
             ",Z.259"
           ]
         },
-        "print": "CU4,Z.35.40; CVer2,1; CPal35,Z.2.3; CPal36,Z.1f.10.13.37.38.51.72.158.168.174.185.198f.201.231.252.259"
+        "print": "CU4,Z.35.40; CVer2,1; CPal35,Z.2.3; CPal36,Z.1f.10.13.37.38.51.72.158.168.174.185.198f.201.231.252.259",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118666487",
+            "uri": "https://d-nb.info/gnd/118666487",
+            "preferredName": "Caelestius, Pelagianus",
+            "match_score": 1.0,
+            "wikidata": "Q1025379"
+          },
+          "wikidata": {
+            "id": "Q1025379",
+            "label": "Caelestius",
+            "description": "Christian theologian",
+            "url": "//www.wikidata.org/wiki/Q1025379",
+            "match_score": 0.6452
+          }
+        }
       },
       {
         "label": "Chairemon (Ankläger Kyrills)",
@@ -1039,7 +1151,24 @@
             ",1"
           ]
         },
-        "print": "CV2,3; CV6,2; CV13,Z.19; CV14,2.3; CV15,Z.34.39; CV24,Z.30; CV144,1; CV145,Z.29; CVer1,1; CVer2,1; CVer3,1; CVer4,1; CVer5,1; CVer6,1"
+        "print": "CV2,3; CV6,2; CV13,Z.19; CV14,2.3; CV15,Z.34.39; CV24,Z.30; CV144,1; CV145,Z.29; CVer1,1; CVer2,1; CVer3,1; CVer4,1; CVer5,1; CVer6,1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "119222701",
+            "uri": "https://d-nb.info/gnd/119222701",
+            "preferredName": "Cölestin I., Papst",
+            "match_score": 1.0,
+            "wikidata": "Q160922"
+          },
+          "wikidata": {
+            "id": "Q160922",
+            "label": "Celestine I",
+            "description": "pope",
+            "url": "//www.wikidata.org/wiki/Q160922",
+            "match_score": 0.7857
+          }
+        }
       },
       {
         "label": "David",
@@ -1215,7 +1344,18 @@
             ",6"
           ]
         },
-        "print": "CV16,Z.10; CV21,Z.10; CV144,3.6"
+        "print": "CV16,Z.10; CV21,Z.10; CV144,3.6",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "102391823",
+            "uri": "https://d-nb.info/gnd/102391823",
+            "preferredName": "Dorotheus, Marcianopolitanus",
+            "match_score": 1.0,
+            "wikidata": "Q3037233"
+          },
+          "wikidata": null
+        }
       },
       {
         "label": "Elija",
@@ -1273,7 +1413,24 @@
             ",I-8"
           ]
         },
-        "print": "CV166,I,8"
+        "print": "CV166,I,8",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "1158744900",
+            "uri": "https://d-nb.info/gnd/1158744900",
+            "preferredName": "Enos",
+            "match_score": 1.0,
+            "wikidata": null
+          },
+          "wikidata": {
+            "id": "Q682531",
+            "label": "Enos",
+            "description": "biblical figure, son of Seth, grandson of Adam and Eve",
+            "url": "//www.wikidata.org/wiki/Q682531",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Ephraim, der Syrer",
@@ -1287,7 +1444,24 @@
             ",1"
           ]
         },
-        "print": "CV143,1"
+        "print": "CV143,1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118530550",
+            "uri": "https://d-nb.info/gnd/118530550",
+            "preferredName": "Ephraem, Syrus",
+            "match_score": 1.0,
+            "wikidata": "Q200608"
+          },
+          "wikidata": {
+            "id": "Q180374",
+            "label": "Frank Gehry",
+            "description": "Canadian and American architect (1929–2025)",
+            "url": "//www.wikidata.org/wiki/Q180374",
+            "match_score": 0.6667
+          }
+        }
       },
       {
         "label": "Eunomius",
@@ -1301,7 +1475,24 @@
             ",II-1"
           ]
         },
-        "print": "CV166,II,1"
+        "print": "CV166,II,1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118682679",
+            "uri": "https://d-nb.info/gnd/118682679",
+            "preferredName": "Eunomius, Cyzicenus",
+            "match_score": 1.0,
+            "wikidata": "Q452225"
+          },
+          "wikidata": {
+            "id": "Q452225",
+            "label": "Eunomius of Cyzicus",
+            "description": "Arian bishop",
+            "url": "//www.wikidata.org/wiki/Q452225",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Eustathius von Antiochia",
@@ -1321,7 +1512,18 @@
             ",1"
           ]
         },
-        "print": "CV18,4; CV143,1"
+        "print": "CV18,4; CV143,1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118682741",
+            "uri": "https://d-nb.info/gnd/118682741",
+            "preferredName": "Eustathius, Antiochenus",
+            "match_score": 1.0,
+            "wikidata": "Q511971"
+          },
+          "wikidata": null
+        }
       },
       {
         "label": "Eva",
@@ -1347,7 +1549,24 @@
             ",44"
           ]
         },
-        "print": "CV166,III,1; CPal31,Z.46; CPal34,44"
+        "print": "CV166,III,1; CPal31,Z.46; CPal34,44",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "135375819",
+            "uri": "https://d-nb.info/gnd/135375819",
+            "preferredName": "Eva",
+            "match_score": 1.0,
+            "wikidata": null
+          },
+          "wikidata": {
+            "id": "Q829665",
+            "label": "Eva",
+            "description": "female given name",
+            "url": "//www.wikidata.org/wiki/Q829665",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Ezechiel",
@@ -1479,7 +1698,24 @@
             ",Z.24"
           ]
         },
-        "print": "CV7,6.11.29; CV19,5; CPal31,Z.24"
+        "print": "CV7,6.11.29; CV19,5; CPal31,Z.24",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "135260361",
+            "uri": "https://d-nb.info/gnd/135260361",
+            "preferredName": "Gabriel",
+            "match_score": 1.0,
+            "wikidata": null
+          },
+          "wikidata": {
+            "id": "Q4925914",
+            "label": "Gabriel",
+            "description": "male given name",
+            "url": "//www.wikidata.org/wiki/Q4925914",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Gregor von Nazianz",
@@ -1505,7 +1741,24 @@
             ",1"
           ]
         },
-        "print": "CV16,Z.16 (?); CV143,1"
+        "print": "CV16,Z.16 (?); CV143,1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118541900",
+            "uri": "https://d-nb.info/gnd/118541900",
+            "preferredName": "Gregorius, Nazianzenus",
+            "match_score": 1.0,
+            "wikidata": "Q44011"
+          },
+          "wikidata": {
+            "id": "Q44011",
+            "label": "Gregory of Nazianzus",
+            "description": "Christian saint and theologian (c. 329 – 390)",
+            "url": "//www.wikidata.org/wiki/Q44011",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Gregor von Neocaesarea",
@@ -1545,7 +1798,24 @@
             ",1"
           ]
         },
-        "print": "CV16,Z.16 (?); CV143,1"
+        "print": "CV16,Z.16 (?); CV143,1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118541919",
+            "uri": "https://d-nb.info/gnd/118541919",
+            "preferredName": "Gregorius, Nyssenus",
+            "match_score": 1.0,
+            "wikidata": "Q191734"
+          },
+          "wikidata": {
+            "id": "Q191734",
+            "label": "Gregory of Nyssa",
+            "description": "bishop of Nyssa",
+            "url": "//www.wikidata.org/wiki/Q191734",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Habakuk",
@@ -1593,7 +1863,24 @@
             ",Z.10"
           ]
         },
-        "print": "CPal35,Z.10"
+        "print": "CPal35,Z.10",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118703781",
+            "uri": "https://d-nb.info/gnd/118703781",
+            "preferredName": "Herodes Antipas, Galiläa, Tetrarch",
+            "match_score": 1.0,
+            "wikidata": "Q192950"
+          },
+          "wikidata": {
+            "id": "Q192950",
+            "label": "Herod Antipas",
+            "description": "1st century AD tetrarch of Galilee and Perea",
+            "url": "//www.wikidata.org/wiki/Q192950",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Hiskija",
@@ -1607,7 +1894,24 @@
             ",2"
           ]
         },
-        "print": "CV7,2"
+        "print": "CV7,2",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "11863965X",
+            "uri": "https://d-nb.info/gnd/11863965X",
+            "preferredName": "Hiskija, Juda, König",
+            "match_score": 0.56,
+            "wikidata": "Q244912"
+          },
+          "wikidata": {
+            "id": "Q244912",
+            "label": "Hezekiah",
+            "description": "King of Judah",
+            "url": "//www.wikidata.org/wiki/Q244912",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Innozenz I.",
@@ -1625,7 +1929,24 @@
             ",Z.198"
           ]
         },
-        "print": "CPal36,Z.192.194.198"
+        "print": "CPal36,Z.192.194.198",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118775545",
+            "uri": "https://d-nb.info/gnd/118775545",
+            "preferredName": "Innozenz I., Papst",
+            "match_score": 0.7692,
+            "wikidata": "Q134694"
+          },
+          "wikidata": {
+            "id": "Q134694",
+            "label": "Innocent I",
+            "description": "early medieval pope (???-417)",
+            "url": "//www.wikidata.org/wiki/Q134694",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Irenaeus von Tyros (comes)",
@@ -1659,7 +1980,24 @@
             ",1"
           ]
         },
-        "print": "CV 143,1"
+        "print": "CV 143,1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118555766",
+            "uri": "https://d-nb.info/gnd/118555766",
+            "preferredName": "Irenaeus, Lugdunensis",
+            "match_score": 1.0,
+            "wikidata": "Q182123"
+          },
+          "wikidata": {
+            "id": "Q182123",
+            "label": "Irenaeus",
+            "description": "2nd-century Greek bishop and Doctor of the Church",
+            "url": "//www.wikidata.org/wiki/Q182123",
+            "match_score": 0.9091
+          }
+        }
       },
       {
         "label": "Isaak",
@@ -1711,7 +2049,24 @@
             ",III-3"
           ]
         },
-        "print": "CV7,44; CV150,96; CV166,III,3"
+        "print": "CV7,44; CV150,96; CV166,III,3",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "1177401835",
+            "uri": "https://d-nb.info/gnd/1177401835",
+            "preferredName": "Isai",
+            "match_score": 1.0,
+            "wikidata": null
+          },
+          "wikidata": {
+            "id": "Q45090",
+            "label": "Jesse",
+            "description": "son of Obed, belonging to the tribe of Judah; father of David",
+            "url": "//www.wikidata.org/wiki/Q45090",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Jakob",
@@ -1841,7 +2196,24 @@
             ",Z.30"
           ]
         },
-        "print": "CV1,4; CV7,10; CV18,4; CV166,II,8.III,Praef.; CVer2,5; CVer5,3; CPal34,Z.30"
+        "print": "CV1,4; CV7,10; CV18,4; CV166,II,8.III,Praef.; CVer2,5; CVer5,3; CPal34,Z.30",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118557394",
+            "uri": "https://d-nb.info/gnd/118557394",
+            "preferredName": "Jeremia, Prophet",
+            "match_score": 1.0,
+            "wikidata": "Q158825"
+          },
+          "wikidata": {
+            "id": "Q21146157",
+            "label": "Jeremia",
+            "description": "male given name",
+            "url": "//www.wikidata.org/wiki/Q21146157",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Jesaja",
@@ -1875,7 +2247,24 @@
             ",183"
           ]
         },
-        "print": "CV1,2.19.24; CV149,1.17; CV150,127.183"
+        "print": "CV1,2.19.24; CV149,1.17; CV150,127.183",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118639897",
+            "uri": "https://d-nb.info/gnd/118639897",
+            "preferredName": "Jesaja, Prophet",
+            "match_score": 1.0,
+            "wikidata": "Q188794"
+          },
+          "wikidata": {
+            "id": "Q21148067",
+            "label": "Jesaja",
+            "description": "given name",
+            "url": "//www.wikidata.org/wiki/Q21148067",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Johannes (Evangelist)",
@@ -2139,7 +2528,24 @@
             ",Z.10"
           ]
         },
-        "print": "CV1,4; CV149,27; CV150,124.127.183.184; CV166;I,5.III,3.IV,2.V,7; CPal35,Z.10"
+        "print": "CV1,4; CV149,27; CV150,124.127.183.184; CV166;I,5.III,3.IV,2.V,7; CPal35,Z.10",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "1299778372",
+            "uri": "https://d-nb.info/gnd/1299778372",
+            "preferredName": "Johannes",
+            "match_score": 0.7368,
+            "wikidata": null
+          },
+          "wikidata": {
+            "id": "Q40662",
+            "label": "John the Baptist",
+            "description": "1st-century Jewish itinerant preacher (Bible)",
+            "url": "//www.wikidata.org/wiki/Q40662",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Joschija",
@@ -2245,7 +2651,24 @@
             ",Z.260"
           ]
         },
-        "print": "CVer3,1; CVer4,1; CPal36,Z.9.160.170.251.260"
+        "print": "CVer3,1; CVer4,1; CPal36,Z.9.160.170.251.260",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118714066",
+            "uri": "https://d-nb.info/gnd/118714066",
+            "preferredName": "Iulianus, Aeclanensis",
+            "match_score": 1.0,
+            "wikidata": "Q1662957"
+          },
+          "wikidata": {
+            "id": "Q1662957",
+            "label": "Julian of Eclanum",
+            "description": "Italian bishop",
+            "url": "//www.wikidata.org/wiki/Q1662957",
+            "match_score": 0.9143
+          }
+        }
       },
       {
         "label": "Juvenal von Jerusalem",
@@ -2277,7 +2700,24 @@
             ",1"
           ]
         },
-        "print": "CV13,Z.37; CV15,Z.1; CVer1,7; CVer6,1"
+        "print": "CV13,Z.37; CV15,Z.1; CVer1,7; CVer6,1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "102396825",
+            "uri": "https://d-nb.info/gnd/102396825",
+            "preferredName": "Iuvenalis, Hierosolymitanus",
+            "match_score": 1.0,
+            "wikidata": "Q2996896"
+          },
+          "wikidata": {
+            "id": "Q2996896",
+            "label": "Juvenal of Jerusalem",
+            "description": "bishop of Jerusalem",
+            "url": "//www.wikidata.org/wiki/Q2996896",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Kambyses",
@@ -2291,7 +2731,24 @@
             ",II-4"
           ]
         },
-        "print": "CV166,II,4"
+        "print": "CV166,II,4",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "1238037372",
+            "uri": "https://d-nb.info/gnd/1238037372",
+            "preferredName": "Kambyses I., Iran, König",
+            "match_score": 0.875,
+            "wikidata": "Q299428"
+          },
+          "wikidata": {
+            "id": "Q416262",
+            "label": "Cambyses",
+            "description": "Wikimedia disambiguation page",
+            "url": "//www.wikidata.org/wiki/Q416262",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Kefas (s. auch Petrus)",
@@ -2543,7 +3000,24 @@
             ",Z.13"
           ]
         },
-        "print": "CV3,Z.4.13"
+        "print": "CV3,Z.4.13",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "102388180",
+            "uri": "https://d-nb.info/gnd/102388180",
+            "preferredName": "Lampon, Alexandrinus",
+            "match_score": 1.0,
+            "wikidata": null
+          },
+          "wikidata": {
+            "id": "Q10553629",
+            "label": "Lamponius",
+            "description": "genus of insects",
+            "url": "//www.wikidata.org/wiki/Q10553629",
+            "match_score": 0.56
+          }
+        }
       },
       {
         "label": "Lazarus",
@@ -2567,7 +3041,24 @@
             ",147"
           ]
         },
-        "print": "CV149,16.31; CV150,145.147"
+        "print": "CV149,16.31; CV150,145.147",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "136382908",
+            "uri": "https://d-nb.info/gnd/136382908",
+            "preferredName": "Lazarus",
+            "match_score": 1.0,
+            "wikidata": null
+          },
+          "wikidata": {
+            "id": "Q21145110",
+            "label": "Lazarus",
+            "description": "male given name",
+            "url": "//www.wikidata.org/wiki/Q21145110",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Leporius",
@@ -2581,7 +3072,24 @@
             ",1"
           ]
         },
-        "print": "CV143,1"
+        "print": "CV143,1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "100184553",
+            "uri": "https://d-nb.info/gnd/100184553",
+            "preferredName": "Leporius, Monachus",
+            "match_score": 1.0,
+            "wikidata": "Q25391116"
+          },
+          "wikidata": {
+            "id": "Q25391116",
+            "label": "Leporius",
+            "description": "monk (5th century)",
+            "url": "//www.wikidata.org/wiki/Q25391116",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Livania (Witwe)",
@@ -2633,7 +3141,24 @@
             ",V-6"
           ]
         },
-        "print": "CV7,42; CV150,52.121.147.190.224; CV166,III,4.IV,2.V,6"
+        "print": "CV7,42; CV150,52.121.147.190.224; CV166,III,4.IV,2.V,6",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "134738462",
+            "uri": "https://d-nb.info/gnd/134738462",
+            "preferredName": "Lukas",
+            "match_score": 1.0,
+            "wikidata": "Q457008"
+          },
+          "wikidata": {
+            "id": "Q20790",
+            "label": "Lukas",
+            "description": "male given name",
+            "url": "//www.wikidata.org/wiki/Q20790",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Makarios von Laodikea",
@@ -2661,7 +3186,18 @@
             ",6"
           ]
         },
-        "print": "CV7,6"
+        "print": "CV7,6",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118730827",
+            "uri": "https://d-nb.info/gnd/118730827",
+            "preferredName": "Marcellus, Ancyranus",
+            "match_score": 1.0,
+            "wikidata": "Q519513"
+          },
+          "wikidata": null
+        }
       },
       {
         "label": "Matthäus",
@@ -2729,7 +3265,18 @@
             ",5"
           ]
         },
-        "print": "CV14,5"
+        "print": "CV14,5",
+        "normdata": {
+          "match_status": "match",
+          "gnd": null,
+          "wikidata": {
+            "id": "Q3333008",
+            "label": "Meletius of Mopsuestia",
+            "description": null,
+            "url": "//www.wikidata.org/wiki/Q3333008",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Mercator (Marius)",
@@ -2745,7 +3292,24 @@
             ",Z.5"
           ]
         },
-        "print": "CPal36,Z.2.5"
+        "print": "CPal36,Z.2.5",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "1089361025",
+            "uri": "https://d-nb.info/gnd/1089361025",
+            "preferredName": "Marius, Mercator",
+            "match_score": 1.0,
+            "wikidata": null
+          },
+          "wikidata": {
+            "id": "Q83372750",
+            "label": "Mercator",
+            "description": "family name",
+            "url": "//www.wikidata.org/wiki/Q83372750",
+            "match_score": 0.6957
+          }
+        }
       },
       {
         "label": "Methodios von Olympos",
@@ -2759,7 +3323,24 @@
             ",1"
           ]
         },
-        "print": "CV143,1"
+        "print": "CV143,1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118581422",
+            "uri": "https://d-nb.info/gnd/118581422",
+            "preferredName": "Methodius, Olympius, Heiliger",
+            "match_score": 0.8235,
+            "wikidata": "Q518300"
+          },
+          "wikidata": {
+            "id": "Q518300",
+            "label": "Methodius of Olympus",
+            "description": "Christian bishop and martyr",
+            "url": "//www.wikidata.org/wiki/Q518300",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Mose",
@@ -3073,7 +3654,24 @@
             ",Z.3"
           ]
         },
-        "print": "CV2,1; CV3,Z.1; CV4,1; CV5,1; CV6,1; CV13,Z.9; CV14,1; CV15,Z.2; CV16,Z.7; CV18,1.2; CV19,1; CV20,Z.1.29; CV21.Z.2.5; CV24,Z.2.5.15; CV143,2; CV144,3; CV145,Z.12; CV166,I,Praef.2.II,Praef.; CU4,Z.2.3.48; CVer2,1; CVer3,1; CVer5,2.21; CVer6,4.5; CPal29,I; CPal35,Z.1f.3"
+        "print": "CV2,1; CV3,Z.1; CV4,1; CV5,1; CV6,1; CV13,Z.9; CV14,1; CV15,Z.2; CV16,Z.7; CV18,1.2; CV19,1; CV20,Z.1.29; CV21.Z.2.5; CV24,Z.2.5.15; CV143,2; CV144,3; CV145,Z.12; CV166,I,Praef.2.II,Praef.; CU4,Z.2.3.48; CVer2,1; CVer3,1; CVer5,2.21; CVer6,4.5; CPal29,I; CPal35,Z.1f.3",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118943170",
+            "uri": "https://d-nb.info/gnd/118943170",
+            "preferredName": "Nestorius, Constantinopolitanus",
+            "match_score": 1.0,
+            "wikidata": "Q185073"
+          },
+          "wikidata": {
+            "id": "Q185073",
+            "label": "Nestorius",
+            "description": "Christian theologian (c. 386–c. 451)",
+            "url": "//www.wikidata.org/wiki/Q185073",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Nikodemus",
@@ -3177,7 +3775,24 @@
             ",Z.18"
           ]
         },
-        "print": "CPal36,Z.18"
+        "print": "CPal36,Z.18",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118592157",
+            "uri": "https://d-nb.info/gnd/118592157",
+            "preferredName": "Paulinus, Mediolanensis",
+            "match_score": 1.0,
+            "wikidata": "Q3372687"
+          },
+          "wikidata": {
+            "id": "Q3372687",
+            "label": "Paulinus the Deacon",
+            "description": "Roman hagiographer and writer",
+            "url": "//www.wikidata.org/wiki/Q3372687",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Paulus (Apostel)",
@@ -3557,7 +4172,24 @@
             ",8"
           ]
         },
-        "print": "CV18,1.2.3; CV143,1.2; CVer2,15; CVer5,8"
+        "print": "CV18,1.2.3; CV143,1.2; CVer2,15; CVer5,8",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "11878997X",
+            "uri": "https://d-nb.info/gnd/11878997X",
+            "preferredName": "Paulus, Samosatenus",
+            "match_score": 1.0,
+            "wikidata": "Q357771"
+          },
+          "wikidata": {
+            "id": "Q357771",
+            "label": "Paul of Samosata",
+            "description": "Patriarch of Antioch",
+            "url": "//www.wikidata.org/wiki/Q357771",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Pelagius",
@@ -3607,7 +4239,24 @@
             ",Z.260"
           ]
         },
-        "print": "CVer2,1; CPal36,Z.14.74.78.143.158.168.174.177.185.187.197.203.232.252.259.260"
+        "print": "CVer2,1; CPal36,Z.14.74.78.143.158.168.174.177.185.187.197.203.232.252.259.260",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "102402027",
+            "uri": "https://d-nb.info/gnd/102402027",
+            "preferredName": "Pelagius, Alchemista",
+            "match_score": 1.0,
+            "wikidata": null
+          },
+          "wikidata": {
+            "id": "Q14655",
+            "label": "Pelagius",
+            "description": "first king of Asturias",
+            "url": "//www.wikidata.org/wiki/Q14655",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Petrus (s. auch Kefas)",
@@ -3751,7 +4400,18 @@
             ",Z.89"
           ]
         },
-        "print": "CV7,6; CPal22,Z.87.89"
+        "print": "CV7,6; CPal22,Z.87.89",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118924206",
+            "uri": "https://d-nb.info/gnd/118924206",
+            "preferredName": "Photinus, Sirmiensis",
+            "match_score": 1.0,
+            "wikidata": "Q2062364"
+          },
+          "wikidata": null
+        }
       },
       {
         "label": "Photios (Presbyter)",
@@ -3785,7 +4445,24 @@
             ",9"
           ]
         },
-        "print": "CV18,3; CV19,9"
+        "print": "CV18,3; CV19,9",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118792172",
+            "uri": "https://d-nb.info/gnd/118792172",
+            "preferredName": "Pilatus, Pontius",
+            "match_score": 1.0,
+            "wikidata": "Q17131"
+          },
+          "wikidata": {
+            "id": "Q17131",
+            "label": "Pontius Pilatus",
+            "description": "fifth Prefect of the Roman province of Judaea, from AD 26–36",
+            "url": "//www.wikidata.org/wiki/Q17131",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Poseidonios (Diakon Kyrills)",
@@ -3885,7 +4562,24 @@
             ",3"
           ]
         },
-        "print": "CV8,3"
+        "print": "CV8,3",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118793675",
+            "uri": "https://d-nb.info/gnd/118793675",
+            "preferredName": "Pulcheria, Byzantinisches Reich, Kaiserin",
+            "match_score": 1.0,
+            "wikidata": "Q231919"
+          },
+          "wikidata": {
+            "id": "Q10646515",
+            "label": "Pulcheria catomelas",
+            "description": "species of insect",
+            "url": "//www.wikidata.org/wiki/Q10646515",
+            "match_score": 0.8235
+          }
+        }
       },
       {
         "label": "Rabschake",
@@ -3899,7 +4593,18 @@
             ",3"
           ]
         },
-        "print": "CV7,3"
+        "print": "CV7,3",
+        "normdata": {
+          "match_status": "match",
+          "gnd": null,
+          "wikidata": {
+            "id": "Q2920137",
+            "label": "Rabshakeh",
+            "description": "Assyrian Officer",
+            "url": "//www.wikidata.org/wiki/Q2920137",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Rufus von Thessaloniki",
@@ -4015,7 +4720,24 @@
             ",III-1"
           ]
         },
-        "print": "CV166,I,8.III,1"
+        "print": "CV166,I,8.III,1",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "1159100853",
+            "uri": "https://d-nb.info/gnd/1159100853",
+            "preferredName": "Seth, Ephrem",
+            "match_score": 1.0,
+            "wikidata": null
+          },
+          "wikidata": {
+            "id": "Q3958283",
+            "label": "Seth",
+            "description": "male given name",
+            "url": "//www.wikidata.org/wiki/Q3958283",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Severian von Gabala",
@@ -4035,7 +4757,24 @@
             ",16"
           ]
         },
-        "print": "CV143,1; CV150,16"
+        "print": "CV143,1; CV150,16",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118796771",
+            "uri": "https://d-nb.info/gnd/118796771",
+            "preferredName": "Severianus, Gabalensis",
+            "match_score": 1.0,
+            "wikidata": "Q722953"
+          },
+          "wikidata": {
+            "id": "Q722953",
+            "label": "Severian of Gabala",
+            "description": "bishop of Gabala",
+            "url": "//www.wikidata.org/wiki/Q722953",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Simeon",
@@ -4051,7 +4790,24 @@
             ",197"
           ]
         },
-        "print": "CV150,125.197"
+        "print": "CV150,125.197",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "1032278064",
+            "uri": "https://d-nb.info/gnd/1032278064",
+            "preferredName": "Simeon, Scotus",
+            "match_score": 1.0,
+            "wikidata": null
+          },
+          "wikidata": {
+            "id": "Q1557",
+            "label": "Simeon",
+            "description": "male given name",
+            "url": "//www.wikidata.org/wiki/Q1557",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Simon Bar Jona",
@@ -4067,7 +4823,24 @@
             ",107"
           ]
         },
-        "print": "CV150,106.107"
+        "print": "CV150,106.107",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "135790425",
+            "uri": "https://d-nb.info/gnd/135790425",
+            "preferredName": "Madelka, Simon Bar Jona",
+            "match_score": 0.7778,
+            "wikidata": "Q117838"
+          },
+          "wikidata": {
+            "id": "Q33923",
+            "label": "Saint Peter",
+            "description": "apostle of Jesus Christ",
+            "url": "//www.wikidata.org/wiki/Q33923",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Sisinnius von Konstantinopel",
@@ -4193,7 +4966,24 @@
             ",3"
           ]
         },
-        "print": "CV14,3"
+        "print": "CV14,3",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118621688",
+            "uri": "https://d-nb.info/gnd/118621688",
+            "preferredName": "Theodorus, Mopsuestenus",
+            "match_score": 1.0,
+            "wikidata": "Q355664"
+          },
+          "wikidata": {
+            "id": "Q355664",
+            "label": "Theodore of Mopsuestia",
+            "description": "christian theologian",
+            "url": "//www.wikidata.org/wiki/Q355664",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Theodoret von Kyros",
@@ -4207,7 +4997,24 @@
             ",5"
           ]
         },
-        "print": "CV14,5"
+        "print": "CV14,5",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118756796",
+            "uri": "https://d-nb.info/gnd/118756796",
+            "preferredName": "Theodoretus, Cyrrhensis",
+            "match_score": 1.0,
+            "wikidata": "Q317029"
+          },
+          "wikidata": {
+            "id": "Q317029",
+            "label": "Theodoret",
+            "description": "5th century Byzantine theologian and bishop",
+            "url": "//www.wikidata.org/wiki/Q317029",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Theodosius (II.)",
@@ -4307,7 +5114,24 @@
             ",18"
           ]
         },
-        "print": "CV16,Z.15; CV150,18"
+        "print": "CV16,Z.15; CV150,18",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "118756915",
+            "uri": "https://d-nb.info/gnd/118756915",
+            "preferredName": "Theophilus, Alexandrinus",
+            "match_score": 1.0,
+            "wikidata": "Q365941"
+          },
+          "wikidata": {
+            "id": "Q365941",
+            "label": "Pope Theophilus of Alexandria",
+            "description": "Patriarch of Alexandria from 384 to 412",
+            "url": "//www.wikidata.org/wiki/Q365941",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Thomas",
@@ -4509,7 +5333,24 @@
             ",121"
           ]
         },
-        "print": "CV150,121"
+        "print": "CV150,121",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "1225129931",
+            "uri": "https://d-nb.info/gnd/1225129931",
+            "preferredName": "Zacharias",
+            "match_score": 1.0,
+            "wikidata": null
+          },
+          "wikidata": {
+            "id": "Q20174193",
+            "label": "Zacharias",
+            "description": "male given name",
+            "url": "//www.wikidata.org/wiki/Q20174193",
+            "match_score": 1.0
+          }
+        }
       },
       {
         "label": "Zosimus (Papst)",
@@ -4529,7 +5370,24 @@
             ",Z.169"
           ]
         },
-        "print": "CPal36,Z.52.70.157.169"
+        "print": "CPal36,Z.52.70.157.169",
+        "normdata": {
+          "match_status": "match",
+          "gnd": {
+            "id": "119222833",
+            "uri": "https://d-nb.info/gnd/119222833",
+            "preferredName": "Zosimus, Papst",
+            "match_score": 1.0,
+            "wikidata": "Q162571"
+          },
+          "wikidata": {
+            "id": "Q5221438",
+            "label": "Zosimus aeneus",
+            "description": "species of crustacean",
+            "url": "//www.wikidata.org/wiki/Q5221438",
+            "match_score": 0.7407
+          }
+        }
       }
     ],
     "Orte": [

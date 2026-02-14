@@ -13,6 +13,16 @@
       "properties": {
         "label": "Afrika",
         "count": 6,
+        "mentions": [
+          {
+            "doc_id": "CPal36",
+            "count": 5
+          },
+          {
+            "doc_id": "CV143",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "775",
         "pleiades_uri": "https://pleiades.stoa.org/places/775",
         "pleiades_title": "Africa (region)",
@@ -31,6 +41,20 @@
       "properties": {
         "label": "Bethlehem",
         "count": 3,
+        "mentions": [
+          {
+            "doc_id": "CV150",
+            "count": 1
+          },
+          {
+            "doc_id": "CV166",
+            "count": 1
+          },
+          {
+            "doc_id": "CV7",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "687856",
         "pleiades_uri": "https://pleiades.stoa.org/places/687856",
         "pleiades_title": "Bethlehem",
@@ -49,6 +73,20 @@
       "properties": {
         "label": "Ephesus",
         "count": 4,
+        "mentions": [
+          {
+            "doc_id": "CPal36",
+            "count": 2
+          },
+          {
+            "doc_id": "CV25",
+            "count": 1
+          },
+          {
+            "doc_id": "CVer2",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "599612",
         "pleiades_uri": "https://pleiades.stoa.org/places/599612",
         "pleiades_title": "Ephesus/Arsinoe(ia)",
@@ -67,6 +105,20 @@
       "properties": {
         "label": "Galiläa",
         "count": 3,
+        "mentions": [
+          {
+            "doc_id": "CV150",
+            "count": 1
+          },
+          {
+            "doc_id": "CV166",
+            "count": 1
+          },
+          {
+            "doc_id": "CV6",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "678145",
         "pleiades_uri": "https://pleiades.stoa.org/places/678145",
         "pleiades_title": "Galilaea",
@@ -85,6 +137,12 @@
       "properties": {
         "label": "Ikonion",
         "count": 1,
+        "mentions": [
+          {
+            "doc_id": "CV150",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "648647",
         "pleiades_uri": "https://pleiades.stoa.org/places/648647",
         "pleiades_title": "Iconium/Claudiconium",
@@ -103,6 +161,12 @@
       "properties": {
         "label": "Illyrien",
         "count": 1,
+        "mentions": [
+          {
+            "doc_id": "CV150",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "481865",
         "pleiades_uri": "https://pleiades.stoa.org/places/481865",
         "pleiades_title": "Illyricum",
@@ -121,6 +185,44 @@
       "properties": {
         "label": "Jerusalem",
         "count": 17,
+        "mentions": [
+          {
+            "doc_id": "CPal36",
+            "count": 4
+          },
+          {
+            "doc_id": "CV1",
+            "count": 2
+          },
+          {
+            "doc_id": "CV149",
+            "count": 1
+          },
+          {
+            "doc_id": "CV150",
+            "count": 4
+          },
+          {
+            "doc_id": "CV166",
+            "count": 2
+          },
+          {
+            "doc_id": "CV19",
+            "count": 1
+          },
+          {
+            "doc_id": "CV7",
+            "count": 1
+          },
+          {
+            "doc_id": "CVer5",
+            "count": 1
+          },
+          {
+            "doc_id": "CVer6",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "687928",
         "pleiades_uri": "https://pleiades.stoa.org/places/687928",
         "pleiades_title": "Ierusalem/Hierosolyma/Col. Aelia Capitolina",
@@ -139,6 +241,20 @@
       "properties": {
         "label": "Jordan",
         "count": 4,
+        "mentions": [
+          {
+            "doc_id": "CV149",
+            "count": 1
+          },
+          {
+            "doc_id": "CV150",
+            "count": 2
+          },
+          {
+            "doc_id": "CV166",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "687932",
         "pleiades_uri": "https://pleiades.stoa.org/places/687932",
         "pleiades_title": "Iordanes (river)",
@@ -157,6 +273,12 @@
       "properties": {
         "label": "Karthago",
         "count": 3,
+        "mentions": [
+          {
+            "doc_id": "CPal36",
+            "count": 3
+          }
+        ],
         "pleiades_place_id": "314921",
         "pleiades_uri": "https://pleiades.stoa.org/places/314921",
         "pleiades_title": "Carthago",
@@ -175,6 +297,64 @@
       "properties": {
         "label": "Konstantinopel",
         "count": 26,
+        "mentions": [
+          {
+            "doc_id": "CPal36",
+            "count": 5
+          },
+          {
+            "doc_id": "CV13",
+            "count": 1
+          },
+          {
+            "doc_id": "CV144",
+            "count": 4
+          },
+          {
+            "doc_id": "CV145",
+            "count": 2
+          },
+          {
+            "doc_id": "CV150",
+            "count": 1
+          },
+          {
+            "doc_id": "CV17",
+            "count": 2
+          },
+          {
+            "doc_id": "CV18",
+            "count": 1
+          },
+          {
+            "doc_id": "CV19",
+            "count": 1
+          },
+          {
+            "doc_id": "CV24",
+            "count": 2
+          },
+          {
+            "doc_id": "CV25",
+            "count": 1
+          },
+          {
+            "doc_id": "CVer1",
+            "count": 1
+          },
+          {
+            "doc_id": "CVer2",
+            "count": 2
+          },
+          {
+            "doc_id": "CVer5",
+            "count": 2
+          },
+          {
+            "doc_id": "CVer6",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "520998",
         "pleiades_uri": "https://pleiades.stoa.org/places/520998",
         "pleiades_title": "Constantinopolis",
@@ -193,6 +373,20 @@
       "properties": {
         "label": "Korinth",
         "count": 3,
+        "mentions": [
+          {
+            "doc_id": "CPal21",
+            "count": 1
+          },
+          {
+            "doc_id": "CV150",
+            "count": 1
+          },
+          {
+            "doc_id": "CV166",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "570182",
         "pleiades_uri": "https://pleiades.stoa.org/places/570182",
         "pleiades_title": "Corinthus/Korinthos",
@@ -211,6 +405,12 @@
       "properties": {
         "label": "Kyros",
         "count": 1,
+        "mentions": [
+          {
+            "doc_id": "CV166",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "884173",
         "pleiades_uri": "https://pleiades.stoa.org/places/884173",
         "pleiades_title": "Kyros (river)",
@@ -229,6 +429,12 @@
       "properties": {
         "label": "Kyzikos",
         "count": 1,
+        "mentions": [
+          {
+            "doc_id": "CV19",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "511218",
         "pleiades_uri": "https://pleiades.stoa.org/places/511218",
         "pleiades_title": "Cyzicus",
@@ -247,6 +453,28 @@
       "properties": {
         "label": "Nazareth",
         "count": 8,
+        "mentions": [
+          {
+            "doc_id": "CV1",
+            "count": 1
+          },
+          {
+            "doc_id": "CV149",
+            "count": 1
+          },
+          {
+            "doc_id": "CV150",
+            "count": 1
+          },
+          {
+            "doc_id": "CV166",
+            "count": 3
+          },
+          {
+            "doc_id": "CV7",
+            "count": 2
+          }
+        ],
         "pleiades_place_id": "678299",
         "pleiades_uri": "https://pleiades.stoa.org/places/678299",
         "pleiades_title": "Nazareth",
@@ -265,6 +493,12 @@
       "properties": {
         "label": "Pontus",
         "count": 1,
+        "mentions": [
+          {
+            "doc_id": "CV150",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "857287",
         "pleiades_uri": "https://pleiades.stoa.org/places/857287",
         "pleiades_title": "Pontus",
@@ -283,6 +517,12 @@
       "properties": {
         "label": "Philippi",
         "count": 1,
+        "mentions": [
+          {
+            "doc_id": "CVer6",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "501482",
         "pleiades_uri": "https://pleiades.stoa.org/places/501482",
         "pleiades_title": "Krenides/Philippi/Col. Augusta Iulia Philippensis",
@@ -301,6 +541,24 @@
       "properties": {
         "label": "Samosata",
         "count": 4,
+        "mentions": [
+          {
+            "doc_id": "CV143",
+            "count": 1
+          },
+          {
+            "doc_id": "CV18",
+            "count": 1
+          },
+          {
+            "doc_id": "CVer2",
+            "count": 1
+          },
+          {
+            "doc_id": "CVer5",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "658587",
         "pleiades_uri": "https://pleiades.stoa.org/places/658587",
         "pleiades_title": "Samosata",
@@ -319,6 +577,20 @@
       "properties": {
         "label": "Thessaloniki",
         "count": 4,
+        "mentions": [
+          {
+            "doc_id": "CPal36",
+            "count": 2
+          },
+          {
+            "doc_id": "CV13",
+            "count": 1
+          },
+          {
+            "doc_id": "CVer6",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "491741",
         "pleiades_uri": "https://pleiades.stoa.org/places/491741",
         "pleiades_title": "Thessalonica",
@@ -337,6 +609,24 @@
       "properties": {
         "label": "Zion",
         "count": 4,
+        "mentions": [
+          {
+            "doc_id": "CV1",
+            "count": 1
+          },
+          {
+            "doc_id": "CV149",
+            "count": 1
+          },
+          {
+            "doc_id": "CV150",
+            "count": 1
+          },
+          {
+            "doc_id": "CV166",
+            "count": 1
+          }
+        ],
         "pleiades_place_id": "109347",
         "pleiades_uri": "https://pleiades.stoa.org/places/109347",
         "pleiades_title": "Sion",
