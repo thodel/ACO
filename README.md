@@ -43,6 +43,44 @@ The site is deployed via GitHub Actions (static adapter + `BASE_PATH` for GitHub
 ---
 
 
+## Semantic search (local)
+The semantic search UI (`/visualization/suche`) calls a local `/api/search` endpoint backed by BGE‑M3
+embeddings. This API is **not** deployed on GitHub Pages, so search only works locally.
+
+### What it uses
+- Corpus: `data_processing/output/corpus.jsonl`
+- Embeddings: `data_processing/output/search_index_bge_m3/{docs.jsonl,doc_embeddings.jsonl,index_meta.json}`
+- Model: `BAAI/bge-m3` (local cache or downloaded from Hugging Face)
+- Server: `data_processing/visualization/search_server.py` (serves `/api/search`)
+
+### Build the corpus (if missing)
+1. Update input paths in `data_processing/scripts/extract_corpus.py` (`INPUT_DIR`, `INDEX_FILE`).
+2. Run:
+   ```bash
+   python3 data_processing/scripts/extract_corpus.py
+   ```
+
+### Create embeddings
+Install Python deps (at minimum `torch` and `transformers`; `sentencepiece` may be required depending on the tokenizer).
+
+Then run:
+```bash
+python3 data_processing/scripts/build_search_index_bge_m3.py --model-path /path/to/BAAI/bge-m3
+```
+If you omit `--model-path`, the script will try to download the model from Hugging Face.
+
+### Run the local search API
+```bash
+python3 data_processing/visualization/search_server.py
+```
+This starts `http://localhost:8000` and exposes `/api/search`.
+
+### Use the UI locally
+- Embedded Svelte page: it expects `/api/search` on the **same origin**. To use it, run the
+  search server and proxy `/api/search` to `http://localhost:8000` in your dev setup.
+- Legacy static page (no proxy needed): `http://localhost:8000/visualization/search.html`
+
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).

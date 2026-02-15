@@ -83,6 +83,18 @@
 				</h3>
 				<Accordion.ItemContent>
 					<div class="prose text-xl">
+						{#if entry.gndUrl || entry.wikidataUrl}
+							<div class="norm-links">
+								{#if entry.gndUrl}
+									<a href={entry.gndUrl} target="_blank" rel="noopener noreferrer">GND</a>
+								{/if}
+								{#if entry.wikidataUrl}
+									<a href={entry.wikidataUrl} target="_blank" rel="noopener noreferrer"
+										>Wikidata</a
+									>
+								{/if}
+							</div>
+						{/if}
 						{#if showBio && getBio(entry.label)}
 							<p class="mb-4 text-base! leading-relaxed">{getBio(entry.label)}</p>
 						{/if}
@@ -167,6 +179,12 @@
 	}
 	.register :global([data-type='register-unit']) {
 		@apply text-surface-950-50 ml-2;
+	}
+	.register :global(.norm-links) {
+		@apply mb-3 flex gap-3 text-base;
+	}
+	.register :global(.norm-links a) {
+		@apply text-surface-950-50 inline-flex items-center rounded-md border border-surface-200-800 px-2 py-1 text-sm;
 	}
 	.innerShadow {
 		@apply shadow-[inset_0_4px_6px_-1px_rgba(0,0,0,0.1),inset_0_2px_4px_-1px_rgba(0,0,0,0.06)];
