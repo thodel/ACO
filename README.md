@@ -65,7 +65,7 @@ Install Python deps (at minimum `torch` and `transformers`; `sentencepiece` may 
 
 Then run:
 ```bash
-python3 data_processing/scripts/build_search_index_bge_m3.py --model-path /path/to/BAAI/bge-m3
+python3 data_processing/scripts/build_search_index_bge_m3.py --model-path /Users/TH_1/Documents/Repo/ACO/data_processing/models/bge-m3
 ```
 If you omit `--model-path`, the script will try to download the model from Hugging Face.
 
